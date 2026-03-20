@@ -1,0 +1,302 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+    <title>Kitsap Transit - Live Departures</title>
+    <style>
+        * { box-sizing: border-box; margin: 0; padding: 0; font-family: 'Helvetica Neue', Arial, sans-serif; }
+        body { background-color: #f4f7f6; color: #2c3e50; display: flex; flex-direction: column; height: 100vh; overflow: hidden; position: relative; transition: background 1s, color 1s; }
+
+        /* Header */
+        .header { display: flex; justify-content: space-between; align-items: center; padding: 15px 40px; background: white; border-bottom: 6px solid #0070c0; height: 100px; flex-shrink: 0; }
+        .header img { height: 70px; width: 300px; object-fit: contain; }
+        .header-right { display: flex; align-items: center; gap: 30px; }
+        .clock { font-size: 3.5rem; font-weight: 900; color: #0070c0; }
+
+        /* Alert Ticker */
+        .ticker-wrap { background: #c0392b; color: white; height: 50px; font-size: 1.6rem; overflow: hidden; display: none; align-items: center; flex-shrink: 0; }
+        .ticker { display: inline-block; padding-left: 100%; animation: ticker 150s linear infinite; white-space: nowrap; font-weight: bold; }
+        @keyframes ticker { 0% { transform: translate(0, 0); } 100% { transform: translate(-100%, 0); } }
+
+        /* Main Layout */
+        .board-container { display: flex; flex: 1; padding: 25px; gap: 25px; overflow: hidden; }
+        .panel { background: white; border-radius: 12px; box-shadow: 0 8px 20px rgba(0,0,0,0.08); padding: 20px 25px; display: flex; flex-direction: column; overflow: hidden; }
+
+        #bus-panel { flex: 0 0 65%; }
+        .right-column { flex: 1; display: flex; flex-direction: column; gap: 25px; overflow: hidden; }
+        #ferry-panel { flex: 0 0 auto; }
+        #forecast-panel { flex: 1; display: flex; flex-direction: column; background: white; border-radius: 12px; padding: 20px; justify-content: center; }
+
+        .panel-header { display: flex; justify-content: space-between; align-items: flex-end; border-bottom: 3px solid #e0e0e0; margin-bottom: 10px; padding-bottom: 5px; }
+        .panel-title { font-size: 2.2rem; font-weight: 900; color: #0070c0; text-transform: uppercase; }
+        .page-indicator { font-size: 1.2rem; color: #95a5a6; display: none; font-weight: bold; }
+
+        /* Table Layout & Alignment Fixes */
+        table { width: 100%; border-collapse: collapse; table-layout: fixed; }
+        th { text-align: left; font-size: 1.1rem; color: #7f8c8d; text-transform: uppercase; padding-bottom: 5px; border-bottom: 2px solid #ecf0f1; }
+        td { padding: 16px 5px; border-bottom: 1px solid #ecf0f1; vertical-align: middle; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }
+
+        /* Ensure the right column always lines up perfectly */
+        th.time-col, td.time-col { text-align: right; padding-right: 10px; }
+
+        .route-badge { display: inline-block; padding: 6px; border-radius: 8px; min-width: 85px; text-align: center; font-size: 2.2rem; font-weight: 900; }
+
+        /* Typography Polish */
+        .dest-main { font-size: 2.0rem; font-weight: 900; color: #2c3e50; letter-spacing: -0.5px; }
+        .dest-via { font-size: 1.1rem; font-weight: bold; color: #7f8c8d; margin-top: 3px; }
+
+        .eta-time { font-size: 2.3rem; font-weight: 900; color: #0070c0; }
+        .eta-boarding { background: #27ae60; color: white; padding: 6px 14px; border-radius: 6px; font-size: 1.9rem; font-weight: 900; animation: pulse 1.5s infinite; display: inline-block; letter-spacing: 1px;}
+        .status-completed { color: #95a5a6; font-size: 1.6rem; font-weight: bold; text-transform: uppercase; }
+
+        /* The Need Help Widget */
+        .help-widget {
+            background-color: #f8fbfb;
+            border: 3px dashed #bdc3c7;
+            border-radius: 10px;
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+            align-items: center;
+            text-align: center;
+            padding: 20px;
+            color: #34495e;
+            font-size: 1.6rem;
+        }
+        .help-widget strong { color: #0070c0; font-size: 1.8rem; margin-bottom: 5px; display: block;}
+        .help-phone { font-size: 2.8rem; font-weight: 900; color: #e46c0a; margin-top: 10px; }
+
+        .progress-container { position: absolute; bottom: 0; width: 100%; height: 10px; background: #ecf0f1; display: none; }
+        .progress-bar { height: 100%; width: 0%; background: #e46c0a; }
+        .progress-bar.animate { animation: fill 15s linear forwards; }
+        @keyframes fill { 0% { width: 0%; } 100% { width: 100%; } }
+        @keyframes pulse { 0%, 100% { transform: scale(1); } 50% { transform: scale(1.05); } }
+
+        /* Mobile Fixes */
+        @media (max-width: 768px) {
+            .header { height: auto; padding: 10px; flex-direction: column; }
+            .header img { width: 180px; margin-bottom: 5px; }
+            .header-right { width: 100%; justify-content: space-between; }
+            .clock, .w-temp { font-size: 1.6rem; }
+            .ticker { animation-duration: 45s; font-size: 1.1rem; }
+            .board-container { flex-direction: column; padding: 10px; }
+            #bus-panel { flex: none; }
+            .panel { padding: 10px; }
+
+            /* Override hard widths on mobile so text can breathe */
+            th.route-col, td.route-col { width: 70px !important; }
+            th.dest-col, td.dest-col { width: auto !important; }
+            th.time-col, td.time-col { width: 110px !important; padding-right: 5px; }
+
+            .route-badge { min-width: 60px; font-size: 1.3rem; }
+            .dest-main { font-size: 1.2rem; letter-spacing: 0; }
+            .dest-via { font-size: 0.85rem; }
+            .eta-time { font-size: 1.3rem; }
+            .eta-boarding { font-size: 1rem; padding: 4px 8px; }
+            .progress-container { display: none !important; }
+            #forecast-panel { padding: 15px 10px; }
+            .help-widget { font-size: 1.1rem; padding: 15px; }
+            .help-widget strong { font-size: 1.3rem; }
+            .help-phone { font-size: 1.8rem; margin-top: 5px; }
+        }
+    </style>
+</head>
+<body>
+    <div class="header" id="main-header">
+        <img src="https://www.kitsaptransit.com/graphics/kitsap-transit.jpg" alt="Logo">
+        <div class="header-right">
+            <div id="weather-current" style="display:flex; align-items:center; gap:10px;"></div>
+            <div class="clock" id="clock">--:--</div>
+        </div>
+    </div>
+
+    <div class="ticker-wrap" id="t-wrap"><div class="ticker" id="t-text"></div></div>
+
+    <div class="board-container">
+        <!-- BUSES -->
+        <div class="panel" id="bus-panel">
+            <div class="panel-header">
+                <div class="panel-title">Bus Departures</div>
+                <div class="page-indicator" id="bus-page"></div>
+            </div>
+            <table>
+                <thead>
+                    <tr>
+                        <th class="route-col" style="width:16%">Route</th>
+                        <th class="dest-col" style="width:52%">Destination</th>
+                        <th class="time-col" style="width:32%">ETA</th>
+                    </tr>
+                </thead>
+                <tbody id="bus-body"></tbody>
+            </table>
+        </div>
+
+        <!-- RIGHT COLUMN -->
+        <div class="right-column">
+            <!-- FERRIES -->
+            <div class="panel" id="ferry-panel">
+                <div class="panel-header">
+                    <div class="panel-title">Ferries</div>
+                    <div class="page-indicator" id="ferry-page"></div>
+                </div>
+                <table>
+                    <thead>
+                        <tr>
+                            <th class="route-col" style="width:22%">Route</th>
+                            <th class="dest-col" style="width:43%">To</th>
+                            <th class="time-col" style="width:35%">Time</th>
+                        </tr>
+                    </thead>
+                    <tbody id="ferry-body"></tbody>
+                </table>
+            </div>
+
+            <!-- FORECAST -->
+            <div id="forecast-panel">
+                <div style="font-size:1.1rem; font-weight:900; color:#7f8c8d; border-bottom:2px solid #eee; margin-bottom:15px; text-transform:uppercase;">5-Day Forecast</div>
+                <div id="forecast-days" style="display:flex; justify-content:space-between; text-align:center; flex: 1; align-items: center;"></div>
+            </div>
+        </div>
+    </div>
+
+    <div class="progress-container" id="p-cont"><div class="progress-bar" id="p-bar"></div></div>
+
+    <script>
+        let allBuses = [], allFerries = [];
+        let busIdx = 0, ferryIdx = 0;
+        const ROWS = 6;
+
+        function applyProtection() {
+            const hour = new Date().getHours();
+            const isNight = hour >= 21 || hour < 5;
+            document.body.style.background = isNight ? "#0a0a0c" : "#f4f7f6";
+            document.body.style.filter = isNight ? "brightness(0.7)" : "none";
+            if(isNight) {
+                const x = Math.random()*4-2, y = Math.random()*4-2;
+                document.body.style.transform = `translate(${x}px, ${y}px)`;
+            } else {
+                document.body.style.transform = "none";
+            }
+        }
+
+        function triggerProgressBar() {
+            const bar = document.getElementById('p-bar');
+            if(bar) {
+                bar.classList.remove('animate');
+                void bar.offsetWidth;
+                bar.classList.add('animate');
+            }
+        }
+
+        async function fetchData() {
+            try {
+                const r = await fetch('/api/data');
+                const d = await r.json();
+
+                if(d.weather && d.weather.current.icon) {
+                    document.getElementById('weather-current').innerHTML = `<div style="text-align:right"><div class="w-temp" style="font-size:2rem; font-weight:900">${d.weather.current.temp}</div></div><img src="${d.weather.current.icon}" style="height:50px">`;
+                }
+                if(d.weather && d.weather.forecast) {
+                    document.getElementById('forecast-days').innerHTML = d.weather.forecast.map(f => `<div style="flex:1"><b>${f.day}</b><br><img src="${f.icon}" style="height:80px; margin: 5px 0;"><br><span style="color:#e74c3c; font-weight:bold;">${f.high}</span></div>`).join('');
+                }
+
+                const validAlerts = (d.alerts || []).filter(a => a.trim().length > 0);
+                const tWrap = document.getElementById('t-wrap');
+                if(validAlerts.length > 0) {
+                    tWrap.style.display = 'flex';
+                    document.getElementById('t-text').innerText = "⚠️ " + validAlerts.join("    |    ⚠️ ") + "    |    ";
+                } else {
+                    tWrap.style.display = 'none';
+                }
+
+                allBuses = d.buses || [];
+                allFerries = d.ferries || [];
+
+                const maxBus = Math.max(1, Math.ceil(allBuses.length / ROWS));
+                const maxFerry = Math.max(1, Math.ceil(allFerries.length / ROWS));
+                if (busIdx >= maxBus) busIdx = 0;
+                if (ferryIdx >= maxFerry) ferryIdx = 0;
+
+                render();
+            } catch(e) { console.error("Data Fetch Error:", e); }
+        }
+
+        function render() {
+            updateTable('bus-body', 'bus-page', allBuses, busIdx, false);
+            updateTable('ferry-body', 'ferry-page', allFerries, ferryIdx, true);
+
+            const isMobile = window.innerWidth <= 768;
+            const needsPaging = allBuses.length > ROWS || allFerries.length > ROWS;
+            document.getElementById('p-cont').style.display = (!isMobile && needsPaging) ? 'block' : 'none';
+        }
+
+        function updateTable(tid, pid, items, idx, isFerry) {
+            const body = document.getElementById(tid);
+            const pInd = document.getElementById(pid);
+            body.innerHTML = "";
+
+            if(!items.length) {
+                let emptyMsg = isFerry ? "No More Sailings" : "Service Resumes Tomorrow";
+                body.innerHTML = `<tr><td colspan="3" style="text-align:center; padding-top:60px; font-size:1.6rem; color:#95a5a6; font-weight:bold; border:none;">${emptyMsg}</td></tr>`;
+                pInd.style.display = 'none';
+                return;
+            }
+
+            const total = Math.ceil(items.length / ROWS);
+            pInd.style.display = total > 1 ? 'block' : 'none';
+            pInd.innerText = `Page ${idx+1} of ${total}`;
+
+            const pageItems = items.slice(idx * ROWS, (idx + 1) * ROWS);
+
+            pageItems.forEach(i => {
+                let timeHtml = (i.status === "COMPLETED") ? `<span class="status-completed">Finished</span>` :
+                               (i.eta === "BOARDING" || i.eta_seconds <= 90) ? `<span class="eta-boarding">BOARDING</span>` :
+                               `<span class="eta-time">${isFerry ? i.time_str : i.eta}</span>`;
+                body.innerHTML += `<tr>
+                    <td class="route-col"><span class="route-badge" style="background:${i.color}; color:${i.text_color}">${i.route}</span></td>
+                    <td class="dest-col"><div class="dest-main">${i.destination}</div><div class="dest-via">${i.via || ''}</div></td>
+                    <td class="time-col">${timeHtml}</td>
+                </tr>`;
+            });
+
+            const emptyRows = ROWS - pageItems.length;
+            if (!isFerry && emptyRows > 0 && items.length > 0) {
+                const widgetHeight = emptyRows * 75;
+                body.innerHTML += `
+                    <tr>
+                        <td colspan="3" style="height: ${widgetHeight}px; padding: 15px 5px; border-bottom: none;">
+                            <div class="help-widget" style="height: 100%;">
+                                <strong>Need Help?</strong>
+                                <div>Lost & Found or Route Questions? Call Customer Service:</div>
+                                <div class="help-phone">1-800-501-7433</div>
+                            </div>
+                        </td>
+                    </tr>
+                `;
+            }
+        }
+
+        function rotate() {
+            const maxBus = Math.ceil(allBuses.length / ROWS);
+            const maxFerry = Math.ceil(allFerries.length / ROWS);
+
+            if(maxBus > 1) busIdx = (busIdx + 1) % maxBus;
+            if(maxFerry > 1) ferryIdx = (ferryIdx + 1) % maxFerry;
+
+            render();
+            applyProtection();
+            triggerProgressBar();
+        }
+
+        setInterval(() => { document.getElementById('clock').innerText = new Date().toLocaleTimeString([], {hour:'2-digit', minute:'2-digit'}); }, 1000);
+
+        fetchData().then(() => {
+            triggerProgressBar();
+            setInterval(fetchData, 15000);
+            setInterval(rotate, 15000);
+        });
+    </script>
+</body>
+</html>
