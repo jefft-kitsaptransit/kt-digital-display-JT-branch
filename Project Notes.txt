@@ -1,0 +1,19 @@
+Beta test web dashboard currently lives at http://3.128.214.56:5000/
+this site is locked down and only viewable from the KT Harborside network. 
+
+Project Layout: 
+
+App.py: the main python script that grabs KT gtfs real time feed. Also process static gtfs files as fall back. 
+
+->templates->index.html: Front end that displays all the data. 
+
+->static->: contains Kitsap Transit gtfs files. 
+
+Improvements to be made:
+Read gtfs-rt feed or when a trip is cancelled and show it as cancelled on the dashboard. Then show the next trip for that route. 
+Very subtle pixel shifting to reduce any potential screen burn in. End of day routine have staff turn off display or set website to show in dark mode to reduce impact on screen life. 
+Include World Cup scores?
+
+
+Current Limitations:
+Program is currently written to read static gtfs files from the directory. If we make a change to our static gtfs file (time changes etc) it will currently not be reflected unless we manually updated the gtfs files on whichever server this dashboard is running from. We could improve it by checking the online location of our static gtfs feed daily at midnight and if files have been updated automatically update the copies on the server. 
