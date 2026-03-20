@@ -1,0 +1,3127 @@
+trip_id,route_id,service_id,trip_headsign,trip_short_name,direction_id,block_id,shape_id,wheelchair_accessible,bikes_allowed
+1005020,104,3,"Old Clifton",,1,PO1,shp-104-51,0,0
+1201090,104,5,"Old Clifton",,1,PO2H,shp-104-51,0,0
+1323090,104,5,"Old Clifton",,1,PO3H,shp-104-51,0,0
+1358070,104,4,"Old Clifton",,1,PO2SA,shp-104-51,0,0
+1340080,104,1,"Old Clifton",,1,PO3SA,shp-104-51,0,0
+1340070,104,4,"Old Clifton",,1,PO3SA,shp-104-51,0,0
+1332020,104,3,"Old Clifton",,1,PO1,shp-104-51,0,0
+1358080,104,1,"Old Clifton",,1,PO2SA,shp-104-51,0,0
+1377020,104,3,"Old Clifton",,1,PO2,shp-104-51,0,0
+1636020,104,3,"Old Clifton",,1,PO3AM,shp-104-51,0,0
+1441090,104,5,"Old Clifton",,1,PO3H,shp-104-51,0,0
+1594090,104,5,"Old Clifton",,1,PO3H,shp-104-51,0,0
+1777090,104,5,"Old Clifton",,1,PO1H,shp-104-51,0,0
+2369070,104,4,"Old Clifton",,1,PO2SA,shp-104-51,0,0
+2023080,104,1,"Old Clifton",,1,PO3SA,shp-104-51,0,0
+2558020,104,3,"Old Clifton",,1,PO3AM,shp-104-51,0,0
+281090,104,5,"Old Clifton",,1,PO2H,shp-104-51,0,0
+1704020,104,3,"Old Clifton",,1,PO2,shp-104-51,0,0
+2023070,104,4,"Old Clifton",,1,PO3SA,shp-104-51,0,0
+206090,104,5,"Old Clifton",,1,PO3H,shp-104-51,0,0
+2148090,104,5,"Old Clifton",,1,PO1H,shp-104-51,0,0
+1944020,104,3,"Old Clifton",,1,PO2,shp-104-51,0,0
+2259020,104,3,"Old Clifton",,1,PO2,shp-104-51,0,0
+2281070,104,4,"Old Clifton",,1,PO1SA,shp-104-51,0,0
+2369080,104,1,"Old Clifton",,1,PO2SA,shp-104-51,0,0
+2385090,104,5,"Old Clifton",,1,PO2H,shp-104-51,0,0
+2078020,104,3,"Old Clifton",,1,PO1,shp-104-51,0,0
+2510020,104,3,"Old Clifton",,1,PO3AM,shp-104-51,0,0
+880080,104,1,"Old Clifton",,1,PO2SA,shp-104-51,0,0
+2537090,104,5,"Old Clifton",,1,PO1H,shp-104-51,0,0
+2281080,104,1,"Old Clifton",,1,PO1SA,shp-104-51,0,0
+532020,104,3,"Old Clifton",,1,PO1,shp-104-51,0,0
+667070,104,4,"Old Clifton",,1,PO3SA,shp-104-51,0,0
+667080,104,1,"Old Clifton",,1,PO3SA,shp-104-51,0,0
+2589020,104,3,"Old Clifton",,1,PO1,shp-104-51,0,0
+523020,104,3,"Old Clifton",,1,PO2,shp-104-51,0,0
+542080,104,1,"Old Clifton",,1,PO1SA,shp-104-51,0,0
+880070,104,4,"Old Clifton",,1,PO2SA,shp-104-51,0,0
+391080,104,1,"Old Clifton",,1,PO1SA,shp-104-51,0,0
+542070,104,4,"Old Clifton",,1,PO1SA,shp-104-51,0,0
+391070,104,4,"Old Clifton",,1,PO1SA,shp-104-51,0,0
+468090,104,5,"Old Clifton",,1,PO1H,shp-104-51,0,0
+689020,104,3,"Old Clifton",,1,PO1,shp-104-51,0,0
+665020,104,3,"Port Orchard Ferry",,0,PO1,shp-104-01,0,0
+837090,104,5,"Port Orchard Ferry",,0,PO3H,shp-104-01,0,0
+920020,104,3,"Port Orchard Ferry",,0,PO1,shp-104-01,0,0
+861070,104,4,"Port Orchard Ferry",,0,PO1SA,shp-104-01,0,0
+377020,104,3,"Port Orchard Ferry",,0,PO1,shp-104-01,0,0
+415020,104,3,"Port Orchard Ferry",,0,PO2,shp-104-01,0,0
+506020,104,3,"Port Orchard Ferry",,0,PO1,shp-104-01,0,0
+885090,104,5,"Port Orchard Ferry",,0,PO1H,shp-104-01,0,0
+861080,104,1,"Port Orchard Ferry",,0,PO1SA,shp-104-01,0,0
+606020,104,3,"Port Orchard Ferry",,0,PO3AM,shp-104-01,0,0
+2240090,104,5,"Port Orchard Ferry",,0,PO2H,shp-104-01,0,0
+2307080,104,1,"Port Orchard Ferry",,0,PO3SA,shp-104-01,0,0
+2055080,104,1,"Port Orchard Ferry",,0,PO2SA,shp-104-01,0,0
+2104080,104,1,"Port Orchard Ferry",,0,PO2SA,shp-104-01,0,0
+197070,104,4,"Port Orchard Ferry",,0,PO2SA,shp-104-01,0,0
+2415020,104,3,"Port Orchard Ferry",,0,PO3AM,shp-104-01,0,0
+2494020,104,3,"Port Orchard Ferry",,0,PO2,shp-104-01,0,0
+1904070,104,4,"Port Orchard Ferry",,0,PO1SA,shp-104-01,0,0
+1904080,104,1,"Port Orchard Ferry",,0,PO1SA,shp-104-01,0,0
+2307070,104,4,"Port Orchard Ferry",,0,PO3SA,shp-104-01,0,0
+197080,104,1,"Port Orchard Ferry",,0,PO2SA,shp-104-01,0,0
+1926090,104,5,"Port Orchard Ferry",,0,PO2H,shp-104-01,0,0
+582020,104,3,"Port Orchard Ferry",,0,PO2,shp-104-01,0,0
+511090,104,5,"Port Orchard Ferry",,0,PO1H,shp-104-01,0,0
+182020,104,3,"Port Orchard Ferry",,0,PO1,shp-104-01,0,0
+1927090,104,5,"Port Orchard Ferry",,0,PO3H,shp-104-01,0,0
+1986090,104,5,"Port Orchard Ferry",,0,PO3H,shp-104-01,0,0
+465090,104,5,"Port Orchard Ferry",,0,PO1H,shp-104-01,0,0
+2055070,104,4,"Port Orchard Ferry",,0,PO2SA,shp-104-01,0,0
+1726070,104,4,"Port Orchard Ferry",,0,PO1SA,shp-104-01,0,0
+2285020,104,3,"Port Orchard Ferry",,0,PO2,shp-104-01,0,0
+1493090,104,5,"Port Orchard Ferry",,0,PO1H,shp-104-01,0,0
+1422090,104,5,"Port Orchard Ferry",,0,PO3H,shp-104-01,0,0
+2104070,104,4,"Port Orchard Ferry",,0,PO2SA,shp-104-01,0,0
+1726080,104,1,"Port Orchard Ferry",,0,PO1SA,shp-104-01,0,0
+1964020,104,3,"Port Orchard Ferry",,0,PO2,shp-104-01,0,0
+1393080,104,1,"Port Orchard Ferry",,0,PO3SA,shp-104-01,0,0
+1410090,104,5,"Port Orchard Ferry",,0,PO2H,shp-104-01,0,0
+1625080,104,1,"Port Orchard Ferry",,0,PO3SA,shp-104-01,0,0
+1393070,104,4,"Port Orchard Ferry",,0,PO3SA,shp-104-01,0,0
+1625070,104,4,"Port Orchard Ferry",,0,PO3SA,shp-104-01,0,0
+1133020,104,3,"Port Orchard Ferry",,0,PO3AM,shp-104-01,0,0
+1011020,104,3,"Port Orchard Ferry",,0,PO1,shp-104-01,0,0
+1083080,105,1,"Port Orchard Ferry",,0,PO1SA,shp-105-01,0,0
+1029090,105,5,"Port Orchard Ferry",,0,PO2H,shp-105-01,0,0
+1025080,105,1,"Port Orchard Ferry",,0,PO3SA,shp-105-01,0,0
+1083070,105,4,"Port Orchard Ferry",,0,PO1SA,shp-105-01,0,0
+1124020,105,3,"Port Orchard Ferry",,0,PO1,shp-105-01,0,0
+1130090,105,5,"Port Orchard Ferry",,0,PO3H,shp-105-01,0,0
+1159090,105,5,"Port Orchard Ferry",,0,PO1H,shp-105-01,0,0
+1025070,105,4,"Port Orchard Ferry",,0,PO3SA,shp-105-01,0,0
+1305020,105,3,"Port Orchard Ferry",,0,PO1,shp-105-01,0,0
+1321080,105,1,"Port Orchard Ferry",,0,PO2SA,shp-105-01,0,0
+1306090,105,5,"Port Orchard Ferry",,0,PO1H,shp-105-01,0,0
+1443080,105,1,"Port Orchard Ferry",,0,PO3SA,shp-105-01,0,0
+1345090,105,5,"Port Orchard Ferry",,0,PO1H,shp-105-01,0,0
+1218020,105,3,"Port Orchard Ferry",,0,PO1,shp-105-01,0,0
+1443070,105,4,"Port Orchard Ferry",,0,PO3SA,shp-105-01,0,0
+1478070,105,4,"Port Orchard Ferry",,0,PO3SA,shp-105-01,0,0
+1478080,105,1,"Port Orchard Ferry",,0,PO3SA,shp-105-01,0,0
+1762020,105,3,"Port Orchard Ferry",,0,PO1,shp-105-01,0,0
+1315020,105,3,"Port Orchard Ferry",,0,PO3AM,shp-105-01,0,0
+1321070,105,4,"Port Orchard Ferry",,0,PO2SA,shp-105-01,0,0
+1455080,105,1,"Port Orchard Ferry",,0,PO1SA,shp-105-01,0,0
+1455070,105,4,"Port Orchard Ferry",,0,PO1SA,shp-105-01,0,0
+2315020,105,3,"Port Orchard Ferry",,0,PO2,shp-105-01,0,0
+2360020,105,3,"Port Orchard Ferry",,0,PO2,shp-105-01,0,0
+1832020,105,3,"Port Orchard Ferry",,0,PO2,shp-105-01,0,0
+273080,105,1,"Port Orchard Ferry",,0,PO2SA,shp-105-01,0,0
+1957020,105,3,"Port Orchard Ferry",,0,PO3AM,shp-105-01,0,0
+2126090,105,5,"Port Orchard Ferry",,0,PO3H,shp-105-01,0,0
+481090,105,5,"Port Orchard Ferry",,0,PO3H,shp-105-01,0,0
+1805020,105,3,"Port Orchard Ferry",,0,PO2,shp-105-01,0,0
+2383020,105,3,"Port Orchard Ferry",,0,PO1,shp-105-01,0,0
+2637090,105,5,"Port Orchard Ferry",,0,PO2H,shp-105-01,0,0
+278090,105,5,"Port Orchard Ferry",,0,PO2H,shp-105-01,0,0
+2255020,105,3,"Port Orchard Ferry",,0,PO2,shp-105-01,0,0
+986020,105,3,"Port Orchard Ferry",,0,PO2,shp-105-01,0,0
+2528020,105,3,"Port Orchard Ferry",,0,PO1,shp-105-01,0,0
+273070,105,4,"Port Orchard Ferry",,0,PO2SA,shp-105-01,0,0
+2500070,105,4,"Port Orchard Ferry",,0,PO2SA,shp-105-01,0,0
+44090,105,5,"Port Orchard Ferry",,0,PO3H,shp-105-01,0,0
+2500080,105,1,"Port Orchard Ferry",,0,PO2SA,shp-105-01,0,0
+709020,105,3,"Port Orchard Ferry",,0,PO3AM,shp-105-01,0,0
+597080,105,1,"Port Orchard Ferry",,0,PO1SA,shp-105-01,0,0
+937090,105,5,"Port Orchard Ferry",,0,PO2H,shp-105-01,0,0
+687070,105,4,"Port Orchard Ferry",,0,PO2SA,shp-105-01,0,0
+687080,105,1,"Port Orchard Ferry",,0,PO2SA,shp-105-01,0,0
+597070,105,4,"Port Orchard Ferry",,0,PO1SA,shp-105-01,0,0
+894090,105,5,"Sedgwick & Sidney",,1,PO1H,shp-105-51,0,0
+964070,105,4,"Sedgwick & Sidney",,1,PO1SA,shp-105-51,0,0
+825070,105,4,"Sedgwick & Sidney",,1,PO1SA,shp-105-51,0,0
+364080,105,1,"Sedgwick & Sidney",,1,PO3SA,shp-105-51,0,0
+372070,105,4,"Sedgwick & Sidney",,1,PO2SA,shp-105-51,0,0
+477090,105,5,"Sedgwick & Sidney",,1,PO2H,shp-105-51,0,0
+401020,105,3,"Sedgwick & Sidney",,1,PO2,shp-105-51,0,0
+2598020,105,3,"Sedgwick & Sidney",,1,PO3AM,shp-105-51,0,0
+964080,105,1,"Sedgwick & Sidney",,1,PO1SA,shp-105-51,0,0
+348020,105,3,"Sedgwick & Sidney",,1,PO2,shp-105-51,0,0
+364070,105,4,"Sedgwick & Sidney",,1,PO3SA,shp-105-51,0,0
+343090,105,5,"Sedgwick & Sidney",,1,PO3H,shp-105-51,0,0
+2405020,105,3,"Sedgwick & Sidney",,1,PO2,shp-105-51,0,0
+2232090,105,5,"Sedgwick & Sidney",,1,PO2H,shp-105-51,0,0
+2368020,105,3,"Sedgwick & Sidney",,1,PO2,shp-105-51,0,0
+2151070,105,4,"Sedgwick & Sidney",,1,PO2SA,shp-105-51,0,0
+2361020,105,3,"Sedgwick & Sidney",,1,PO1,shp-105-51,0,0
+825080,105,1,"Sedgwick & Sidney",,1,PO1SA,shp-105-51,0,0
+2515020,105,3,"Sedgwick & Sidney",,1,PO3AM,shp-105-51,0,0
+1818090,105,5,"Sedgwick & Sidney",,1,PO3H,shp-105-51,0,0
+1779020,105,3,"Sedgwick & Sidney",,1,PO1,shp-105-51,0,0
+2151080,105,1,"Sedgwick & Sidney",,1,PO2SA,shp-105-51,0,0
+354090,105,5,"Sedgwick & Sidney",,1,PO1H,shp-105-51,0,0
+372080,105,1,"Sedgwick & Sidney",,1,PO2SA,shp-105-51,0,0
+2002070,105,4,"Sedgwick & Sidney",,1,PO3SA,shp-105-51,0,0
+1902070,105,4,"Sedgwick & Sidney",,1,PO2SA,shp-105-51,0,0
+1880070,105,4,"Sedgwick & Sidney",,1,PO3SA,shp-105-51,0,0
+1772020,105,3,"Sedgwick & Sidney",,1,PO1,shp-105-51,0,0
+1798020,105,3,"Sedgwick & Sidney",,1,PO2,shp-105-51,0,0
+1839020,105,3,"Sedgwick & Sidney",,1,PO1,shp-105-51,0,0
+2002080,105,1,"Sedgwick & Sidney",,1,PO3SA,shp-105-51,0,0
+2350090,105,5,"Sedgwick & Sidney",,1,PO3H,shp-105-51,0,0
+1725090,105,5,"Sedgwick & Sidney",,1,PO2H,shp-105-51,0,0
+2203020,105,3,"Sedgwick & Sidney",,1,PO1,shp-105-51,0,0
+1472020,105,3,"Sedgwick & Sidney",,1,PO1,shp-105-51,0,0
+1880080,105,1,"Sedgwick & Sidney",,1,PO3SA,shp-105-51,0,0
+1902080,105,1,"Sedgwick & Sidney",,1,PO2SA,shp-105-51,0,0
+1147080,105,1,"Sedgwick & Sidney",,1,PO2SA,shp-105-51,0,0
+1280090,105,5,"Sedgwick & Sidney",,1,PO3H,shp-105-51,0,0
+1608020,105,3,"Sedgwick & Sidney",,1,PO2,shp-105-51,0,0
+1270020,105,3,"Sedgwick & Sidney",,1,PO3AM,shp-105-51,0,0
+1457090,105,5,"Sedgwick & Sidney",,1,PO2H,shp-105-51,0,0
+1391090,105,5,"Sedgwick & Sidney",,1,PO1H,shp-105-51,0,0
+1505070,105,4,"Sedgwick & Sidney",,1,PO1SA,shp-105-51,0,0
+1505080,105,1,"Sedgwick & Sidney",,1,PO1SA,shp-105-51,0,0
+1147070,105,4,"Sedgwick & Sidney",,1,PO2SA,shp-105-51,0,0
+1010020,108,3,"Fred Meyer",,1,PO4,shp-108-51,0,0
+1035070,108,4,"Fred Meyer",,1,PO3SA,shp-108-51,0,0
+1046090,108,5,"Fred Meyer",,1,PO1H,shp-108-51,0,0
+1170070,108,4,"Fred Meyer",,1,PO3SA,shp-108-51,0,0
+1121020,108,3,"Fred Meyer",,1,PO4,shp-108-51,0,0
+1161080,108,1,"Fred Meyer",,1,PO1SA,shp-108-51,0,0
+1170080,108,1,"Fred Meyer",,1,PO3SA,shp-108-51,0,0
+1035080,108,1,"Fred Meyer",,1,PO3SA,shp-108-51,0,0
+1043010,108,2,"Fred Meyer",,1,PO1SU,shp-108-51,0,0
+1023020,108,3,"Fred Meyer",,1,PO3PM,shp-108-51,0,0
+1510070,108,4,"Fred Meyer",,1,PO2SA,shp-108-51,0,0
+1510080,108,1,"Fred Meyer",,1,PO2SA,shp-108-51,0,0
+1434090,108,5,"Fred Meyer",,1,PO3H,shp-108-51,0,0
+1437010,108,2,"Fred Meyer",,1,PO1SU,shp-108-51,0,0
+163010,108,2,"Fred Meyer",,1,PO1SU,shp-108-51,0,0
+1367090,108,5,"Fred Meyer",,1,PO2H,shp-108-51,0,0
+1311080,108,1,"Fred Meyer",,1,PO2SA,shp-108-51,0,0
+1387090,108,5,"Fred Meyer",,1,PO3H,shp-108-51,0,0
+113090,108,5,"Fred Meyer",,1,PO2H,shp-108-51,0,0
+1209090,108,5,"Fred Meyer",,1,PO1H,shp-108-51,0,0
+1311070,108,4,"Fred Meyer",,1,PO2SA,shp-108-51,0,0
+1304020,108,3,"Fred Meyer",,1,PO4,shp-108-51,0,0
+1149070,108,4,"Fred Meyer",,1,PO1SA,shp-108-51,0,0
+1189020,108,3,"Fred Meyer",,1,PO3PM,shp-108-51,0,0
+1588020,108,3,"Fred Meyer",,1,PO4,shp-108-51,0,0
+1149080,108,1,"Fred Meyer",,1,PO1SA,shp-108-51,0,0
+1161070,108,4,"Fred Meyer",,1,PO1SA,shp-108-51,0,0
+1686020,108,3,"Fred Meyer",,1,PO4,shp-108-51,0,0
+1727080,108,1,"Fred Meyer",,1,PO1SA,shp-108-51,0,0
+1767020,108,3,"Fred Meyer",,1,PO5,shp-108-51,0,0
+18020,108,3,"Fred Meyer",,1,PO4,shp-108-51,0,0
+1338020,108,3,"Fred Meyer",,1,PO4,shp-108-51,0,0
+1651020,108,3,"Fred Meyer",,1,PO4,shp-108-51,0,0
+1476020,108,3,"Fred Meyer",,1,PO4,shp-108-51,0,0
+2198070,108,4,"Fred Meyer",,1,PO2SA,shp-108-51,0,0
+2122010,108,2,"Fred Meyer",,1,PO1SU,shp-108-51,0,0
+2129020,108,3,"Fred Meyer",,1,PO4,shp-108-51,0,0
+1679020,108,3,"Fred Meyer",,1,PO4,shp-108-51,0,0
+179010,108,2,"Fred Meyer",,1,PO1SU,shp-108-51,0,0
+1389090,108,5,"Fred Meyer",,1,PO1H,shp-108-51,0,0
+144090,108,5,"Fred Meyer",,1,PO1H,shp-108-51,0,0
+1627090,108,5,"Fred Meyer",,1,PO3H,shp-108-51,0,0
+2337070,108,4,"Fred Meyer",,1,PO1SA,shp-108-51,0,0
+2297020,108,3,"Fred Meyer",,1,PO3PM,shp-108-51,0,0
+195010,108,2,"Fred Meyer",,1,PO1SU,shp-108-51,0,0
+2007010,108,2,"Fred Meyer",,1,PO1SU,shp-108-51,0,0
+1952090,108,5,"Fred Meyer",,1,PO3H,shp-108-51,0,0
+2080080,108,1,"Fred Meyer",,1,PO3SA,shp-108-51,0,0
+2587090,108,5,"Fred Meyer",,1,PO2H,shp-108-51,0,0
+2080070,108,4,"Fred Meyer",,1,PO3SA,shp-108-51,0,0
+2198080,108,1,"Fred Meyer",,1,PO2SA,shp-108-51,0,0
+1884010,108,2,"Fred Meyer",,1,PO1SU,shp-108-51,0,0
+1769020,108,3,"Fred Meyer",,1,PO4,shp-108-51,0,0
+406020,108,3,"Fred Meyer",,1,PO1,shp-108-51,0,0
+2176080,108,1,"Fred Meyer",,1,PO2SA,shp-108-51,0,0
+2020010,108,2,"Fred Meyer",,1,PO1SU,shp-108-51,0,0
+518020,108,3,"Fred Meyer",,1,PO5,shp-108-51,0,0
+1727070,108,4,"Fred Meyer",,1,PO1SA,shp-108-51,0,0
+1943020,108,3,"Fred Meyer",,1,PO4,shp-108-51,0,0
+2144070,108,4,"Fred Meyer",,1,PO1SA,shp-108-51,0,0
+2000090,108,5,"Fred Meyer",,1,PO3H,shp-108-51,0,0
+2144080,108,1,"Fred Meyer",,1,PO1SA,shp-108-51,0,0
+2561070,108,4,"Fred Meyer",,1,PO2SA,shp-108-51,0,0
+2561080,108,1,"Fred Meyer",,1,PO2SA,shp-108-51,0,0
+2567020,108,3,"Fred Meyer",,1,PO1,shp-108-51,0,0
+209020,108,3,"Fred Meyer",,1,PO5,shp-108-51,0,0
+756070,108,4,"Fred Meyer",,1,PO3SA,shp-108-51,0,0
+1947020,108,3,"Fred Meyer",,1,PO4,shp-108-51,0,0
+2216010,108,2,"Fred Meyer",,1,PO1SU,shp-108-51,0,0
+2431020,108,3,"Fred Meyer",,1,PO4,shp-108-51,0,0
+2433080,108,1,"Fred Meyer",,1,PO2SA,shp-108-51,0,0
+2176070,108,4,"Fred Meyer",,1,PO2SA,shp-108-51,0,0
+2280070,108,4,"Fred Meyer",,1,PO1SA,shp-108-51,0,0
+2280080,108,1,"Fred Meyer",,1,PO1SA,shp-108-51,0,0
+2202020,108,3,"Fred Meyer",,1,PO4,shp-108-51,0,0
+2337080,108,1,"Fred Meyer",,1,PO1SA,shp-108-51,0,0
+228090,108,5,"Fred Meyer",,1,PO1H,shp-108-51,0,0
+2289020,108,3,"Fred Meyer",,1,PO4,shp-108-51,0,0
+2456090,108,5,"Fred Meyer",,1,PO2H,shp-108-51,0,0
+516090,108,5,"Fred Meyer",,1,PO1H,shp-108-51,0,0
+2433070,108,4,"Fred Meyer",,1,PO2SA,shp-108-51,0,0
+2526020,108,3,"Fred Meyer",,1,PO4,shp-108-51,0,0
+792010,108,2,"Fred Meyer",,1,PO1SU,shp-108-51,0,0
+989010,108,2,"Fred Meyer",,1,PO1SU,shp-108-51,0,0
+363090,108,5,"Fred Meyer",,1,PO3H,shp-108-51,0,0
+821070,108,4,"Fred Meyer",,1,PO3SA,shp-108-51,0,0
+846020,108,3,"Fred Meyer",,1,PO5,shp-108-51,0,0
+816020,108,3,"Fred Meyer",,1,PO4,shp-108-51,0,0
+697070,108,4,"Fred Meyer",,1,PO3SA,shp-108-51,0,0
+697080,108,1,"Fred Meyer",,1,PO3SA,shp-108-51,0,0
+394090,108,5,"Fred Meyer",,1,PO1H,shp-108-51,0,0
+90090,108,5,"Fred Meyer",,1,PO3H,shp-108-51,0,0
+505010,108,2,"Fred Meyer",,1,PO1SU,shp-108-51,0,0
+550080,108,1,"Fred Meyer",,1,PO3SA,shp-108-51,0,0
+605020,108,3,"Fred Meyer",,1,PO4,shp-108-51,0,0
+519090,108,5,"Fred Meyer",,1,PO2H,shp-108-51,0,0
+821080,108,1,"Fred Meyer",,1,PO3SA,shp-108-51,0,0
+756080,108,1,"Fred Meyer",,1,PO3SA,shp-108-51,0,0
+836010,108,2,"Fred Meyer",,1,PO1SU,shp-108-51,0,0
+939020,108,3,"Fred Meyer",,1,PO4,shp-108-51,0,0
+95090,108,5,"Fred Meyer",,1,PO3H,shp-108-51,0,0
+916010,108,2,"Fred Meyer",,1,PO1SU,shp-108-51,0,0
+849090,108,5,"Fred Meyer",,1,PO2H,shp-108-51,0,0
+550070,108,4,"Fred Meyer",,1,PO3SA,shp-108-51,0,0
+42010,108,2,"Fred Meyer",,1,PO1SU,shp-108-51,0,0
+686090,108,5,"Fred Meyer",,1,PO2H,shp-108-51,0,0
+753020,108,3,"Fred Meyer",,1,PO5,shp-108-51,0,0
+759010,108,2,"Fred Meyer",,1,PO1SU,shp-108-51,0,0
+758080,108,1,"Port Orchard Ferry",,0,PO3SA,shp-108-01,0,0
+682080,108,1,"Port Orchard Ferry",,0,PO2SA,shp-108-01,0,0
+957020,108,3,"Port Orchard Ferry",,0,PO4,shp-108-01,0,0
+868090,108,5,"Port Orchard Ferry",,0,PO3H,shp-108-01,0,0
+873020,108,3,"Port Orchard Ferry",,0,PO3PM,shp-108-01,0,0
+758070,108,4,"Port Orchard Ferry",,0,PO3SA,shp-108-01,0,0
+785020,108,3,"Port Orchard Ferry",,0,PO4,shp-108-01,0,0
+566010,108,2,"Port Orchard Ferry",,0,PO1SU,shp-108-01,0,0
+379090,108,5,"Port Orchard Ferry",,0,PO3H,shp-108-01,0,0
+425090,108,5,"Port Orchard Ferry",,0,PO1H,shp-108-01,0,0
+409020,108,3,"Port Orchard Ferry",,0,PO5,shp-108-01,0,0
+931010,108,2,"Port Orchard Ferry",,0,PO1SU,shp-108-01,0,0
+684070,108,4,"Port Orchard Ferry",,0,PO1SA,shp-108-01,0,0
+943020,108,3,"Port Orchard Ferry",,0,PO4,shp-108-01,0,0
+2616010,108,2,"Port Orchard Ferry",,0,PO1SU,shp-108-01,0,0
+862090,108,5,"Port Orchard Ferry",,0,PO2H,shp-108-01,0,0
+839090,108,5,"Port Orchard Ferry",,0,PO1H,shp-108-01,0,0
+813090,108,5,"Port Orchard Ferry",,0,PO3H,shp-108-01,0,0
+32080,108,1,"Port Orchard Ferry",,0,PO3SA,shp-108-01,0,0
+322010,108,2,"Port Orchard Ferry",,0,PO1SU,shp-108-01,0,0
+684080,108,1,"Port Orchard Ferry",,0,PO1SA,shp-108-01,0,0
+2521070,108,4,"Port Orchard Ferry",,0,PO1SA,shp-108-01,0,0
+2529010,108,2,"Port Orchard Ferry",,0,PO1SU,shp-108-01,0,0
+2581090,108,5,"Port Orchard Ferry",,0,PO2H,shp-108-01,0,0
+309020,108,3,"Port Orchard Ferry",,0,PO4,shp-108-01,0,0
+297020,108,3,"Port Orchard Ferry",,0,PO4,shp-108-01,0,0
+32070,108,4,"Port Orchard Ferry",,0,PO3SA,shp-108-01,0,0
+2630020,108,3,"Port Orchard Ferry",,0,PO4,shp-108-01,0,0
+384020,108,3,"Port Orchard Ferry",,0,PO5,shp-108-01,0,0
+247010,108,2,"Port Orchard Ferry",,0,PO1SU,shp-108-01,0,0
+570090,108,5,"Port Orchard Ferry",,0,PO3H,shp-108-01,0,0
+397020,108,3,"Port Orchard Ferry",,0,PO3PM,shp-108-01,0,0
+240020,108,3,"Port Orchard Ferry",,0,PO4,shp-108-01,0,0
+2379020,108,3,"Port Orchard Ferry",,0,PO4,shp-108-01,0,0
+2211020,108,3,"Port Orchard Ferry",,0,PO3PM,shp-108-01,0,0
+274020,108,3,"Port Orchard Ferry",,0,PO5,shp-108-01,0,0
+365010,108,2,"Port Orchard Ferry",,0,PO1SU,shp-108-01,0,0
+1868070,108,4,"Port Orchard Ferry",,0,PO2SA,shp-108-01,0,0
+1919020,108,3,"Port Orchard Ferry",,0,PO4,shp-108-01,0,0
+682070,108,4,"Port Orchard Ferry",,0,PO2SA,shp-108-01,0,0
+2380010,108,2,"Port Orchard Ferry",,0,PO1SU,shp-108-01,0,0
+256020,108,3,"Port Orchard Ferry",,0,PO5,shp-108-01,0,0
+907090,108,5,"Port Orchard Ferry",,0,PO2H,shp-108-01,0,0
+917020,108,3,"Port Orchard Ferry",,0,PO5,shp-108-01,0,0
+2153070,108,4,"Port Orchard Ferry",,0,PO3SA,shp-108-01,0,0
+600010,108,2,"Port Orchard Ferry",,0,PO1SU,shp-108-01,0,0
+2038020,108,3,"Port Orchard Ferry",,0,PO1,shp-108-01,0,0
+1853070,108,4,"Port Orchard Ferry",,0,PO3SA,shp-108-01,0,0
+2096090,108,5,"Port Orchard Ferry",,0,PO1H,shp-108-01,0,0
+424020,108,3,"Port Orchard Ferry",,0,PO1,shp-108-01,0,0
+1899070,108,4,"Port Orchard Ferry",,0,PO2SA,shp-108-01,0,0
+1899080,108,1,"Port Orchard Ferry",,0,PO2SA,shp-108-01,0,0
+1619020,108,3,"Port Orchard Ferry",,0,PO4,shp-108-01,0,0
+2153080,108,1,"Port Orchard Ferry",,0,PO3SA,shp-108-01,0,0
+1833070,108,4,"Port Orchard Ferry",,0,PO2SA,shp-108-01,0,0
+1854080,108,1,"Port Orchard Ferry",,0,PO1SA,shp-108-01,0,0
+2521080,108,1,"Port Orchard Ferry",,0,PO1SA,shp-108-01,0,0
+1868080,108,1,"Port Orchard Ferry",,0,PO2SA,shp-108-01,0,0
+1693080,108,1,"Port Orchard Ferry",,0,PO2SA,shp-108-01,0,0
+1503070,108,4,"Port Orchard Ferry",,0,PO1SA,shp-108-01,0,0
+1503080,108,1,"Port Orchard Ferry",,0,PO1SA,shp-108-01,0,0
+2301010,108,2,"Port Orchard Ferry",,0,PO1SU,shp-108-01,0,0
+2294090,108,5,"Port Orchard Ferry",,0,PO2H,shp-108-01,0,0
+2329020,108,3,"Port Orchard Ferry",,0,PO4,shp-108-01,0,0
+1531090,108,5,"Port Orchard Ferry",,0,PO3H,shp-108-01,0,0
+1661090,108,5,"Port Orchard Ferry",,0,PO1H,shp-108-01,0,0
+1698090,108,5,"Port Orchard Ferry",,0,PO2H,shp-108-01,0,0
+1712090,108,5,"Port Orchard Ferry",,0,PO2H,shp-108-01,0,0
+2006010,108,2,"Port Orchard Ferry",,0,PO1SU,shp-108-01,0,0
+207020,108,3,"Port Orchard Ferry",,0,PO4,shp-108-01,0,0
+1736010,108,2,"Port Orchard Ferry",,0,PO1SU,shp-108-01,0,0
+2237020,108,3,"Port Orchard Ferry",,0,PO4,shp-108-01,0,0
+1607090,108,5,"Port Orchard Ferry",,0,PO1H,shp-108-01,0,0
+1833080,108,1,"Port Orchard Ferry",,0,PO2SA,shp-108-01,0,0
+19090,108,5,"Port Orchard Ferry",,0,PO1H,shp-108-01,0,0
+1922090,108,5,"Port Orchard Ferry",,0,PO2H,shp-108-01,0,0
+1693070,108,4,"Port Orchard Ferry",,0,PO2SA,shp-108-01,0,0
+1853080,108,1,"Port Orchard Ferry",,0,PO3SA,shp-108-01,0,0
+1854070,108,4,"Port Orchard Ferry",,0,PO1SA,shp-108-01,0,0
+1876090,108,5,"Port Orchard Ferry",,0,PO3H,shp-108-01,0,0
+1879010,108,2,"Port Orchard Ferry",,0,PO1SU,shp-108-01,0,0
+1775020,108,3,"Port Orchard Ferry",,0,PO4,shp-108-01,0,0
+1309020,108,3,"Port Orchard Ferry",,0,PO4,shp-108-01,0,0
+1646020,108,3,"Port Orchard Ferry",,0,PO4,shp-108-01,0,0
+1152080,108,1,"Port Orchard Ferry",,0,PO3SA,shp-108-01,0,0
+1200010,108,2,"Port Orchard Ferry",,0,PO1SU,shp-108-01,0,0
+1205080,108,1,"Port Orchard Ferry",,0,PO3SA,shp-108-01,0,0
+138080,108,1,"Port Orchard Ferry",,0,PO2SA,shp-108-01,0,0
+141010,108,2,"Port Orchard Ferry",,0,PO1SU,shp-108-01,0,0
+1308070,108,4,"Port Orchard Ferry",,0,PO1SA,shp-108-01,0,0
+1308080,108,1,"Port Orchard Ferry",,0,PO1SA,shp-108-01,0,0
+138070,108,4,"Port Orchard Ferry",,0,PO2SA,shp-108-01,0,0
+1388090,108,5,"Port Orchard Ferry",,0,PO3H,shp-108-01,0,0
+1052080,108,1,"Port Orchard Ferry",,0,PO3SA,shp-108-01,0,0
+1091090,108,5,"Port Orchard Ferry",,0,PO1H,shp-108-01,0,0
+1212020,108,3,"Port Orchard Ferry",,0,PO4,shp-108-01,0,0
+1152070,108,4,"Port Orchard Ferry",,0,PO3SA,shp-108-01,0,0
+1067020,108,3,"Port Orchard Ferry",,0,PO4,shp-108-01,0,0
+102080,108,1,"Port Orchard Ferry",,0,PO1SA,shp-108-01,0,0
+1062090,108,5,"Port Orchard Ferry",,0,PO3H,shp-108-01,0,0
+1193020,108,3,"Port Orchard Ferry",,0,PO4,shp-108-01,0,0
+1215020,108,3,"Port Orchard Ferry",,0,PO4,shp-108-01,0,0
+1247010,108,2,"Port Orchard Ferry",,0,PO1SU,shp-108-01,0,0
+1268010,108,2,"Port Orchard Ferry",,0,PO1SU,shp-108-01,0,0
+1205070,108,4,"Port Orchard Ferry",,0,PO3SA,shp-108-01,0,0
+1111020,108,3,"Port Orchard Ferry",,0,PO4,shp-108-01,0,0
+102070,108,4,"Port Orchard Ferry",,0,PO1SA,shp-108-01,0,0
+1052070,108,4,"Port Orchard Ferry",,0,PO3SA,shp-108-01,0,0
+1115080,109,1,"Port Orchard Ferry",,0,PO1SA,shp-109-01,0,0
+1054090,109,5,"Port Orchard Ferry",,0,PO1H,shp-109-01,0,0
+1008090,109,5,"Port Orchard Ferry",,0,PO3H,shp-109-01,0,0
+1115070,109,4,"Port Orchard Ferry",,0,PO1SA,shp-109-01,0,0
+1031020,109,3,"Port Orchard Ferry",,0,PO2,shp-109-01,0,0
+1119020,109,3,"Port Orchard Ferry",,0,PO1,shp-109-01,0,0
+1348020,109,3,"Port Orchard Ferry",,0,PO2,shp-109-01,0,0
+1293070,109,4,"Port Orchard Ferry",,0,PO3SA,shp-109-01,0,0
+1293080,109,1,"Port Orchard Ferry",,0,PO3SA,shp-109-01,0,0
+1439020,109,3,"Port Orchard Ferry",,0,PO1,shp-109-01,0,0
+1785020,109,3,"Port Orchard Ferry",,0,PO2,shp-109-01,0,0
+1976070,109,4,"Port Orchard Ferry",,0,PO2SA,shp-109-01,0,0
+1474020,109,3,"Port Orchard Ferry",,0,PO1,shp-109-01,0,0
+2277020,109,3,"Port Orchard Ferry",,0,PO2,shp-109-01,0,0
+1976080,109,1,"Port Orchard Ferry",,0,PO2SA,shp-109-01,0,0
+1643020,109,3,"Port Orchard Ferry",,0,PO1,shp-109-01,0,0
+1814080,109,1,"Port Orchard Ferry",,0,PO1SA,shp-109-01,0,0
+1935090,109,5,"Port Orchard Ferry",,0,PO1H,shp-109-01,0,0
+2310070,109,4,"Port Orchard Ferry",,0,PO2SA,shp-109-01,0,0
+1814070,109,4,"Port Orchard Ferry",,0,PO1SA,shp-109-01,0,0
+1724090,109,5,"Port Orchard Ferry",,0,PO3H,shp-109-01,0,0
+2061090,109,5,"Port Orchard Ferry",,0,PO1H,shp-109-01,0,0
+573090,109,5,"Port Orchard Ferry",,0,PO2H,shp-109-01,0,0
+2119090,109,5,"Port Orchard Ferry",,0,PO1H,shp-109-01,0,0
+2491020,109,3,"Port Orchard Ferry",,0,PO4,shp-109-01,0,0
+2310080,109,1,"Port Orchard Ferry",,0,PO2SA,shp-109-01,0,0
+40080,109,1,"Port Orchard Ferry",,0,PO2SA,shp-109-01,0,0
+433020,109,3,"Port Orchard Ferry",,0,PO1,shp-109-01,0,0
+257020,109,3,"Port Orchard Ferry",,0,PO1,shp-109-01,0,0
+767090,109,5,"Port Orchard Ferry",,0,PO2H,shp-109-01,0,0
+717080,109,1,"Port Orchard Ferry",,0,PO3SA,shp-109-01,0,0
+40070,109,4,"Port Orchard Ferry",,0,PO2SA,shp-109-01,0,0
+439020,109,3,"Port Orchard Ferry",,0,PO2,shp-109-01,0,0
+584090,109,5,"Port Orchard Ferry",,0,PO2H,shp-109-01,0,0
+359090,109,5,"Port Orchard Ferry",,0,PO3H,shp-109-01,0,0
+471020,109,3,"Port Orchard Ferry",,0,PO2,shp-109-01,0,0
+970070,109,4,"Port Orchard Ferry",,0,PO3SA,shp-109-01,0,0
+970080,109,1,"Port Orchard Ferry",,0,PO3SA,shp-109-01,0,0
+64070,109,4,"Port Orchard Ferry",,0,PO1SA,shp-109-01,0,0
+64080,109,1,"Port Orchard Ferry",,0,PO1SA,shp-109-01,0,0
+418090,109,5,"Port Orchard Ferry",,0,PO2H,shp-109-01,0,0
+66020,109,3,"Port Orchard Ferry",,0,PO2,shp-109-01,0,0
+717070,109,4,"Port Orchard Ferry",,0,PO3SA,shp-109-01,0,0
+609020,109,3,"Walmart",,1,PO4,shp-109-51,0,0
+638090,109,5,"Walmart",,1,PO2H,shp-109-51,0,0
+652070,109,4,"Walmart",,1,PO3SA,shp-109-51,0,0
+890070,109,4,"Walmart",,1,PO1SA,shp-109-51,0,0
+94090,109,5,"Walmart",,1,PO3H,shp-109-51,0,0
+447090,109,5,"Walmart",,1,PO3H,shp-109-51,0,0
+43090,109,5,"Walmart",,1,PO2H,shp-109-51,0,0
+263020,109,3,"Walmart",,1,PO1,shp-109-51,0,0
+2551020,109,3,"Walmart",,1,PO1,shp-109-51,0,0
+251020,109,3,"Walmart",,1,PO2,shp-109-51,0,0
+748020,109,3,"Walmart",,1,PO2,shp-109-51,0,0
+933070,109,4,"Walmart",,1,PO3SA,shp-109-51,0,0
+933080,109,1,"Walmart",,1,PO3SA,shp-109-51,0,0
+938090,109,5,"Walmart",,1,PO2H,shp-109-51,0,0
+245070,109,4,"Walmart",,1,PO1SA,shp-109-51,0,0
+2173080,109,1,"Walmart",,1,PO3SA,shp-109-51,0,0
+890080,109,1,"Walmart",,1,PO1SA,shp-109-51,0,0
+250070,109,4,"Walmart",,1,PO2SA,shp-109-51,0,0
+2347070,109,4,"Walmart",,1,PO2SA,shp-109-51,0,0
+2264020,109,3,"Walmart",,1,PO2,shp-109-51,0,0
+652080,109,1,"Walmart",,1,PO3SA,shp-109-51,0,0
+2003020,109,3,"Walmart",,1,PO2,shp-109-51,0,0
+189020,109,3,"Walmart",,1,PO1,shp-109-51,0,0
+370090,109,5,"Walmart",,1,PO3H,shp-109-51,0,0
+1932090,109,5,"Walmart",,1,PO1H,shp-109-51,0,0
+1688070,109,4,"Walmart",,1,PO1SA,shp-109-51,0,0
+245080,109,1,"Walmart",,1,PO1SA,shp-109-51,0,0
+250080,109,1,"Walmart",,1,PO2SA,shp-109-51,0,0
+2347080,109,1,"Walmart",,1,PO2SA,shp-109-51,0,0
+1994020,109,3,"Walmart",,1,PO1,shp-109-51,0,0
+1984090,109,5,"Walmart",,1,PO2H,shp-109-51,0,0
+1598020,109,3,"Walmart",,1,PO2,shp-109-51,0,0
+2235020,109,3,"Walmart",,1,PO2,shp-109-51,0,0
+2173070,109,4,"Walmart",,1,PO3SA,shp-109-51,0,0
+2181090,109,5,"Walmart",,1,PO1H,shp-109-51,0,0
+1688080,109,1,"Walmart",,1,PO1SA,shp-109-51,0,0
+140070,109,4,"Walmart",,1,PO2SA,shp-109-51,0,0
+1678090,109,5,"Walmart",,1,PO1H,shp-109-51,0,0
+1230090,109,5,"Walmart",,1,PO1H,shp-109-51,0,0
+1328020,109,3,"Walmart",,1,PO1,shp-109-51,0,0
+140080,109,1,"Walmart",,1,PO2SA,shp-109-51,0,0
+121020,109,3,"Walmart",,1,PO2,shp-109-51,0,0
+1734020,119,3,"Annapolis Ferry",,0,PO1,shp-119-01,0,0
+2284020,119,3,"Annapolis Ferry",,0,PO1,shp-119-01,0,0
+601020,119,3,"Annapolis Ferry",,0,PO1,shp-119-01,0,0
+312020,119,3,"First Lutheran P&R",,1,P42,shp-119-51,0,0
+2324020,119,3,"First Lutheran P&R",,1,P42,shp-119-51,0,0
+2349020,119,3,"First Lutheran P&R",,1,P42,shp-119-51,0,0
+2263020,181,3,"Annapolis Ferry",,0,A43,shp-181-01,0,0
+148020,181,3,"Annapolis Ferry",,0,A43,shp-181-01,0,0
+1683020,181,3,"Annapolis Ferry",,0,A43,shp-181-01,0,0
+1027020,181,3,"Annapolis Ferry",,0,A43,shp-181-01,0,0
+1445020,181,3,"Annapolis Ferry",,0,A43,shp-181-01,0,0
+1365020,181,3,"Annapolis Ferry",,0,A43,shp-181-01,0,0
+2192020,181,3,"Annapolis Ferry",,0,A43,shp-181-01,0,0
+214020,181,3,"Annapolis Ferry",,0,A43,shp-181-01,0,0
+630020,181,3,"Annapolis Ferry",,0,A43,shp-181-01,0,0
+2493020,181,3,"PO Armory P&R",,1,P43,shp-181-52,0,0
+854020,181,3,"PO Armory P&R",,1,P43,shp-181-52,0,0
+1893020,181,3,"PO Armory P&R",,1,P43,shp-181-52,0,0
+1930020,181,3,"PO Armory P&R",,1,P43,shp-181-52,0,0
+1592020,181,3,"PO Armory P&R",,1,P43,shp-181-52,0,0
+216020,181,3,"PO Armory P&R",,1,P43,shp-181-52,0,0
+1276020,181,3,"PO Armory P&R",,1,P43,shp-181-52,0,0
+1287020,181,3,"PO Armory P&R",,1,P43,shp-181-52,0,0
+1233020,181,3,"PO Armory P&R",,1,P43,shp-181-52,0,0
+1993020,181,3,"PO Armory P&R",,1,P43,shp-181-52,0,0
+1846020,181,3,"PO Armory P&R/Tractor Supply",,1,P43,shp-181-51,0,0
+1764020,184,3,"Harper P&R",,1,P48,shp-184-01,0,0
+625020,184,3,"Harper P&R",,1,P48,shp-184-01,0,0
+2195020,184,3,"Harper P&R",,1,P48,shp-184-01,0,0
+356020,184,3,"Harper P&R",,1,P45,shp-184-01,0,0
+1773020,184,3,"Harper P&R",,1,A42,shp-184-01,0,0
+106020,184,3,"Harper P&R",,1,A45,shp-184-01,0,0
+1086020,184,3,"Harper P&R",,1,A42,shp-184-01,0,0
+1298020,184,3,"Harper P&R",,1,P48,shp-184-01,0,0
+1356020,184,3,"Harper P&R",,1,A45,shp-184-01,0,0
+1390020,184,3,"Harper P&R",,1,P48,shp-184-01,0,0
+67020,184,3,"Harper P&R",,1,P45,shp-184-01,0,0
+711020,184,3,"Harper P&R",,1,A45,shp-184-01,0,0
+1018020,184,3,"Southworth",,0,P48,shp-184-02,0,0
+1680020,184,3,"Southworth",,0,P48,shp-184-02,0,0
+167020,184,3,"Southworth",,0,P45,shp-184-02,0,0
+1481020,184,3,"Southworth",,0,A42,shp-184-02,0,0
+1471020,184,3,"Southworth",,0,A42,shp-184-02,0,0
+760020,184,3,"Southworth",,0,A45,shp-184-02,0,0
+1946020,184,3,"Southworth",,0,A45,shp-184-02,0,0
+1755020,184,3,"Southworth",,0,P48,shp-184-02,0,0
+2065020,184,3,"Southworth",,0,P48,shp-184-02,0,0
+198020,184,3,"Southworth",,0,A45,shp-184-02,0,0
+1633020,184,3,"Southworth",,0,P45,shp-184-02,0,0
+2100020,185,3,"Mullenix P&R",,1,A45,shp-185-51,0,0
+2311020,185,3,"Mullenix P&R",,1,A45,shp-185-51,0,0
+2132020,185,3,"Mullenix P&R",,1,P45,shp-185-51,0,0
+2161020,185,3,"Mullenix P&R",,1,P45,shp-185-51,0,0
+1580020,185,3,"Mullenix P&R",,1,A42,shp-185-51,0,0
+1157020,185,3,"Mullenix P&R",,1,P45,shp-185-51,0,0
+1363020,185,3,"Mullenix P&R",,1,P45,shp-185-51,0,0
+1362020,185,3,"Mullenix P&R",,1,A42,shp-185-51,0,0
+972020,185,3,"Mullenix P&R",,1,P45,shp-185-51,0,0
+272020,185,3,"Southworth Ferry",,0,A42,shp-185-01,0,0
+863020,185,3,"Southworth Ferry",,0,A42,shp-185-01,0,0
+1216020,185,3,"Southworth Ferry",,0,P45,shp-185-01,0,0
+1400020,185,3,"Southworth Ferry",,0,A45,shp-185-01,0,0
+151020,185,3,"Southworth Ferry",,0,A42,shp-185-01,0,0
+1462020,185,3,"Southworth Ferry",,0,A45,shp-185-01,0,0
+2155020,185,3,"Southworth Ferry",,0,P45,shp-185-01,0,0
+2428020,185,3,"Southworth Ferry",,0,P45,shp-185-01,0,0
+261020,185,3,"Southworth Ferry",,0,A45,shp-185-01,0,0
+1859020,185,3,"Southworth Ferry",,0,P45,shp-185-01,0,0
+1774090,186,5,"Port Orchard Ferry",,0,SWPH,shp-186-02,0,0
+162080,186,1,"Port Orchard Ferry",,0,SWSA,shp-186-02,0,0
+2213090,186,5,"Port Orchard Ferry",,0,SWAH,shp-186-02,0,0
+2238080,186,1,"Port Orchard Ferry",,0,SWSA,shp-186-02,0,0
+2158090,186,5,"Port Orchard Ferry",,0,SWAH,shp-186-02,0,0
+208020,186,3,"Port Orchard Ferry",,0,PO3AM,shp-186-02,0,0
+417080,186,1,"Port Orchard Ferry",,0,SWSA,shp-186-02,0,0
+2348090,186,5,"Port Orchard Ferry",,0,SWPH,shp-186-02,0,0
+2292020,186,3,"Port Orchard Ferry",,0,PO3PM,shp-186-02,0,0
+2321080,186,1,"Port Orchard Ferry",,0,SWSA,shp-186-02,0,0
+1869020,186,3,"Port Orchard Ferry",,0,PO3PM,shp-186-02,0,0
+2123090,186,5,"Port Orchard Ferry",,0,SWAH,shp-186-02,0,0
+901090,186,5,"Port Orchard Ferry",,0,SWPH,shp-186-02,0,0
+819090,186,5,"Port Orchard Ferry",,0,SWPH,shp-186-02,0,0
+1770080,186,1,"Port Orchard Ferry",,0,SWSA,shp-186-02,0,0
+1973020,186,3,"Port Orchard Ferry",,0,A42,shp-186-02,0,0
+1053020,186,3,"Port Orchard Ferry",,0,PO4,shp-186-02,0,0
+1331020,186,3,"Port Orchard Ferry",,0,PO3AM,shp-186-02,0,0
+1635090,186,5,"Port Orchard Ferry",,0,SWPH,shp-186-02,0,0
+1412020,186,3,"Port Orchard Ferry",,0,PO2,shp-186-02,0,0
+1490020,186,3,"Port Orchard Ferry",,0,PO5,shp-186-02,0,0
+831020,186,3,"Port Orchard Ferry",,0,PO3PM,shp-186-02,0,0
+882080,186,1,"Port Orchard Ferry",,0,SWSA,shp-186-02,0,0
+944020,186,3,"Port Orchard Ferry",,0,PO2,shp-186-02,0,0
+828080,186,1,"Port Orchard Ferry",,0,SWSA,shp-186-02,0,0
+949080,186,1,"Port Orchard Ferry",,0,SWSA,shp-186-02,0,0
+978020,186,3,"Port Orchard Ferry",,0,PO3AM,shp-186-01,0,0
+2511020,186,3,"Port Orchard Ferry",,0,PO2,shp-186-02,0,0
+2545020,186,3,"Port Orchard Ferry",,0,PO3PM,shp-186-02,0,0
+607080,186,1,"Port Orchard Ferry",,0,SWSA,shp-186-02,0,0
+2550020,186,3,"Port Orchard Ferry",,0,PO3PM,shp-186-02,0,0
+2457020,186,3,"Southworth Ferry",,1,PO3PM,shp-186-52,0,0
+580080,186,1,"Southworth Ferry",,1,SWSA,shp-186-52,0,0
+373080,186,1,"Southworth Ferry",,1,SWSA,shp-186-52,0,0
+2634020,186,3,"Southworth Ferry",,1,PO3PM,shp-186-52,0,0
+650020,186,3,"Southworth Ferry",,1,PO2,shp-186-52,0,0
+963020,186,3,"Southworth Ferry",,1,PO5,shp-186-52,0,0
+908020,186,3,"Southworth Ferry",,1,PO3PM,shp-186-52,0,0
+851080,186,1,"Southworth Ferry",,1,SWSA,shp-186-52,0,0
+1497020,186,3,"Southworth Ferry",,1,PO2,shp-186-52,0,0
+1543080,186,1,"Southworth Ferry",,1,SWSA,shp-186-52,0,0
+1357090,186,5,"Southworth Ferry",,1,SWAH,shp-186-52,0,0
+1260080,186,1,"Southworth Ferry",,1,SWSA,shp-186-52,0,0
+1186020,186,3,"Southworth Ferry",,1,P42,shp-186-52,0,0
+107090,186,5,"Southworth Ferry",,1,SWPH,shp-186-52,0,0
+1690020,186,3,"Southworth Ferry",,1,PO3AM,shp-186-52,0,0
+1448020,186,3,"Southworth Ferry",,1,PO3PM,shp-186-52,0,0
+150080,186,1,"Southworth Ferry",,1,SWSA,shp-186-52,0,0
+1931080,186,1,"Southworth Ferry",,1,SWSA,shp-186-52,0,0
+1743080,186,1,"Southworth Ferry",,1,SWSA,shp-186-52,0,0
+1860080,186,1,"Southworth Ferry",,1,SWSA,shp-186-52,0,0
+870020,186,3,"Southworth Ferry",,1,A42,shp-186-52,0,0
+1996020,186,3,"Southworth Ferry",,1,P48,shp-186-52,0,0
+2214090,186,5,"Southworth Ferry",,1,SWPH,shp-186-52,0,0
+2590020,186,3,"Southworth Ferry",,1,PO3AM,shp-186-52,0,0
+213090,186,5,"Southworth Ferry",,1,SWAH,shp-186-52,0,0
+1864090,186,5,"Southworth Ferry",,1,SWPH,shp-186-52,0,0
+2223020,186,3,"Southworth Ferry",,1,PO4,shp-186-52,0,0
+2098020,186,3,"Southworth Ferry",,1,PO1,shp-186-51,0,0
+1747090,186,5,"Southworth Ferry",,1,SWPH,shp-186-52,0,0
+2504020,186,3,"Southworth Ferry",,1,PO3PM,shp-186-52,0,0
+185090,186,5,"Southworth Ferry",,1,SWAH,shp-186-52,0,0
+2540090,212,5,"Bremerton TC via West Bremerton TC",,0,NB1H,shp-212-01,0,0
+1759020,212,3,"Bremerton TC via West Bremerton TC",,0,NB1,shp-212-01,0,0
+2043020,212,3,"Bremerton TC via West Bremerton TC",,0,NB4,shp-212-01,0,0
+1701020,212,3,"Bremerton TC via West Bremerton TC",,0,SB6,shp-212-01,0,0
+1650020,212,3,"Bremerton TC via West Bremerton TC",,0,NB2,shp-212-01,0,0
+2487080,212,1,"Bremerton TC via West Bremerton TC",,0,NB4SA,shp-212-01,0,0
+2437070,212,4,"Bremerton TC via West Bremerton TC",,0,NB3SA,shp-212-01,0,0
+2169090,212,5,"Bremerton TC via West Bremerton TC",,0,SB2H,shp-212-01,0,0
+1924020,212,3,"Bremerton TC via West Bremerton TC",,0,NB1,shp-212-01,0,0
+1634090,212,5,"Bremerton TC via West Bremerton TC",,0,NB1H,shp-212-01,0,0
+1896090,212,5,"Bremerton TC via West Bremerton TC",,0,SB2H,shp-212-01,0,0
+414080,212,1,"Bremerton TC via West Bremerton TC",,0,NB1SA,shp-212-01,0,0
+1766090,212,5,"Bremerton TC via West Bremerton TC",,0,SB4H,shp-212-01,0,0
+1695090,212,5,"Bremerton TC via West Bremerton TC",,0,NB2H,shp-212-01,0,0
+929020,212,3,"Bremerton TC via West Bremerton TC",,0,SB6,shp-212-01,0,0
+388020,212,3,"Bremerton TC via West Bremerton TC",,0,NB2,shp-212-01,0,0
+2437080,212,1,"Bremerton TC via West Bremerton TC",,0,NB3SA,shp-212-01,0,0
+2438020,212,3,"Bremerton TC via West Bremerton TC",,0,NB1,shp-212-01,0,0
+2244070,212,4,"Bremerton TC via West Bremerton TC",,0,SB6SA,shp-212-01,0,0
+37020,212,3,"Bremerton TC via West Bremerton TC",,0,NB3,shp-212-01,0,0
+2487070,212,4,"Bremerton TC via West Bremerton TC",,0,NB4SA,shp-212-01,0,0
+2309020,212,3,"Bremerton TC via West Bremerton TC",,0,NB1,shp-212-01,0,0
+255020,212,3,"Bremerton TC via West Bremerton TC",,0,NB2,shp-212-01,0,0
+757070,212,4,"Bremerton TC via West Bremerton TC",,0,NB2SA,shp-212-01,0,0
+2183080,212,1,"Bremerton TC via West Bremerton TC",,0,SB2SA,shp-212-01,0,0
+2244080,212,1,"Bremerton TC via West Bremerton TC",,0,SB6SA,shp-212-01,0,0
+86020,212,3,"Bremerton TC via West Bremerton TC",,0,SB4,shp-212-01,0,0
+914070,212,4,"Bremerton TC via West Bremerton TC",,0,SB6SA,shp-212-01,0,0
+2183070,212,4,"Bremerton TC via West Bremerton TC",,0,SB2SA,shp-212-01,0,0
+2134020,212,3,"Bremerton TC via West Bremerton TC",,0,SB4,shp-212-01,0,0
+2108020,212,3,"Bremerton TC via West Bremerton TC",,0,SB6,shp-212-01,0,0
+2553080,212,1,"Bremerton TC via West Bremerton TC",,0,SB6SA,shp-212-01,0,0
+1381090,212,5,"Bremerton TC via West Bremerton TC",,0,NB2H,shp-212-01,0,0
+1782070,212,4,"Bremerton TC via West Bremerton TC",,0,SB2SA,shp-212-01,0,0
+1782080,212,1,"Bremerton TC via West Bremerton TC",,0,SB2SA,shp-212-01,0,0
+1837090,212,5,"Bremerton TC via West Bremerton TC",,0,NB2H,shp-212-01,0,0
+1569020,212,3,"Bremerton TC via West Bremerton TC",,0,NB4,shp-212-01,0,0
+1674090,212,5,"Bremerton TC via West Bremerton TC",,0,NB4H,shp-212-01,0,0
+1259080,212,1,"Bremerton TC via West Bremerton TC",,0,NB2SA,shp-212-01,0,0
+1169020,212,3,"Bremerton TC via West Bremerton TC",,0,ES1,shp-212-01,0,0
+1523020,212,3,"Bremerton TC via West Bremerton TC",,0,SB6,shp-212-01,0,0
+2004070,212,4,"Bremerton TC via West Bremerton TC",,0,NB1SA,shp-212-01,0,0
+2004080,212,1,"Bremerton TC via West Bremerton TC",,0,NB1SA,shp-212-01,0,0
+1502070,212,4,"Bremerton TC via West Bremerton TC",,0,SB2SA,shp-212-01,0,0
+1600090,212,5,"Bremerton TC via West Bremerton TC",,0,NB3H,shp-212-01,0,0
+2164090,212,5,"Bremerton TC via West Bremerton TC",,0,NB3H,shp-212-01,0,0
+1974090,212,5,"Bremerton TC via West Bremerton TC",,0,SB4H,shp-212-01,0,0
+1925020,212,3,"Bremerton TC via West Bremerton TC",,0,SB4,shp-212-01,0,0
+1951070,212,4,"Bremerton TC via West Bremerton TC",,0,SB4SA,shp-212-01,0,0
+1951080,212,1,"Bremerton TC via West Bremerton TC",,0,SB4SA,shp-212-01,0,0
+1022080,212,1,"Bremerton TC via West Bremerton TC",,0,SB2SA,shp-212-01,0,0
+1246020,212,3,"Bremerton TC via West Bremerton TC",,0,SB4,shp-212-01,0,0
+1154090,212,5,"Bremerton TC via West Bremerton TC",,0,SB4H,shp-212-01,0,0
+1176020,212,3,"Bremerton TC via West Bremerton TC",,0,SB6,shp-212-01,0,0
+1141080,212,1,"Bremerton TC via West Bremerton TC",,0,SB4SA,shp-212-01,0,0
+1141070,212,4,"Bremerton TC via West Bremerton TC",,0,SB4SA,shp-212-01,0,0
+1134090,212,5,"Bremerton TC via West Bremerton TC",,0,PB4H,shp-212-01,0,0
+1069020,212,3,"Bremerton TC via West Bremerton TC",,0,SB6,shp-212-01,0,0
+1016080,212,1,"Bremerton TC via West Bremerton TC",,0,SB4SA,shp-212-01,0,0
+1089020,212,3,"Bremerton TC via West Bremerton TC",,0,SB6,shp-212-01,0,0
+1009020,212,3,"Bremerton TC via West Bremerton TC",,0,SB4,shp-212-01,0,0
+1016070,212,4,"Bremerton TC via West Bremerton TC",,0,SB4SA,shp-212-01,0,0
+1022070,212,4,"Bremerton TC via West Bremerton TC",,0,SB2SA,shp-212-01,0,0
+14080,212,1,"Bremerton TC via West Bremerton TC",,0,SB6SA,shp-212-01,0,0
+1295090,212,5,"Bremerton TC via West Bremerton TC",,0,SB2H,shp-212-01,0,0
+1599020,212,3,"Bremerton TC via West Bremerton TC",,0,NB1,shp-212-01,0,0
+1320090,212,5,"Bremerton TC via West Bremerton TC",,0,SB2H,shp-212-01,0,0
+1502080,212,1,"Bremerton TC via West Bremerton TC",,0,SB2SA,shp-212-01,0,0
+1259070,212,4,"Bremerton TC via West Bremerton TC",,0,NB2SA,shp-212-01,0,0
+14070,212,4,"Bremerton TC via West Bremerton TC",,0,SB6SA,shp-212-01,0,0
+877080,212,1,"Bremerton TC via West Bremerton TC",,0,SB2SA,shp-212-01,0,0
+775090,212,5,"Bremerton TC via West Bremerton TC",,0,SB4H,shp-212-01,0,0
+994020,212,3,"Bremerton TC via West Bremerton TC",,0,NB1,shp-212-01,0,0
+952070,212,4,"Bremerton TC via West Bremerton TC",,0,SB4SA,shp-212-01,0,0
+96020,212,3,"Bremerton TC via West Bremerton TC",,0,SB4,shp-212-01,0,0
+732090,212,5,"Bremerton TC via West Bremerton TC",,0,NB1H,shp-212-01,0,0
+680020,212,3,"Bremerton TC via West Bremerton TC",,0,SB4,shp-212-01,0,0
+757080,212,1,"Bremerton TC via West Bremerton TC",,0,NB2SA,shp-212-01,0,0
+783020,212,3,"Bremerton TC via West Bremerton TC",,0,NB3,shp-212-01,0,0
+799020,212,3,"Bremerton TC via West Bremerton TC",,0,SB4,shp-212-01,0,0
+673080,212,1,"Bremerton TC via West Bremerton TC",,0,NB2SA,shp-212-01,0,0
+728090,212,5,"Bremerton TC via West Bremerton TC",,0,SB2H,shp-212-01,0,0
+674090,212,5,"Bremerton TC via West Bremerton TC",,0,NB4H,shp-212-01,0,0
+440020,212,3,"Bremerton TC via West Bremerton TC",,0,NB2,shp-212-01,0,0
+548080,212,1,"Bremerton TC via West Bremerton TC",,0,SB6SA,shp-212-01,0,0
+673070,212,4,"Bremerton TC via West Bremerton TC",,0,NB2SA,shp-212-01,0,0
+877070,212,4,"Bremerton TC via West Bremerton TC",,0,SB2SA,shp-212-01,0,0
+914080,212,1,"Bremerton TC via West Bremerton TC",,0,SB6SA,shp-212-01,0,0
+952080,212,1,"Bremerton TC via West Bremerton TC",,0,SB4SA,shp-212-01,0,0
+955020,212,3,"Bremerton TC via West Bremerton TC",,0,NB1,shp-212-01,0,0
+807090,212,5,"Bremerton TC via West Bremerton TC",,0,NB4H,shp-212-01,0,0
+414070,212,4,"Bremerton TC via West Bremerton TC",,0,NB1SA,shp-212-01,0,0
+429070,212,4,"Bremerton TC via West Bremerton TC",,0,SB4SA,shp-212-01,0,0
+429080,212,1,"Bremerton TC via West Bremerton TC",,0,SB4SA,shp-212-01,0,0
+543080,212,1,"Bremerton TC via West Bremerton TC",,0,NB1SA,shp-212-01,0,0
+543070,212,4,"Bremerton TC via West Bremerton TC",,0,NB1SA,shp-212-01,0,0
+2553070,212,4,"Bremerton TC via West Bremerton TC",,0,SB6SA,shp-212-01,0,0
+422020,212,3,"Bremerton TC via West Bremerton TC",,0,NB3,shp-212-01,0,0
+2585020,212,3,"Bremerton TC via West Bremerton TC",,0,NB2,shp-212-01,0,0
+299090,212,5,"Bremerton TC via West Bremerton TC",,0,NB1H,shp-212-01,0,0
+560020,212,3,"Bremerton TC via West Bremerton TC",,0,SB6,shp-212-01,0,0
+534020,212,3,"Bremerton TC via West Bremerton TC",,0,ES1,shp-212-01,0,0
+548070,212,4,"Bremerton TC via West Bremerton TC",,0,SB6SA,shp-212-01,0,0
+562020,212,3,"Silverdale TC via West Bremerton TC",,1,SB1,shp-212-51,0,0
+58020,212,3,"Silverdale TC via West Bremerton TC",,1,SB3,shp-212-51,0,0
+614020,212,3,"Silverdale TC via West Bremerton TC",,1,SB2,shp-212-51,0,0
+624080,212,1,"Silverdale TC via West Bremerton TC",,1,SB5SA,shp-212-51,0,0
+2409070,212,4,"Silverdale TC via West Bremerton TC",,1,SB1SA,shp-212-51,0,0
+2424020,212,3,"Silverdale TC via West Bremerton TC",,1,SB1,shp-212-51,0,0
+2586020,212,3,"Silverdale TC via West Bremerton TC",,1,SB3,shp-212-51,0,0
+2499090,212,5,"Silverdale TC via West Bremerton TC",,1,SB1H,shp-212-51,0,0
+403070,212,4,"Silverdale TC via West Bremerton TC",,1,SB3SA,shp-212-51,0,0
+403080,212,1,"Silverdale TC via West Bremerton TC",,1,SB3SA,shp-212-51,0,0
+451090,212,5,"Silverdale TC via West Bremerton TC",,1,SB1H,shp-212-51,0,0
+383020,212,3,"Silverdale TC via West Bremerton TC",,1,SB1,shp-212-51,0,0
+962020,212,3,"Silverdale TC via West Bremerton TC",,1,SB2,shp-212-51,0,0
+62070,212,4,"Silverdale TC via West Bremerton TC",,1,SB1SA,shp-212-51,0,0
+62080,212,1,"Silverdale TC via West Bremerton TC",,1,SB1SA,shp-212-51,0,0
+864080,212,1,"Silverdale TC via West Bremerton TC",,1,SB3SA,shp-212-51,0,0
+632020,212,3,"Silverdale TC via West Bremerton TC",,1,SB2,shp-212-51,0,0
+5090,212,5,"Silverdale TC via West Bremerton TC",,1,SB5H,shp-212-51,0,0
+649080,212,1,"Silverdale TC via West Bremerton TC",,1,SB5SA,shp-212-51,0,0
+945070,212,4,"Silverdale TC via West Bremerton TC",,1,SB1SA,shp-212-51,0,0
+895020,212,3,"Silverdale TC via West Bremerton TC",,1,SB2,shp-212-51,0,0
+945080,212,1,"Silverdale TC via West Bremerton TC",,1,SB1SA,shp-212-51,0,0
+874090,212,5,"Silverdale TC via West Bremerton TC",,1,SB5H,shp-212-51,0,0
+883080,212,1,"Silverdale TC via West Bremerton TC",,1,SB1SA,shp-212-51,0,0
+814070,212,4,"Silverdale TC via West Bremerton TC",,1,SB5SA,shp-212-51,0,0
+814080,212,1,"Silverdale TC via West Bremerton TC",,1,SB5SA,shp-212-51,0,0
+919090,212,5,"Silverdale TC via West Bremerton TC",,1,SB1H,shp-212-51,0,0
+864070,212,4,"Silverdale TC via West Bremerton TC",,1,SB3SA,shp-212-51,0,0
+1415070,212,4,"Silverdale TC via West Bremerton TC",,1,SB3SA,shp-212-51,0,0
+1504020,212,3,"Silverdale TC via West Bremerton TC",,1,SB3,shp-212-51,0,0
+1415080,212,1,"Silverdale TC via West Bremerton TC",,1,SB3SA,shp-212-51,0,0
+1364020,212,3,"Silverdale TC via West Bremerton TC",,1,SB2,shp-212-51,0,0
+130080,212,1,"Silverdale TC via West Bremerton TC",,1,SB1SA,shp-212-51,0,0
+1281020,212,3,"Silverdale TC via West Bremerton TC",,1,SB1,shp-212-51,0,0
+1258080,212,1,"Silverdale TC via West Bremerton TC",,1,SB5SA,shp-212-51,0,0
+1171090,212,5,"Silverdale TC via West Bremerton TC",,1,SB3H,shp-212-51,0,0
+130070,212,4,"Silverdale TC via West Bremerton TC",,1,SB1SA,shp-212-51,0,0
+1070,212,4,"Silverdale TC via West Bremerton TC",,1,SB1SA,shp-212-51,0,0
+1258070,212,4,"Silverdale TC via West Bremerton TC",,1,SB5SA,shp-212-51,0,0
+124020,212,3,"Silverdale TC via West Bremerton TC",,1,SB1,shp-212-51,0,0
+1033020,212,3,"Silverdale TC via West Bremerton TC",,1,SB1,shp-212-51,0,0
+1080,212,1,"Silverdale TC via West Bremerton TC",,1,SB1SA,shp-212-51,0,0
+1945090,212,5,"Silverdale TC via West Bremerton TC",,1,SB3H,shp-212-51,0,0
+2068090,212,5,"Silverdale TC via West Bremerton TC",,1,SB1H,shp-212-51,0,0
+1485080,212,1,"Silverdale TC via West Bremerton TC",,1,SB3SA,shp-212-51,0,0
+1486020,212,3,"Silverdale TC via West Bremerton TC",,1,SB2,shp-212-51,0,0
+1559020,212,3,"Silverdale TC via West Bremerton TC",,1,SB3,shp-212-51,0,0
+1567090,212,5,"Silverdale TC via West Bremerton TC",,1,SB5H,shp-212-51,0,0
+2186070,212,4,"Silverdale TC via West Bremerton TC",,1,SB5SA,shp-212-51,0,0
+1485070,212,4,"Silverdale TC via West Bremerton TC",,1,SB3SA,shp-212-51,0,0
+1703020,212,3,"Silverdale TC via West Bremerton TC",,1,SB3,shp-212-51,0,0
+1687020,212,3,"Silverdale TC via West Bremerton TC",,1,SB1,shp-212-51,0,0
+1675090,212,5,"Silverdale TC via West Bremerton TC",,1,SB1H,shp-212-51,0,0
+1255090,212,5,"Silverdale TC via West Bremerton TC",,1,SB3H,shp-212-51,0,0
+1797020,212,3,"Silverdale TC via West Bremerton TC",,1,SB3,shp-212-51,0,0
+1778070,212,4,"Silverdale TC via West Bremerton TC",,1,SB3SA,shp-212-51,0,0
+178080,212,1,"Silverdale TC via West Bremerton TC",,1,SB3SA,shp-212-51,0,0
+1431090,212,5,"Silverdale TC via West Bremerton TC",,1,SB1H,shp-212-51,0,0
+1841070,212,4,"Silverdale TC via West Bremerton TC",,1,SB3SA,shp-212-51,0,0
+1914020,212,3,"Silverdale TC via West Bremerton TC",,1,SB3,shp-212-51,0,0
+1829070,212,4,"Silverdale TC via West Bremerton TC",,1,SB5SA,shp-212-51,0,0
+1841080,212,1,"Silverdale TC via West Bremerton TC",,1,SB3SA,shp-212-51,0,0
+1644070,212,4,"Silverdale TC via West Bremerton TC",,1,SB5SA,shp-212-51,0,0
+2519090,212,5,"Silverdale TC via West Bremerton TC",,1,SB5H,shp-212-51,0,0
+2409080,212,1,"Silverdale TC via West Bremerton TC",,1,SB1SA,shp-212-51,0,0
+2421090,212,5,"Silverdale TC via West Bremerton TC",,1,SB3H,shp-212-51,0,0
+2030020,212,3,"Silverdale TC via West Bremerton TC",,1,SB3,shp-212-51,0,0
+883070,212,4,"Silverdale TC via West Bremerton TC",,1,SB1SA,shp-212-51,0,0
+2249090,212,5,"Silverdale TC via West Bremerton TC",,1,SB3H,shp-212-51,0,0
+227020,212,3,"Silverdale TC via West Bremerton TC",,1,SB3,shp-212-51,0,0
+2217070,212,4,"Silverdale TC via West Bremerton TC",,1,SB1SA,shp-212-51,0,0
+2447020,212,3,"Silverdale TC via West Bremerton TC",,1,SB3,shp-212-51,0,0
+2432020,212,3,"Silverdale TC via West Bremerton TC",,1,SB2,shp-212-51,0,0
+2217080,212,1,"Silverdale TC via West Bremerton TC",,1,SB1SA,shp-212-51,0,0
+362090,212,5,"Silverdale TC via West Bremerton TC",,1,SB1H,shp-212-51,0,0
+332090,212,5,"Silverdale TC via West Bremerton TC",,1,SB3H,shp-212-51,0,0
+2186080,212,1,"Silverdale TC via West Bremerton TC",,1,SB5SA,shp-212-51,0,0
+279090,212,5,"Silverdale TC via West Bremerton TC",,1,SB3H,shp-212-51,0,0
+503020,212,3,"Silverdale TC via West Bremerton TC",,1,SB2,shp-212-51,0,0
+2095020,212,3,"Silverdale TC via West Bremerton TC",,1,SB1,shp-212-51,0,0
+2034020,212,3,"Silverdale TC via West Bremerton TC",,1,SB1,shp-212-51,0,0
+1949090,212,5,"Silverdale TC via West Bremerton TC",,1,SB5H,shp-212-51,0,0
+624070,212,4,"Silverdale TC via West Bremerton TC",,1,SB5SA,shp-212-51,0,0
+649070,212,4,"Silverdale TC via West Bremerton TC",,1,SB5SA,shp-212-51,0,0
+581020,212,3,"Silverdale TC via West Bremerton TC",,1,SB2,shp-212-51,0,0
+1816020,212,3,"Silverdale TC via West Bremerton TC",,1,SB3,shp-212-51,0,0
+1778080,212,1,"Silverdale TC via West Bremerton TC",,1,SB3SA,shp-212-51,0,0
+178070,212,4,"Silverdale TC via West Bremerton TC",,1,SB3SA,shp-212-51,0,0
+2206090,212,5,"Silverdale TC via West Bremerton TC",,1,SB5H,shp-212-51,0,0
+1610020,212,3,"Silverdale TC via West Bremerton TC",,1,SB2,shp-212-51,0,0
+2411090,212,5,"Silverdale TC via West Bremerton TC",,1,SB5H,shp-212-51,0,0
+1829080,212,1,"Silverdale TC via West Bremerton TC",,1,SB5SA,shp-212-51,0,0
+2436090,212,5,"Silverdale TC via West Bremerton TC",,1,SB1H,shp-212-51,0,0
+1644080,212,1,"Silverdale TC via West Bremerton TC",,1,SB5SA,shp-212-51,0,0
+2549020,212,3,"Silverdale TC via West Bremerton TC",,1,SB1,shp-212-51,0,0
+2603020,212,3,"Silverdale TC via West Bremerton TC",,1,SB1,shp-212-51,0,0
+2557020,215,3,"Bremerton TC",,0,A18,shp-215-01,0,0
+2172020,215,3,"Bremerton TC",,0,ES2,shp-215-01,0,0
+2257020,215,3,"Bremerton TC",,0,A19,shp-215-01,0,0
+432020,215,3,"Bremerton TC",,0,P18,shp-215-01,0,0
+46020,215,3,"Bremerton TC",,0,P19,shp-215-01,0,0
+360020,215,3,"Bremerton TC",,0,WS5,shp-215-01,0,0
+1458020,215,3,"Bremerton TC",,0,A19,shp-215-01,0,0
+1183020,215,3,"Bremerton TC",,0,EW1,shp-215-01,0,0
+1080020,215,3,"Bremerton TC",,0,P19,shp-215-01,0,0
+1380020,215,3,"Bremerton TC",,0,P18,shp-215-01,0,0
+92020,215,3,"Bremerton TC",,0,A18,shp-215-01,0,0
+648020,215,3,"Bremerton TC",,0,P18,shp-215-01,0,0
+540020,215,3,"Bremerton TC",,0,A19,shp-215-01,0,0
+2563020,215,3,"Bremerton TC",,0,P18,shp-215-01,0,0
+773020,215,3,"Bremerton TC",,0,A18,shp-215-01,0,0
+738020,215,3,"McWilliams P&R",,1,A19,shp-215-51,0,0
+589020,215,3,"McWilliams P&R",,1,P18,shp-215-51,0,0
+1165020,215,3,"McWilliams P&R",,1,P19,shp-215-51,0,0
+1302020,215,3,"McWilliams P&R",,1,P18,shp-215-51,0,0
+1082020,215,3,"McWilliams P&R",,1,P19,shp-215-51,0,0
+1044020,215,3,"McWilliams P&R",,1,WS5,shp-215-51,0,0
+2455020,215,3,"McWilliams P&R",,1,P19,shp-215-51,0,0
+2210020,215,3,"McWilliams P&R",,1,P18,shp-215-51,0,0
+2413020,215,3,"McWilliams P&R",,1,P18,shp-215-51,0,0
+2535020,215,3,"McWilliams P&R",,1,A18,shp-215-51,0,0
+659020,215,3,"McWilliams P&R",,1,A19,shp-215-51,0,0
+1968020,215,3,"McWilliams P&R",,1,A18,shp-215-51,0,0
+491020,215,3,"McWilliams P&R",,1,P18,shp-215-51,0,0
+488020,217,3,"Bremerton TC via Wheaton Way TC",,0,SB3,shp-217-01,0,0
+527090,217,5,"Bremerton TC via Wheaton Way TC",,0,SB3H,shp-217-02,0,0
+1745090,217,5,"Bremerton TC via Wheaton Way TC",,0,SB3H,shp-217-02,0,0
+2130020,217,3,"Bremerton TC via Wheaton Way TC",,0,SB2,shp-217-01,0,0
+1789070,217,4,"Bremerton TC via Wheaton Way TC",,0,SB1SA,shp-217-02,0,0
+1942010,217,2,"Bremerton TC via Wheaton Way TC",,0,SB3SU,shp-217-02,0,0
+1921080,217,1,"Bremerton TC via Wheaton Way TC",,0,SB5SA,shp-217-02,0,0
+347070,217,4,"Bremerton TC via Wheaton Way TC",,0,SB3SA,shp-217-02,0,0
+31020,217,3,"Bremerton TC via Wheaton Way TC",,0,SB1,shp-217-01,0,0
+220090,217,5,"Bremerton TC via Wheaton Way TC",,0,SB1H,shp-217-02,0,0
+1838090,217,5,"Bremerton TC via Wheaton Way TC",,0,SB5H,shp-217-02,0,0
+1645020,217,3,"Bremerton TC via Wheaton Way TC",,0,SB2,shp-217-01,0,0
+1615090,217,5,"Bremerton TC via Wheaton Way TC",,0,SB5H,shp-217-02,0,0
+2283070,217,4,"Bremerton TC via Wheaton Way TC",,0,SB3SA,shp-217-02,0,0
+2227090,217,5,"Bremerton TC via Wheaton Way TC",,0,SB5H,shp-217-02,0,0
+1593080,217,1,"Bremerton TC via Wheaton Way TC",,0,SB5SA,shp-217-02,0,0
+1572080,217,1,"Bremerton TC via Wheaton Way TC",,0,SB3SA,shp-217-02,0,0
+1906020,217,3,"Bremerton TC via Wheaton Way TC",,0,SB3,shp-217-01,0,0
+2340080,217,1,"Bremerton TC via Wheaton Way TC",,0,SB5SA,shp-217-02,0,0
+789090,217,5,"Bremerton TC via Wheaton Way TC",,0,SB1H,shp-217-02,0,0
+791020,217,3,"Bremerton TC via Wheaton Way TC",,0,SB3,shp-217-01,0,0
+1970090,217,5,"Bremerton TC via Wheaton Way TC",,0,SB1H,shp-217-02,0,0
+1985020,217,3,"Bremerton TC via Wheaton Way TC",,0,SB2,shp-217-01,0,0
+713070,217,4,"Bremerton TC via Wheaton Way TC",,0,SB3SA,shp-217-02,0,0
+875090,217,5,"Bremerton TC via Wheaton Way TC",,0,SB3H,shp-217-02,0,0
+918020,217,3,"Bremerton TC via Wheaton Way TC",,0,SB1,shp-217-01,0,0
+2174070,217,4,"Bremerton TC via Wheaton Way TC",,0,SB3SA,shp-217-02,0,0
+2174080,217,1,"Bremerton TC via Wheaton Way TC",,0,SB3SA,shp-217-02,0,0
+2614020,217,3,"Bremerton TC via Wheaton Way TC",,0,SB3,shp-217-01,0,0
+2392020,217,3,"Bremerton TC via Wheaton Way TC",,0,SB2,shp-217-01,0,0
+2147070,217,4,"Bremerton TC via Wheaton Way TC",,0,SB3SA,shp-217-02,0,0
+2121020,217,3,"Bremerton TC via Wheaton Way TC",,0,SB2,shp-217-01,0,0
+2270010,217,2,"Bremerton TC via Wheaton Way TC",,0,SB1SU,shp-217-02,0,0
+2495090,217,5,"Bremerton TC via Wheaton Way TC",,0,SB3H,shp-217-02,0,0
+2283080,217,1,"Bremerton TC via Wheaton Way TC",,0,SB3SA,shp-217-02,0,0
+2340070,217,4,"Bremerton TC via Wheaton Way TC",,0,SB5SA,shp-217-02,0,0
+2453020,217,3,"Bremerton TC via Wheaton Way TC",,0,SB3,shp-217-01,0,0
+347080,217,1,"Bremerton TC via Wheaton Way TC",,0,SB3SA,shp-217-02,0,0
+2262020,217,3,"Bremerton TC via Wheaton Way TC",,0,SB2,shp-217-01,0,0
+386080,217,1,"Bremerton TC via Wheaton Way TC",,0,SB1SA,shp-217-02,0,0
+390080,217,1,"Bremerton TC via Wheaton Way TC",,0,SB1SA,shp-217-02,0,0
+2419090,217,5,"Bremerton TC via Wheaton Way TC",,0,SB5H,shp-217-02,0,0
+2296010,217,2,"Bremerton TC via Wheaton Way TC",,0,SB3SU,shp-217-02,0,0
+2332090,217,5,"Bremerton TC via Wheaton Way TC",,0,SB1H,shp-217-02,0,0
+1076020,217,3,"Bremerton TC via Wheaton Way TC",,0,SB2,shp-217-01,0,0
+1073020,217,3,"Bremerton TC via Wheaton Way TC",,0,SB1,shp-217-01,0,0
+1093010,217,2,"Bremerton TC via Wheaton Way TC",,0,SB1SU,shp-217-02,0,0
+1001010,217,2,"Bremerton TC via Wheaton Way TC",,0,SB1SU,shp-217-02,0,0
+1156070,217,4,"Bremerton TC via Wheaton Way TC",,0,SB5SA,shp-217-02,0,0
+1243010,217,2,"Bremerton TC via Wheaton Way TC",,0,SB2SU,shp-217-02,0,0
+1208010,217,2,"Bremerton TC via Wheaton Way TC",,0,SB3SU,shp-217-02,0,0
+128090,217,5,"Bremerton TC via Wheaton Way TC",,0,SB3H,shp-217-02,0,0
+1342080,217,1,"Bremerton TC via Wheaton Way TC",,0,SB1SA,shp-217-02,0,0
+1286090,217,5,"Bremerton TC via Wheaton Way TC",,0,SB3H,shp-217-02,0,0
+1110020,217,3,"Bremerton TC via Wheaton Way TC",,0,SB2,shp-217-01,0,0
+1156080,217,1,"Bremerton TC via Wheaton Way TC",,0,SB5SA,shp-217-02,0,0
+1303090,217,5,"Bremerton TC via Wheaton Way TC",,0,SB3H,shp-217-02,0,0
+1359020,217,3,"Bremerton TC via Wheaton Way TC",,0,SB1,shp-217-01,0,0
+1329010,217,2,"Bremerton TC via Wheaton Way TC",,0,SB2SU,shp-217-02,0,0
+1402090,217,5,"Bremerton TC via Wheaton Way TC",,0,SB1H,shp-217-02,0,0
+1495080,217,1,"Bremerton TC via Wheaton Way TC",,0,SB1SA,shp-217-02,0,0
+1456010,217,2,"Bremerton TC via Wheaton Way TC",,0,SB3SU,shp-217-02,0,0
+1532070,217,4,"Bremerton TC via Wheaton Way TC",,0,SB5SA,shp-217-02,0,0
+1532080,217,1,"Bremerton TC via Wheaton Way TC",,0,SB5SA,shp-217-02,0,0
+1342070,217,4,"Bremerton TC via Wheaton Way TC",,0,SB1SA,shp-217-02,0,0
+1572070,217,4,"Bremerton TC via Wheaton Way TC",,0,SB3SA,shp-217-02,0,0
+1576020,217,3,"Bremerton TC via Wheaton Way TC",,0,SB1,shp-217-01,0,0
+1428020,217,3,"Bremerton TC via Wheaton Way TC",,0,SB3,shp-217-01,0,0
+1789080,217,1,"Bremerton TC via Wheaton Way TC",,0,SB1SA,shp-217-02,0,0
+1783090,217,5,"Bremerton TC via Wheaton Way TC",,0,SB5H,shp-217-02,0,0
+1430010,217,2,"Bremerton TC via Wheaton Way TC",,0,SB1SU,shp-217-02,0,0
+1642020,217,3,"Bremerton TC via Wheaton Way TC",,0,SB2,shp-217-01,0,0
+1593070,217,4,"Bremerton TC via Wheaton Way TC",,0,SB5SA,shp-217-02,0,0
+1563080,217,1,"Bremerton TC via Wheaton Way TC",,0,SB5SA,shp-217-02,0,0
+1595020,217,3,"Bremerton TC via Wheaton Way TC",,0,SB1,shp-217-01,0,0
+1852090,217,5,"Bremerton TC via Wheaton Way TC",,0,SB5H,shp-217-02,0,0
+1895090,217,5,"Bremerton TC via Wheaton Way TC",,0,SB1H,shp-217-02,0,0
+1921070,217,4,"Bremerton TC via Wheaton Way TC",,0,SB5SA,shp-217-02,0,0
+1563070,217,4,"Bremerton TC via Wheaton Way TC",,0,SB5SA,shp-217-02,0,0
+199070,217,4,"Bremerton TC via Wheaton Way TC",,0,SB3SA,shp-217-02,0,0
+199080,217,1,"Bremerton TC via Wheaton Way TC",,0,SB3SA,shp-217-02,0,0
+1739090,217,5,"Bremerton TC via Wheaton Way TC",,0,SB5H,shp-217-02,0,0
+1768090,217,5,"Bremerton TC via Wheaton Way TC",,0,SB1H,shp-217-02,0,0
+1495070,217,4,"Bremerton TC via Wheaton Way TC",,0,SB1SA,shp-217-02,0,0
+2147080,217,1,"Bremerton TC via Wheaton Way TC",,0,SB3SA,shp-217-02,0,0
+2041020,217,3,"Bremerton TC via Wheaton Way TC",,0,EW2,shp-217-01,0,0
+612070,217,4,"Bremerton TC via Wheaton Way TC",,0,SB1SA,shp-217-02,0,0
+713080,217,1,"Bremerton TC via Wheaton Way TC",,0,SB3SA,shp-217-02,0,0
+724080,217,1,"Bremerton TC via Wheaton Way TC",,0,SB1SA,shp-217-02,0,0
+277020,217,3,"Bremerton TC via Wheaton Way TC",,0,SB3,shp-217-01,0,0
+2542010,217,2,"Bremerton TC via Wheaton Way TC",,0,SB2SU,shp-217-02,0,0
+405010,217,2,"Bremerton TC via Wheaton Way TC",,0,SB2SU,shp-217-02,0,0
+368020,217,3,"Bremerton TC via Wheaton Way TC",,0,SB3,shp-217-01,0,0
+539020,217,3,"Bremerton TC via Wheaton Way TC",,0,SB3,shp-217-01,0,0
+50020,217,3,"Bremerton TC via Wheaton Way TC",,0,SB1,shp-217-01,0,0
+275020,217,3,"Bremerton TC via Wheaton Way TC",,0,SB3,shp-217-01,0,0
+2443020,217,3,"Bremerton TC via Wheaton Way TC",,0,SB1,shp-217-01,0,0
+690010,217,2,"Bremerton TC via Wheaton Way TC",,0,SB2SU,shp-217-02,0,0
+537020,217,3,"Bremerton TC via Wheaton Way TC",,0,SB2,shp-217-01,0,0
+56020,217,3,"Bremerton TC via Wheaton Way TC",,0,SB1,shp-217-01,0,0
+621020,217,3,"Bremerton TC via Wheaton Way TC",,0,SB1,shp-217-01,0,0
+91070,217,4,"Bremerton TC via Wheaton Way TC",,0,SB5SA,shp-217-02,0,0
+531020,217,3,"Bremerton TC via Wheaton Way TC",,0,SB3,shp-217-01,0,0
+386070,217,4,"Bremerton TC via Wheaton Way TC",,0,SB1SA,shp-217-02,0,0
+390070,217,4,"Bremerton TC via Wheaton Way TC",,0,SB1SA,shp-217-02,0,0
+644020,217,3,"Bremerton TC via Wheaton Way TC",,0,SB3,shp-217-01,0,0
+612080,217,1,"Bremerton TC via Wheaton Way TC",,0,SB1SA,shp-217-02,0,0
+48010,217,2,"Bremerton TC via Wheaton Way TC",,0,SB3SU,shp-217-02,0,0
+724070,217,4,"Bremerton TC via Wheaton Way TC",,0,SB1SA,shp-217-02,0,0
+737070,217,4,"Bremerton TC via Wheaton Way TC",,0,SB5SA,shp-217-02,0,0
+737080,217,1,"Bremerton TC via Wheaton Way TC",,0,SB5SA,shp-217-02,0,0
+326090,217,5,"Bremerton TC via Wheaton Way TC",,0,SB3H,shp-217-02,0,0
+369010,217,2,"Bremerton TC via Wheaton Way TC",,0,SB1SU,shp-217-02,0,0
+330020,217,3,"Bremerton TC via Wheaton Way TC",,0,SB1,shp-217-01,0,0
+89020,217,3,"Bremerton TC via Wheaton Way TC",,0,SB2,shp-217-01,0,0
+794070,217,4,"Bremerton TC via Wheaton Way TC",,0,SB3SA,shp-217-02,0,0
+961010,217,2,"Bremerton TC via Wheaton Way TC",,0,SB3SU,shp-217-02,0,0
+878010,217,2,"Bremerton TC via Wheaton Way TC",,0,SB1SU,shp-217-02,0,0
+794080,217,1,"Bremerton TC via Wheaton Way TC",,0,SB3SA,shp-217-02,0,0
+91080,217,1,"Bremerton TC via Wheaton Way TC",,0,SB5SA,shp-217-02,0,0
+888090,217,5,"Silverdale TC via Wheaton Way TC",,1,PB4H,shp-217-51,0,0
+997070,217,4,"Silverdale TC via Wheaton Way TC",,1,NB1SA,shp-217-51,0,0
+997080,217,1,"Silverdale TC via Wheaton Way TC",,1,NB1SA,shp-217-51,0,0
+75020,217,3,"Silverdale TC via Wheaton Way TC",,1,NB1,shp-217-52,0,0
+712070,217,4,"Silverdale TC via Wheaton Way TC",,1,NB2SA,shp-217-51,0,0
+712080,217,1,"Silverdale TC via Wheaton Way TC",,1,NB2SA,shp-217-51,0,0
+704020,217,3,"Silverdale TC via Wheaton Way TC",,1,NB1,shp-217-52,0,0
+572080,217,1,"Silverdale TC via Wheaton Way TC",,1,NB2SA,shp-217-51,0,0
+460070,217,4,"Silverdale TC via Wheaton Way TC",,1,SB6SA,shp-217-51,0,0
+466010,217,2,"Silverdale TC via Wheaton Way TC",,1,SB1SU,shp-217-51,0,0
+661020,217,3,"Silverdale TC via Wheaton Way TC",,1,SB6,shp-217-52,0,0
+843080,217,1,"Silverdale TC via Wheaton Way TC",,1,SB6SA,shp-217-51,0,0
+965020,217,3,"Silverdale TC via Wheaton Way TC",,1,NB1,shp-217-52,0,0
+747090,217,5,"Silverdale TC via Wheaton Way TC",,1,NB3H,shp-217-51,0,0
+677020,217,3,"Silverdale TC via Wheaton Way TC",,1,NB4,shp-217-52,0,0
+843070,217,4,"Silverdale TC via Wheaton Way TC",,1,SB6SA,shp-217-51,0,0
+434010,217,2,"Silverdale TC via Wheaton Way TC",,1,SB1SU,shp-217-51,0,0
+572070,217,4,"Silverdale TC via Wheaton Way TC",,1,NB2SA,shp-217-51,0,0
+693020,217,3,"Silverdale TC via Wheaton Way TC",,1,NB2,shp-217-52,0,0
+2502090,217,5,"Silverdale TC via Wheaton Way TC",,1,SB2H,shp-217-51,0,0
+2440070,217,4,"Silverdale TC via Wheaton Way TC",,1,NB1SA,shp-217-51,0,0
+2619080,217,1,"Silverdale TC via Wheaton Way TC",,1,SB4SA,shp-217-51,0,0
+592020,217,3,"Silverdale TC via Wheaton Way TC",,1,SB6,shp-217-52,0,0
+2591020,217,3,"Silverdale TC via Wheaton Way TC",,1,NB2,shp-217-52,0,0
+489020,217,3,"Silverdale TC via Wheaton Way TC",,1,SB6,shp-217-52,0,0
+805020,217,3,"Silverdale TC via Wheaton Way TC",,1,SB4,shp-217-52,0,0
+727010,217,2,"Silverdale TC via Wheaton Way TC",,1,SB2SU,shp-217-51,0,0
+722020,217,3,"Silverdale TC via Wheaton Way TC",,1,SB6,shp-217-52,0,0
+2060020,217,3,"Silverdale TC via Wheaton Way TC",,1,NB3,shp-217-52,0,0
+1424070,217,4,"Silverdale TC via Wheaton Way TC",,1,SB2SA,shp-217-51,0,0
+1524020,217,3,"Silverdale TC via Wheaton Way TC",,1,NB3,shp-217-52,0,0
+2254020,217,3,"Silverdale TC via Wheaton Way TC",,1,SB4,shp-217-52,0,0
+2021090,217,5,"Silverdale TC via Wheaton Way TC",,1,NB4H,shp-217-51,0,0
+1939070,217,4,"Silverdale TC via Wheaton Way TC",,1,NB3SA,shp-217-51,0,0
+1939080,217,1,"Silverdale TC via Wheaton Way TC",,1,NB3SA,shp-217-51,0,0
+2312080,217,1,"Silverdale TC via Wheaton Way TC",,1,SB2SA,shp-217-51,0,0
+1568090,217,5,"Silverdale TC via Wheaton Way TC",,1,SB2H,shp-217-51,0,0
+1605020,217,3,"Silverdale TC via Wheaton Way TC",,1,NB1,shp-217-52,0,0
+1577090,217,5,"Silverdale TC via Wheaton Way TC",,1,SB4H,shp-217-51,0,0
+1586090,217,5,"Silverdale TC via Wheaton Way TC",,1,NB1H,shp-217-51,0,0
+1672020,217,3,"Silverdale TC via Wheaton Way TC",,1,SB6,shp-217-52,0,0
+1424080,217,1,"Silverdale TC via Wheaton Way TC",,1,SB2SA,shp-217-51,0,0
+1378080,217,1,"Silverdale TC via Wheaton Way TC",,1,SB2SA,shp-217-51,0,0
+1606010,217,2,"Silverdale TC via Wheaton Way TC",,1,SB2SU,shp-217-51,0,0
+1611020,217,3,"Silverdale TC via Wheaton Way TC",,1,NB2,shp-217-52,0,0
+1620020,217,3,"Silverdale TC via Wheaton Way TC",,1,SB4,shp-217-52,0,0
+1552090,217,5,"Silverdale TC via Wheaton Way TC",,1,SB4H,shp-217-51,0,0
+1394080,217,1,"Silverdale TC via Wheaton Way TC",,1,NB4SA,shp-217-51,0,0
+1649010,217,2,"Silverdale TC via Wheaton Way TC",,1,SB3SU,shp-217-51,0,0
+1677090,217,5,"Silverdale TC via Wheaton Way TC",,1,NB1H,shp-217-51,0,0
+1378070,217,4,"Silverdale TC via Wheaton Way TC",,1,SB2SA,shp-217-51,0,0
+1368070,217,4,"Silverdale TC via Wheaton Way TC",,1,SB4SA,shp-217-51,0,0
+1292090,217,5,"Silverdale TC via Wheaton Way TC",,1,NB4H,shp-217-51,0,0
+1336070,217,4,"Silverdale TC via Wheaton Way TC",,1,NB1SA,shp-217-51,0,0
+1544090,217,5,"Silverdale TC via Wheaton Way TC",,1,NB1H,shp-217-51,0,0
+149090,217,5,"Silverdale TC via Wheaton Way TC",,1,SB2H,shp-217-51,0,0
+1408010,217,2,"Silverdale TC via Wheaton Way TC",,1,SB2SU,shp-217-51,0,0
+1376020,217,3,"Silverdale TC via Wheaton Way TC",,1,NB4,shp-217-52,0,0
+1517090,217,5,"Silverdale TC via Wheaton Way TC",,1,NB4H,shp-217-51,0,0
+1351020,217,3,"Silverdale TC via Wheaton Way TC",,1,SB4,shp-217-52,0,0
+131080,217,1,"Silverdale TC via Wheaton Way TC",,1,SB4SA,shp-217-51,0,0
+1368080,217,1,"Silverdale TC via Wheaton Way TC",,1,SB4SA,shp-217-51,0,0
+131070,217,4,"Silverdale TC via Wheaton Way TC",,1,SB4SA,shp-217-51,0,0
+1336080,217,1,"Silverdale TC via Wheaton Way TC",,1,NB1SA,shp-217-51,0,0
+1394070,217,4,"Silverdale TC via Wheaton Way TC",,1,NB4SA,shp-217-51,0,0
+1232010,217,2,"Silverdale TC via Wheaton Way TC",,1,SB3SU,shp-217-51,0,0
+1203010,217,2,"Silverdale TC via Wheaton Way TC",,1,SB2SU,shp-217-51,0,0
+1240020,217,3,"Silverdale TC via Wheaton Way TC",,1,NB2,shp-217-52,0,0
+1249090,217,5,"Silverdale TC via Wheaton Way TC",,1,SB2H,shp-217-51,0,0
+1160090,217,5,"Silverdale TC via Wheaton Way TC",,1,SB4H,shp-217-51,0,0
+1013010,217,2,"Silverdale TC via Wheaton Way TC",,1,SB1SU,shp-217-51,0,0
+1063090,217,5,"Silverdale TC via Wheaton Way TC",,1,SB2H,shp-217-51,0,0
+1122020,217,3,"Silverdale TC via Wheaton Way TC",,1,SB6,shp-217-52,0,0
+1131020,217,3,"Silverdale TC via Wheaton Way TC",,1,SB4,shp-217-52,0,0
+1135020,217,3,"Silverdale TC via Wheaton Way TC",,1,SB4,shp-217-52,0,0
+1142070,217,4,"Silverdale TC via Wheaton Way TC",,1,SB6SA,shp-217-51,0,0
+1068090,217,5,"Silverdale TC via Wheaton Way TC",,1,NB3H,shp-217-51,0,0
+1128020,217,3,"Silverdale TC via Wheaton Way TC",,1,NB1,shp-217-52,0,0
+1142080,217,1,"Silverdale TC via Wheaton Way TC",,1,SB6SA,shp-217-51,0,0
+2430080,217,1,"Silverdale TC via Wheaton Way TC",,1,SB2SA,shp-217-51,0,0
+2230020,217,3,"Silverdale TC via Wheaton Way TC",,1,SB4,shp-217-52,0,0
+2623020,217,3,"Silverdale TC via Wheaton Way TC",,1,ES1,shp-217-52,0,0
+988020,217,3,"Silverdale TC via Wheaton Way TC",,1,NB1,shp-217-52,0,0
+236070,217,4,"Silverdale TC via Wheaton Way TC",,1,SB2SA,shp-217-51,0,0
+2353010,217,2,"Silverdale TC via Wheaton Way TC",,1,SB3SU,shp-217-51,0,0
+2364080,217,1,"Silverdale TC via Wheaton Way TC",,1,SB6SA,shp-217-51,0,0
+399070,217,4,"Silverdale TC via Wheaton Way TC",,1,NB2SA,shp-217-51,0,0
+399080,217,1,"Silverdale TC via Wheaton Way TC",,1,NB2SA,shp-217-51,0,0
+444020,217,3,"Silverdale TC via Wheaton Way TC",,1,NB2,shp-217-52,0,0
+2602070,217,4,"Silverdale TC via Wheaton Way TC",,1,SB4SA,shp-217-51,0,0
+2207090,217,5,"Silverdale TC via Wheaton Way TC",,1,NB1H,shp-217-51,0,0
+232090,217,5,"Silverdale TC via Wheaton Way TC",,1,NB2H,shp-217-51,0,0
+2322020,217,3,"Silverdale TC via Wheaton Way TC",,1,SB6,shp-217-52,0,0
+2312070,217,4,"Silverdale TC via Wheaton Way TC",,1,SB2SA,shp-217-51,0,0
+2219020,217,3,"Silverdale TC via Wheaton Way TC",,1,NB3,shp-217-52,0,0
+2440080,217,1,"Silverdale TC via Wheaton Way TC",,1,NB1SA,shp-217-51,0,0
+2619070,217,4,"Silverdale TC via Wheaton Way TC",,1,SB4SA,shp-217-51,0,0
+2094010,217,2,"Silverdale TC via Wheaton Way TC",,1,SB1SU,shp-217-51,0,0
+2352090,217,5,"Silverdale TC via Wheaton Way TC",,1,NB2H,shp-217-51,0,0
+236080,217,1,"Silverdale TC via Wheaton Way TC",,1,SB2SA,shp-217-51,0,0
+2364070,217,4,"Silverdale TC via Wheaton Way TC",,1,SB6SA,shp-217-51,0,0
+1941010,217,2,"Silverdale TC via Wheaton Way TC",,1,SB2SU,shp-217-51,0,0
+1856020,217,3,"Silverdale TC via Wheaton Way TC",,1,NB1,shp-217-52,0,0
+2070070,217,4,"Silverdale TC via Wheaton Way TC",,1,SB4SA,shp-217-51,0,0
+2070080,217,1,"Silverdale TC via Wheaton Way TC",,1,SB4SA,shp-217-51,0,0
+1603010,217,2,"Silverdale TC via Wheaton Way TC",,1,SB2SU,shp-217-51,0,0
+2402090,217,5,"Silverdale TC via Wheaton Way TC",,1,SB4H,shp-217-51,0,0
+2430070,217,4,"Silverdale TC via Wheaton Way TC",,1,SB2SA,shp-217-51,0,0
+2602080,217,1,"Silverdale TC via Wheaton Way TC",,1,SB4SA,shp-217-51,0,0
+2089090,217,5,"Silverdale TC via Wheaton Way TC",,1,NB2H,shp-217-51,0,0
+460080,217,1,"Silverdale TC via Wheaton Way TC",,1,SB6SA,shp-217-51,0,0
+1917010,217,2,"Silverdale TC via Wheaton Way TC",,1,SB1SU,shp-217-51,0,0
+1808010,217,2,"Silverdale TC via Wheaton Way TC",,1,SB3SU,shp-217-51,0,0
+200010,217,2,"Silverdale TC via Wheaton Way TC",,1,SB3SU,shp-217-51,0,0
+2081090,217,5,"Silverdale TC via Wheaton Way TC",,1,SB4H,shp-217-51,0,0
+242020,219,3,"Crossroads P&R",,1,P6,shp-219-51,0,0
+2196020,219,3,"Crossroads P&R",,1,P1,shp-219-51,0,0
+1776020,219,3,"Crossroads P&R",,1,P5,shp-219-51,0,0
+935020,219,3,"Crossroads P&R",,1,P17,shp-219-51,0,0
+524020,219,3,"PSNS/Charleston Gate",,0,A7,shp-219-01,0,0
+4020,219,3,"PSNS/Charleston Gate",,0,A6,shp-219-01,0,0
+2532020,219,3,"PSNS/Charleston Gate",,0,A3,shp-219-01,0,0
+1148020,219,3,"PSNS/Charleston Gate",,0,A6,shp-219-01,0,0
+723020,219,3,"PSNS/Charleston Gate",,0,A7,shp-219-01,0,0
+2022020,220,3,"Bremerton TC",,0,WS3,shp-220-01,0,0
+2374080,220,1,"Bremerton TC",,0,WS2SA,shp-220-01,0,0
+2454090,220,5,"Bremerton TC",,0,WS1H,shp-220-01,0,0
+2040090,220,5,"Bremerton TC",,0,WS3H,shp-220-01,0,0
+2049070,220,4,"Bremerton TC",,0,WS2SA,shp-220-01,0,0
+2058090,220,5,"Bremerton TC",,0,WS3H,shp-220-01,0,0
+2374070,220,4,"Bremerton TC",,0,WS2SA,shp-220-01,0,0
+1909070,220,4,"Bremerton TC",,0,WS1SA,shp-220-01,0,0
+651020,220,3,"Bremerton TC",,0,A10,shp-220-01,0,0
+1909080,220,1,"Bremerton TC",,0,WS1SA,shp-220-01,0,0
+458090,220,5,"Bremerton TC",,0,WS1H,shp-220-01,0,0
+2191020,220,3,"Bremerton TC",,0,WS1,shp-220-01,0,0
+269020,220,3,"Bremerton TC",,0,WS3,shp-220-01,0,0
+1848020,220,3,"Bremerton TC",,0,WS2,shp-220-01,0,0
+2422020,220,3,"Bremerton TC",,0,WS3,shp-220-01,0,0
+2049080,220,1,"Bremerton TC",,0,WS2SA,shp-220-01,0,0
+2140020,220,3,"Bremerton TC",,0,WS4,shp-220-01,0,0
+1139020,220,3,"Bremerton TC",,0,WS3,shp-220-01,0,0
+1207020,220,3,"Bremerton TC",,0,WS1,shp-220-01,0,0
+1150080,220,1,"Bremerton TC",,0,WS3SA,shp-220-01,0,0
+1398020,220,3,"Bremerton TC",,0,WS3,shp-220-01,0,0
+1716090,220,5,"Bremerton TC",,0,WS3H,shp-220-01,0,0
+1807090,220,5,"Bremerton TC",,0,WS1H,shp-220-01,0,0
+1150070,220,4,"Bremerton TC",,0,WS3SA,shp-220-01,0,0
+1589070,220,4,"Bremerton TC",,0,WS3SA,shp-220-01,0,0
+1444070,220,4,"Bremerton TC",,0,WS1SA,shp-220-01,0,0
+1589080,220,1,"Bremerton TC",,0,WS3SA,shp-220-01,0,0
+16090,220,5,"Bremerton TC",,0,WS2H,shp-220-01,0,0
+2113020,220,3,"Bremerton TC",,0,WS2,shp-220-01,0,0
+177090,220,5,"Bremerton TC",,0,WS2H,shp-220-01,0,0
+1799020,220,3,"Bremerton TC",,0,WS1,shp-220-01,0,0
+1444080,220,1,"Bremerton TC",,0,WS1SA,shp-220-01,0,0
+2579020,220,3,"Bremerton TC",,0,WS2,shp-220-01,0,0
+2480020,220,3,"Bremerton TC",,0,WS2,shp-220-01,0,0
+407020,220,3,"Bremerton TC",,0,WS1,shp-220-01,0,0
+827090,220,5,"Bremerton TC",,0,WS2H,shp-220-01,0,0
+842080,220,1,"Bremerton TC",,0,WS3SA,shp-220-01,0,0
+655020,220,3,"Bremerton TC",,0,WS1,shp-220-01,0,0
+928020,220,3,"Bremerton TC",,0,WS2,shp-220-01,0,0
+842070,220,4,"Bremerton TC",,0,WS3SA,shp-220-01,0,0
+896020,220,3,"Bremerton TC",,0,A10,shp-220-01,0,0
+967090,220,5,"Bremerton TC",,0,WS1H,shp-220-01,0,0
+859090,220,5,"West Bremerton TC",,1,WS3H,shp-220-51,0,0
+599020,220,3,"West Bremerton TC",,1,WS1,shp-220-51,0,0
+781080,220,1,"West Bremerton TC",,1,WS2SA,shp-220-51,0,0
+721080,220,1,"West Bremerton TC",,1,WS2SA,shp-220-51,0,0
+536020,220,3,"West Bremerton TC",,1,WS3,shp-220-51,0,0
+252090,220,5,"West Bremerton TC",,1,WS2H,shp-220-51,0,0
+525090,220,5,"West Bremerton TC",,1,WS3H,shp-220-51,0,0
+790070,220,4,"West Bremerton TC",,1,WS3SA,shp-220-51,0,0
+790080,220,1,"West Bremerton TC",,1,WS3SA,shp-220-51,0,0
+2449070,220,4,"West Bremerton TC",,1,WS3SA,shp-220-51,0,0
+2397070,220,4,"West Bremerton TC",,1,WS1SA,shp-220-51,0,0
+2397080,220,1,"West Bremerton TC",,1,WS1SA,shp-220-51,0,0
+2467020,220,3,"West Bremerton TC",,1,WS2,shp-220-51,0,0
+152070,220,4,"West Bremerton TC",,1,WS1SA,shp-220-51,0,0
+1508020,220,3,"West Bremerton TC",,1,WS1,shp-220-51,0,0
+1146020,220,3,"West Bremerton TC",,1,P5,shp-220-51,0,0
+153020,220,3,"West Bremerton TC",,1,WS1,shp-220-51,0,0
+1436020,220,3,"West Bremerton TC",,1,WS5,shp-220-51,0,0
+1464020,220,3,"West Bremerton TC",,1,WS3,shp-220-51,0,0
+152080,220,1,"West Bremerton TC",,1,WS1SA,shp-220-51,0,0
+1354090,220,5,"West Bremerton TC",,1,WS3H,shp-220-51,0,0
+1144080,220,1,"West Bremerton TC",,1,WS2SA,shp-220-51,0,0
+1144070,220,4,"West Bremerton TC",,1,WS2SA,shp-220-51,0,0
+1047020,220,3,"West Bremerton TC",,1,WS4,shp-220-51,0,0
+1564020,220,3,"West Bremerton TC",,1,WS2,shp-220-51,0,0
+164020,220,3,"West Bremerton TC",,1,WS5,shp-220-51,0,0
+2449080,220,1,"West Bremerton TC",,1,WS3SA,shp-220-51,0,0
+1760020,220,3,"West Bremerton TC",,1,WS2,shp-220-51,0,0
+1962080,220,1,"West Bremerton TC",,1,WS3SA,shp-220-51,0,0
+628090,220,5,"West Bremerton TC",,1,WS1H,shp-220-51,0,0
+1962070,220,4,"West Bremerton TC",,1,WS3SA,shp-220-51,0,0
+1855020,220,3,"West Bremerton TC",,1,A10,shp-220-51,0,0
+501090,220,5,"West Bremerton TC",,1,WS2H,shp-220-51,0,0
+932090,220,5,"West Bremerton TC",,1,WS1H,shp-220-51,0,0
+936020,220,3,"West Bremerton TC",,1,WS1,shp-220-51,0,0
+374020,220,3,"West Bremerton TC",,1,WS2,shp-220-51,0,0
+2505020,220,3,"West Bremerton TC",,1,WS3,shp-220-51,0,0
+2101090,220,5,"West Bremerton TC",,1,WS1H,shp-220-51,0,0
+2127090,220,5,"West Bremerton TC",,1,WS2H,shp-220-51,0,0
+2033090,220,5,"West Bremerton TC",,1,WS2H,shp-220-51,0,0
+2342090,220,5,"West Bremerton TC",,1,WS1H,shp-220-51,0,0
+781070,220,4,"West Bremerton TC",,1,WS2SA,shp-220-51,0,0
+721070,220,4,"West Bremerton TC",,1,WS2SA,shp-220-51,0,0
+2019070,221,4,"Bremerton TC",,0,EW2SA,shp-221-01,0,0
+1983020,221,3,"Bremerton TC",,0,EW1,shp-221-01,0,0
+2128070,221,4,"Bremerton TC",,0,EW1SA,shp-221-01,0,0
+2128080,221,1,"Bremerton TC",,0,EW1SA,shp-221-01,0,0
+212020,221,3,"Bremerton TC",,0,EW3,shp-221-01,0,0
+2509020,221,3,"Bremerton TC",,0,WS1,shp-221-01,0,0
+2345090,221,5,"Bremerton TC",,0,EW1H,shp-221-01,0,0
+2472020,221,3,"Bremerton TC",,0,EW2,shp-221-01,0,0
+285090,221,5,"Bremerton TC",,0,EW2H,shp-221-01,0,0
+2465020,221,3,"Bremerton TC",,0,EW3,shp-221-01,0,0
+2019080,221,1,"Bremerton TC",,0,EW2SA,shp-221-01,0,0
+2036090,221,5,"Bremerton TC",,0,EW2H,shp-221-01,0,0
+475020,221,3,"Bremerton TC",,0,EW1,shp-221-01,0,0
+393090,221,5,"Bremerton TC",,0,EW1H,shp-221-01,0,0
+350020,221,3,"Bremerton TC",,0,EW2,shp-221-01,0,0
+366020,221,3,"Bremerton TC",,0,ES1,shp-221-01,0,0
+2088020,221,3,"Bremerton TC",,0,WS1,shp-221-01,0,0
+1702080,221,1,"Bremerton TC",,0,EW2SA,shp-221-01,0,0
+187080,221,1,"Bremerton TC",,0,EW1SA,shp-221-01,0,0
+2197020,221,3,"Bremerton TC",,0,EW2,shp-221-01,0,0
+1034020,221,3,"Bremerton TC",,0,EW1,shp-221-01,0,0
+1020020,221,3,"Bremerton TC",,0,EW1,shp-221-01,0,0
+1263090,221,5,"Bremerton TC",,0,EW2H,shp-221-01,0,0
+1167020,221,3,"Bremerton TC",,0,EW1,shp-221-01,0,0
+1414080,221,1,"Bremerton TC",,0,EW1SA,shp-221-01,0,0
+1546070,221,4,"Bremerton TC",,0,EW2SA,shp-221-01,0,0
+1446070,221,4,"Bremerton TC",,0,EW2SA,shp-221-01,0,0
+1414070,221,4,"Bremerton TC",,0,EW1SA,shp-221-01,0,0
+1317020,221,3,"Bremerton TC",,0,EW2,shp-221-01,0,0
+1242090,221,5,"Bremerton TC",,0,EW1H,shp-221-01,0,0
+1654020,221,3,"Bremerton TC",,0,WS1,shp-221-01,0,0
+1501020,221,3,"Bremerton TC",,0,EW2,shp-221-01,0,0
+1702070,221,4,"Bremerton TC",,0,EW2SA,shp-221-01,0,0
+187070,221,4,"Bremerton TC",,0,EW1SA,shp-221-01,0,0
+2325020,221,3,"Bremerton TC",,0,WS5,shp-221-01,0,0
+1989020,221,3,"Bremerton TC",,0,EW2,shp-221-01,0,0
+1546080,221,1,"Bremerton TC",,0,EW2SA,shp-221-01,0,0
+1446080,221,1,"Bremerton TC",,0,EW2SA,shp-221-01,0,0
+1447090,221,5,"Bremerton TC",,0,EW1H,shp-221-01,0,0
+2190020,221,3,"Bremerton TC",,0,EW1,shp-221-01,0,0
+668090,221,5,"Bremerton TC",,0,EW1H,shp-221-01,0,0
+2451020,221,3,"Bremerton TC",,0,A3,shp-221-01,0,0
+295020,221,3,"Bremerton TC",,0,WS4,shp-221-01,0,0
+2596020,221,3,"Bremerton TC",,0,A3,shp-221-01,0,0
+2571090,221,5,"Bremerton TC",,0,EW2H,shp-221-01,0,0
+307090,221,5,"Bremerton TC",,0,EW2H,shp-221-01,0,0
+470020,221,3,"Bremerton TC",,0,WS2,shp-221-01,0,0
+924020,221,3,"Bremerton TC",,0,EW1,shp-221-01,0,0
+966090,221,5,"Bremerton TC",,0,EW1H,shp-221-01,0,0
+755020,221,3,"Bremerton TC",,0,WS3,shp-221-01,0,0
+835080,221,1,"Wheaton Way TC",,1,EW1SA,shp-221-51,0,0
+971070,221,4,"Wheaton Way TC",,1,EW2SA,shp-221-51,0,0
+971080,221,1,"Wheaton Way TC",,1,EW2SA,shp-221-51,0,0
+699020,221,3,"Wheaton Way TC",,1,EW1,shp-221-51,0,0
+528090,221,5,"Wheaton Way TC",,1,EW2H,shp-221-51,0,0
+316080,221,1,"Wheaton Way TC",,1,EW2SA,shp-221-51,0,0
+835070,221,4,"Wheaton Way TC",,1,EW1SA,shp-221-51,0,0
+497070,221,4,"Wheaton Way TC",,1,EW2SA,shp-221-51,0,0
+78020,221,3,"Wheaton Way TC",,1,EW3,shp-221-51,0,0
+497080,221,1,"Wheaton Way TC",,1,EW2SA,shp-221-51,0,0
+2576020,221,3,"Wheaton Way TC",,1,EW1,shp-221-51,0,0
+2412090,221,5,"Wheaton Way TC",,1,EW1H,shp-221-51,0,0
+2085090,221,5,"Wheaton Way TC",,1,EW1H,shp-221-51,0,0
+2074020,221,3,"Wheaton Way TC",,1,WS4,shp-221-51,0,0
+1622020,221,3,"Wheaton Way TC",,1,EW1,shp-221-51,0,0
+1707020,221,3,"Wheaton Way TC",,1,WS2,shp-221-51,0,0
+1875020,221,3,"Wheaton Way TC",,1,EW1,shp-221-51,0,0
+1347020,221,3,"Wheaton Way TC",,1,WS5,shp-221-51,0,0
+139090,221,5,"Wheaton Way TC",,1,EW2H,shp-221-51,0,0
+1664020,221,3,"Wheaton Way TC",,1,EW2,shp-221-51,0,0
+1756070,221,4,"Wheaton Way TC",,1,EW1SA,shp-221-51,0,0
+1692020,221,3,"Wheaton Way TC",,1,WS3,shp-221-51,0,0
+1238090,221,5,"Wheaton Way TC",,1,EW1H,shp-221-51,0,0
+116090,221,5,"Wheaton Way TC",,1,EW2H,shp-221-51,0,0
+1330090,221,5,"Wheaton Way TC",,1,EW2H,shp-221-51,0,0
+1277070,221,4,"Wheaton Way TC",,1,EW1SA,shp-221-51,0,0
+1277080,221,1,"Wheaton Way TC",,1,EW1SA,shp-221-51,0,0
+1129020,221,3,"Wheaton Way TC",,1,EW2,shp-221-51,0,0
+1153020,221,3,"Wheaton Way TC",,1,EW3,shp-221-51,0,0
+117020,221,3,"Wheaton Way TC",,1,EW2,shp-221-51,0,0
+1066020,221,3,"Wheaton Way TC",,1,WS1,shp-221-51,0,0
+1002020,221,3,"Wheaton Way TC",,1,EW2,shp-221-51,0,0
+183020,221,3,"Wheaton Way TC",,1,EW2,shp-221-51,0,0
+1966090,221,5,"Wheaton Way TC",,1,EW2H,shp-221-51,0,0
+1648090,221,5,"Wheaton Way TC",,1,EW1H,shp-221-51,0,0
+293020,221,3,"Wheaton Way TC",,1,EW2,shp-221-51,0,0
+290080,221,1,"Wheaton Way TC",,1,EW1SA,shp-221-51,0,0
+1756080,221,1,"Wheaton Way TC",,1,EW1SA,shp-221-51,0,0
+2381020,221,3,"Wheaton Way TC",,1,WS1,shp-221-51,0,0
+316070,221,4,"Wheaton Way TC",,1,EW2SA,shp-221-51,0,0
+290070,221,4,"Wheaton Way TC",,1,EW1SA,shp-221-51,0,0
+264090,221,5,"Wheaton Way TC",,1,EW1H,shp-221-51,0,0
+2336020,221,3,"Wheaton Way TC",,1,EW1,shp-221-51,0,0
+2326090,221,5,"Wheaton Way TC",,1,EW2H,shp-221-51,0,0
+2538020,221,3,"Wheaton Way TC",,1,EW1,shp-221-51,0,0
+2133020,221,3,"Wheaton Way TC",,1,EW2,shp-221-51,0,0
+2045080,221,1,"Wheaton Way TC",,1,EW2SA,shp-221-51,0,0
+2045070,221,4,"Wheaton Way TC",,1,EW2SA,shp-221-51,0,0
+1980020,221,3,"Wheaton Way TC",,1,WS1,shp-221-51,0,0
+2265020,222,3,"Bremerton TC",,0,ES2,shp-222-01,0,0
+1810020,222,3,"Bremerton TC",,0,ES1,shp-222-01,0,0
+2001020,222,3,"Bremerton TC",,0,A17,shp-222-01,0,0
+1961020,222,3,"Bremerton TC",,0,A19,shp-222-01,0,0
+2064020,222,3,"Bremerton TC",,0,A17,shp-222-01,0,0
+1582020,222,3,"Bremerton TC",,0,A17,shp-222-01,0,0
+806020,222,3,"Bremerton TC",,0,A6,shp-222-01,0,0
+2496020,222,3,"Gateway P&R and Bremerton UM P&R",,1,P6,shp-222-51,0,0
+1177020,222,3,"Gateway P&R and Bremerton UM P&R",,1,P6,shp-222-51,0,0
+1267020,222,3,"Gateway P&R and Bremerton UM P&R",,1,P6,shp-222-51,0,0
+1573020,222,3,"Gateway P&R and Bremerton UM P&R",,1,P17,shp-222-51,0,0
+1352020,223,3,"Silverdale TC",,1,ES1,shp-223-51,0,0
+1730090,223,5,"Silverdale TC",,1,ES1H,shp-223-51,0,0
+1954020,223,3,"Silverdale TC",,1,ES2,shp-223-51,0,0
+1253070,223,4,"Silverdale TC",,1,ES1SA,shp-223-51,0,0
+1404080,223,1,"Silverdale TC",,1,ES1SA,shp-223-51,0,0
+1360070,223,4,"Silverdale TC",,1,ES2SA,shp-223-51,0,0
+1360080,223,1,"Silverdale TC",,1,ES2SA,shp-223-51,0,0
+1404070,223,4,"Silverdale TC",,1,ES1SA,shp-223-51,0,0
+1383090,223,5,"Silverdale TC",,1,ES2H,shp-223-51,0,0
+1168020,223,3,"Silverdale TC",,1,ES1,shp-223-51,0,0
+1253080,223,1,"Silverdale TC",,1,ES1SA,shp-223-51,0,0
+104020,223,3,"Silverdale TC",,1,ES1,shp-223-51,0,0
+1051080,223,1,"Silverdale TC",,1,ES1SA,shp-223-51,0,0
+1051070,223,4,"Silverdale TC",,1,ES1SA,shp-223-51,0,0
+1197020,223,3,"Silverdale TC",,1,ES2,shp-223-51,0,0
+2450020,223,3,"Silverdale TC",,1,ES1,shp-223-51,0,0
+211020,223,3,"Silverdale TC",,1,ES2,shp-223-51,0,0
+1685090,223,5,"Silverdale TC",,1,ES2H,shp-223-51,0,0
+2093090,223,5,"Silverdale TC",,1,ES1H,shp-223-51,0,0
+2574070,223,4,"Silverdale TC",,1,ES2SA,shp-223-51,0,0
+2120090,223,5,"Silverdale TC",,1,ES1H,shp-223-51,0,0
+2141080,223,1,"Silverdale TC",,1,ES2SA,shp-223-51,0,0
+617020,223,3,"Silverdale TC",,1,ES1,shp-223-51,0,0
+669090,223,5,"Silverdale TC",,1,ES1H,shp-223-51,0,0
+603080,223,1,"Silverdale TC",,1,ES2SA,shp-223-51,0,0
+1746020,223,3,"Silverdale TC",,1,ES2,shp-223-51,0,0
+1708090,223,5,"Silverdale TC",,1,ES2H,shp-223-51,0,0
+1938020,223,3,"Silverdale TC",,1,ES1,shp-223-51,0,0
+2141070,223,4,"Silverdale TC",,1,ES2SA,shp-223-51,0,0
+658090,223,5,"Silverdale TC",,1,ES2H,shp-223-51,0,0
+603070,223,4,"Silverdale TC",,1,ES2SA,shp-223-51,0,0
+2574080,223,1,"Silverdale TC",,1,ES2SA,shp-223-51,0,0
+654090,223,5,"Silverdale TC",,1,ES1H,shp-223-51,0,0
+2387070,223,4,"Silverdale TC",,1,ES1SA,shp-223-51,0,0
+2387080,223,1,"Silverdale TC",,1,ES1SA,shp-223-51,0,0
+744020,223,3,"Silverdale TC",,1,ES2,shp-223-51,0,0
+958020,223,3,"Silverdale TC",,1,ES2,shp-223-51,0,0
+954020,223,3,"Silverdale TC",,1,ES1,shp-223-51,0,0
+808090,223,5,"Silverdale TC",,1,ES2H,shp-223-51,0,0
+746080,223,1,"Wheaton Way TC",,0,ES2SA,shp-223-01,0,0
+77090,223,5,"Wheaton Way TC",,0,ES2H,shp-223-01,0,0
+467070,223,4,"Wheaton Way TC",,0,ES1SA,shp-223-01,0,0
+2618020,223,3,"Wheaton Way TC",,0,ES2,shp-223-01,0,0
+467080,223,1,"Wheaton Way TC",,0,ES1SA,shp-223-01,0,0
+2372070,223,4,"Wheaton Way TC",,0,ES2SA,shp-223-01,0,0
+2604090,223,5,"Wheaton Way TC",,0,ES2H,shp-223-01,0,0
+265090,223,5,"Wheaton Way TC",,0,ES1H,shp-223-01,0,0
+419020,223,3,"Wheaton Way TC",,0,ES2,shp-223-01,0,0
+746070,223,4,"Wheaton Way TC",,0,ES2SA,shp-223-01,0,0
+904090,223,5,"Wheaton Way TC",,0,ES1H,shp-223-01,0,0
+856020,223,3,"Wheaton Way TC",,0,NB4,shp-223-01,0,0
+2118070,223,4,"Wheaton Way TC",,0,ES1SA,shp-223-01,0,0
+2194020,223,3,"Wheaton Way TC",,0,ES2,shp-223-01,0,0
+410090,223,5,"Wheaton Way TC",,0,ES2H,shp-223-01,0,0
+1825090,223,5,"Wheaton Way TC",,0,ES1H,shp-223-01,0,0
+1741020,223,3,"Wheaton Way TC",,0,ES1,shp-223-01,0,0
+2423090,223,5,"Wheaton Way TC",,0,ES2H,shp-223-01,0,0
+2118080,223,1,"Wheaton Way TC",,0,ES1SA,shp-223-01,0,0
+2188090,223,5,"Wheaton Way TC",,0,ES2H,shp-223-01,0,0
+1822080,223,1,"Wheaton Way TC",,0,ES1SA,shp-223-01,0,0
+267020,223,3,"Wheaton Way TC",,0,ES1,shp-223-01,0,0
+2184020,223,3,"Wheaton Way TC",,0,ES1,shp-223-01,0,0
+2613020,223,3,"Wheaton Way TC",,0,ES2,shp-223-01,0,0
+441020,223,3,"Wheaton Way TC",,0,ES1,shp-223-01,0,0
+2435020,223,3,"Wheaton Way TC",,0,ES2,shp-223-01,0,0
+2372080,223,1,"Wheaton Way TC",,0,ES2SA,shp-223-01,0,0
+1070070,223,4,"Wheaton Way TC",,0,ES2SA,shp-223-01,0,0
+1098020,223,3,"Wheaton Way TC",,0,ES2,shp-223-01,0,0
+1070080,223,1,"Wheaton Way TC",,0,ES2SA,shp-223-01,0,0
+1136090,223,5,"Wheaton Way TC",,0,ES1H,shp-223-01,0,0
+1473070,223,4,"Wheaton Way TC",,0,ES1SA,shp-223-01,0,0
+1473080,223,1,"Wheaton Way TC",,0,ES1SA,shp-223-01,0,0
+159080,223,1,"Wheaton Way TC",,0,ES1SA,shp-223-01,0,0
+1551070,223,4,"Wheaton Way TC",,0,ES2SA,shp-223-01,0,0
+1681020,223,3,"Wheaton Way TC",,0,ES1,shp-223-01,0,0
+173090,223,5,"Wheaton Way TC",,0,ES1H,shp-223-01,0,0
+1551080,223,1,"Wheaton Way TC",,0,ES2SA,shp-223-01,0,0
+1874020,223,3,"Wheaton Way TC",,0,ES1,shp-223-01,0,0
+1822070,223,4,"Wheaton Way TC",,0,ES1SA,shp-223-01,0,0
+159070,223,4,"Wheaton Way TC",,0,ES1SA,shp-223-01,0,0
+1663090,224,5,"Bremerton TC",,0,WS1H,shp-224-02,0,0
+1182020,224,3,"Bremerton TC",,0,WS3,shp-224-02,0,0
+1275020,224,3,"Bremerton TC",,0,WS5,shp-224-02,0,0
+1214080,224,1,"Bremerton TC",,0,WS1SA,shp-224-02,0,0
+1237080,224,1,"Bremerton TC",,0,WS3SA,shp-224-02,0,0
+1684090,224,5,"Bremerton TC",,0,WS3H,shp-224-02,0,0
+1721020,224,3,"Bremerton TC",,0,WS4,shp-224-02,0,0
+1557020,224,3,"Bremerton TC",,0,WS2,shp-224-01,0,0
+1416020,224,3,"Bremerton TC",,0,WS4,shp-224-02,0,0
+1237070,224,4,"Bremerton TC",,0,WS3SA,shp-224-02,0,0
+1162080,224,1,"Bremerton TC",,0,WS3SA,shp-224-02,0,0
+1214070,224,4,"Bremerton TC",,0,WS1SA,shp-224-02,0,0
+1118090,224,5,"Bremerton TC",,0,WS3H,shp-224-02,0,0
+1162070,224,4,"Bremerton TC",,0,WS3SA,shp-224-02,0,0
+426020,224,3,"Bremerton TC",,0,WS2,shp-224-02,0,0
+886020,224,3,"Bremerton TC",,0,WS3,shp-224-02,0,0
+2566080,224,1,"Bremerton TC",,0,WS1SA,shp-224-02,0,0
+2408080,224,1,"Bremerton TC",,0,WS1SA,shp-224-02,0,0
+2584020,224,3,"Bremerton TC",,0,WS3,shp-224-02,0,0
+2607090,224,5,"Bremerton TC",,0,WS3H,shp-224-02,0,0
+802070,224,4,"Bremerton TC",,0,WS2SA,shp-224-02,0,0
+2365020,224,3,"Bremerton TC",,0,WS1,shp-224-02,0,0
+2359020,224,3,"Bremerton TC",,0,WS2,shp-224-02,0,0
+2408070,224,4,"Bremerton TC",,0,WS1SA,shp-224-02,0,0
+2477020,224,3,"Bremerton TC",,0,WS1,shp-224-02,0,0
+2016090,224,5,"Bremerton TC",,0,WS2H,shp-224-02,0,0
+2067090,224,5,"Bremerton TC",,0,WS1H,shp-224-02,0,0
+2566070,224,4,"Bremerton TC",,0,WS1SA,shp-224-02,0,0
+345090,224,5,"Bremerton TC",,0,WS2H,shp-224-02,0,0
+1842090,224,5,"Bremerton TC",,0,WS2H,shp-224-02,0,0
+1992020,224,3,"Bremerton TC",,0,WS1,shp-224-02,0,0
+664020,224,3,"Bremerton TC",,0,WS3,shp-224-02,0,0
+992020,224,3,"Bremerton TC",,0,WS2,shp-224-02,0,0
+85070,224,4,"Bremerton TC",,0,WS2SA,shp-224-02,0,0
+731020,224,3,"Bremerton TC",,0,A4,shp-224-02,0,0
+320020,224,3,"Bremerton TC",,0,A4,shp-224-02,0,0
+555090,224,5,"Bremerton TC",,0,WS2H,shp-224-02,0,0
+380020,224,3,"Bremerton TC",,0,WS1,shp-224-01,0,0
+802080,224,1,"Bremerton TC",,0,WS2SA,shp-224-02,0,0
+696090,224,5,"Bremerton TC",,0,WS1H,shp-224-02,0,0
+85080,224,1,"Bremerton TC",,0,WS2SA,shp-224-02,0,0
+940090,224,5,"West Bremerton TC",,1,WS2H,shp-224-51,0,0
+2479020,224,3,"West Bremerton TC",,1,WS1,shp-224-51,0,0
+352090,224,5,"West Bremerton TC",,1,WS1H,shp-224-51,0,0
+2442070,224,4,"West Bremerton TC",,1,WS1SA,shp-224-51,0,0
+2442080,224,1,"West Bremerton TC",,1,WS1SA,shp-224-51,0,0
+575090,224,5,"West Bremerton TC",,1,WS3H,shp-224-51,0,0
+840020,224,3,"West Bremerton TC",,1,WS4,shp-224-51,0,0
+351020,224,3,"West Bremerton TC",,1,WS1,shp-224-51,0,0
+2201090,224,5,"West Bremerton TC",,1,WS3H,shp-224-51,0,0
+2052020,224,3,"West Bremerton TC",,1,WS4,shp-224-51,0,0
+1840090,224,5,"West Bremerton TC",,1,WS2H,shp-224-51,0,0
+172080,224,1,"West Bremerton TC",,1,WS2SA,shp-224-51,0,0
+1641070,224,4,"West Bremerton TC",,1,WS3SA,shp-224-51,0,0
+71070,224,4,"West Bremerton TC",,1,WS1SA,shp-224-51,0,0
+71080,224,1,"West Bremerton TC",,1,WS1SA,shp-224-51,0,0
+2458090,224,5,"West Bremerton TC",,1,WS3H,shp-224-51,0,0
+2160090,224,5,"West Bremerton TC",,1,WS1H,shp-224-51,0,0
+2185020,224,3,"West Bremerton TC",,1,WS1,shp-224-51,0,0
+27020,224,3,"West Bremerton TC",,1,WS5,shp-224-51,0,0
+2622070,224,4,"West Bremerton TC",,1,WS2SA,shp-224-51,0,0
+2622080,224,1,"West Bremerton TC",,1,WS2SA,shp-224-51,0,0
+2205090,224,5,"West Bremerton TC",,1,WS3H,shp-224-51,0,0
+2478070,224,4,"West Bremerton TC",,1,WS1SA,shp-224-51,0,0
+2478080,224,1,"West Bremerton TC",,1,WS1SA,shp-224-51,0,0
+98020,224,3,"West Bremerton TC",,1,WS2,shp-224-51,0,0
+2367020,224,3,"West Bremerton TC",,1,WS3,shp-224-51,0,0
+286020,224,3,"West Bremerton TC",,1,WS2,shp-224-51,0,0
+1114090,224,5,"West Bremerton TC",,1,WS2H,shp-224-51,0,0
+103080,224,1,"West Bremerton TC",,1,WS3SA,shp-224-51,0,0
+1174090,224,5,"West Bremerton TC",,1,WS1H,shp-224-51,0,0
+103070,224,4,"West Bremerton TC",,1,WS3SA,shp-224-51,0,0
+1199020,224,3,"West Bremerton TC",,1,P1,shp-224-51,0,0
+1333090,224,5,"West Bremerton TC",,1,WS2H,shp-224-51,0,0
+1166070,224,4,"West Bremerton TC",,1,WS3SA,shp-224-51,0,0
+1299020,224,3,"West Bremerton TC",,1,WS2,shp-224-51,0,0
+158020,224,3,"West Bremerton TC",,1,WS3,shp-224-51,0,0
+1166080,224,1,"West Bremerton TC",,1,WS3SA,shp-224-51,0,0
+1450020,224,3,"West Bremerton TC",,1,WS3,shp-224-51,0,0
+1641080,224,1,"West Bremerton TC",,1,WS3SA,shp-224-51,0,0
+172070,224,4,"West Bremerton TC",,1,WS2SA,shp-224-51,0,0
+1666070,225,4,"Bremerton TC",,0,ES2SA,shp-225-01,0,0
+1273020,225,3,"Bremerton TC",,0,ES2,shp-225-01,0,0
+1715020,225,3,"Bremerton TC",,0,ES2,shp-225-01,0,0
+1666080,225,1,"Bremerton TC",,0,ES2SA,shp-225-01,0,0
+2024090,225,5,"Bremerton TC",,0,ES1H,shp-225-01,0,0
+147090,225,5,"Bremerton TC",,0,ES1H,shp-225-01,0,0
+1339090,225,5,"Bremerton TC",,0,ES2H,shp-225-01,0,0
+1194070,225,4,"Bremerton TC",,0,ES2SA,shp-225-01,0,0
+145020,225,3,"Bremerton TC",,0,ES1,shp-225-01,0,0
+1188020,225,3,"Bremerton TC",,0,ES1,shp-225-01,0,0
+114090,225,5,"Bremerton TC",,0,ES1H,shp-225-01,0,0
+1138090,225,5,"Bremerton TC",,0,ES1H,shp-225-01,0,0
+1194080,225,1,"Bremerton TC",,0,ES2SA,shp-225-01,0,0
+100090,225,5,"Bremerton TC",,0,ES2H,shp-225-01,0,0
+2354090,225,5,"Bremerton TC",,0,ES2H,shp-225-01,0,0
+2189020,225,3,"Bremerton TC",,0,ES1,shp-225-01,0,0
+2139020,225,3,"Bremerton TC",,0,ES1,shp-225-01,0,0
+2199070,225,4,"Bremerton TC",,0,ES1SA,shp-225-01,0,0
+2053020,225,3,"Bremerton TC",,0,A5,shp-225-01,0,0
+2356020,225,3,"Bremerton TC",,0,WS5,shp-225-01,0,0
+1977020,225,3,"Bremerton TC",,0,ES2,shp-225-01,0,0
+238020,225,3,"Bremerton TC",,0,WS2,shp-225-01,0,0
+788070,225,4,"Bremerton TC",,0,ES1SA,shp-225-01,0,0
+2503020,225,3,"Bremerton TC",,0,WS4,shp-225-01,0,0
+1711020,225,3,"Bremerton TC",,0,ES2,shp-225-01,0,0
+1971090,225,5,"Bremerton TC",,0,ES1H,shp-225-01,0,0
+1877070,225,4,"Bremerton TC",,0,ES2SA,shp-225-01,0,0
+1877080,225,1,"Bremerton TC",,0,ES2SA,shp-225-01,0,0
+1738020,225,3,"Bremerton TC",,0,ES2,shp-225-01,0,0
+2552090,225,5,"Bremerton TC",,0,ES2H,shp-225-01,0,0
+2199080,225,1,"Bremerton TC",,0,ES1SA,shp-225-01,0,0
+2005020,225,3,"Bremerton TC",,0,ES2,shp-225-01,0,0
+564080,225,1,"Bremerton TC",,0,ES1SA,shp-225-01,0,0
+521090,225,5,"Bremerton TC",,0,ES2H,shp-225-01,0,0
+421020,225,3,"Bremerton TC",,0,ES2,shp-225-01,0,0
+685020,225,3,"Bremerton TC",,0,A5,shp-225-01,0,0
+725020,225,3,"Bremerton TC",,0,ES1,shp-225-01,0,0
+740090,225,5,"Bremerton TC",,0,ES1H,shp-225-01,0,0
+73070,225,4,"Bremerton TC",,0,ES2SA,shp-225-01,0,0
+271020,225,3,"Bremerton TC",,0,ES1,shp-225-01,0,0
+564070,225,4,"Bremerton TC",,0,ES1SA,shp-225-01,0,0
+2544020,225,3,"Bremerton TC",,0,ES2,shp-225-01,0,0
+2530020,225,3,"Bremerton TC",,0,ES2,shp-225-01,0,0
+788080,225,1,"Bremerton TC",,0,ES1SA,shp-225-01,0,0
+73080,225,1,"Bremerton TC",,0,ES2SA,shp-225-01,0,0
+57020,225,3,"Bremerton TC",,0,ES1,shp-225-01,0,0
+502080,225,1,"Wheaton Way TC",,1,ES2SA,shp-225-51,0,0
+416080,225,1,"Wheaton Way TC",,1,ES2SA,shp-225-51,0,0
+446090,225,5,"Wheaton Way TC",,1,ES2H,shp-225-51,0,0
+578080,225,1,"Wheaton Way TC",,1,ES1SA,shp-225-51,0,0
+809020,225,3,"Wheaton Way TC",,1,ES2,shp-225-51,0,0
+342020,225,3,"Wheaton Way TC",,1,WS5,shp-225-51,0,0
+29020,225,3,"Wheaton Way TC",,1,ES2,shp-225-51,0,0
+858020,225,3,"Wheaton Way TC",,1,ES1,shp-225-51,0,0
+287090,225,5,"Wheaton Way TC",,1,ES1H,shp-225-51,0,0
+578070,225,4,"Wheaton Way TC",,1,ES1SA,shp-225-51,0,0
+2403020,225,3,"Wheaton Way TC",,1,ES2,shp-225-51,0,0
+319020,225,3,"Wheaton Way TC",,1,WS2,shp-225-51,0,0
+780070,225,4,"Wheaton Way TC",,1,ES1SA,shp-225-51,0,0
+780080,225,1,"Wheaton Way TC",,1,ES1SA,shp-225-51,0,0
+657020,225,3,"Wheaton Way TC",,1,ES2,shp-225-51,0,0
+866090,225,5,"Wheaton Way TC",,1,ES1H,shp-225-51,0,0
+205020,225,3,"Wheaton Way TC",,1,ES2,shp-225-51,0,0
+223090,225,5,"Wheaton Way TC",,1,ES1H,shp-225-51,0,0
+1538020,225,3,"Wheaton Way TC",,1,ES1,shp-225-51,0,0
+2075090,225,5,"Wheaton Way TC",,1,ES2H,shp-225-51,0,0
+1706020,225,3,"Wheaton Way TC",,1,ES2,shp-225-51,0,0
+1623020,225,3,"Wheaton Way TC",,1,ES1,shp-225-51,0,0
+720090,225,5,"Wheaton Way TC",,1,ES2H,shp-225-51,0,0
+672020,225,3,"Wheaton Way TC",,1,ES2,shp-225-51,0,0
+2482090,225,5,"Wheaton Way TC",,1,ES2H,shp-225-51,0,0
+2484020,225,3,"Wheaton Way TC",,1,ES1,shp-225-51,0,0
+2243020,225,3,"Wheaton Way TC",,1,ES1,shp-225-51,0,0
+416070,225,4,"Wheaton Way TC",,1,ES2SA,shp-225-51,0,0
+502070,225,4,"Wheaton Way TC",,1,ES2SA,shp-225-51,0,0
+533020,225,3,"Wheaton Way TC",,1,WS4,shp-225-51,0,0
+111070,225,4,"Wheaton Way TC",,1,ES2SA,shp-225-51,0,0
+1032080,225,1,"Wheaton Way TC",,1,ES1SA,shp-225-51,0,0
+111080,225,1,"Wheaton Way TC",,1,ES2SA,shp-225-51,0,0
+1032070,225,4,"Wheaton Way TC",,1,ES1SA,shp-225-51,0,0
+1250070,225,4,"Wheaton Way TC",,1,ES2SA,shp-225-51,0,0
+1537080,225,1,"Wheaton Way TC",,1,ES2SA,shp-225-51,0,0
+1527090,225,5,"Wheaton Way TC",,1,ES2H,shp-225-51,0,0
+204090,225,5,"Wheaton Way TC",,1,ES1H,shp-225-51,0,0
+1449020,225,3,"Wheaton Way TC",,1,ES2,shp-225-51,0,0
+1812090,225,5,"Wheaton Way TC",,1,ES1H,shp-225-51,0,0
+1250080,225,1,"Wheaton Way TC",,1,ES2SA,shp-225-51,0,0
+1442020,225,3,"Wheaton Way TC",,1,ES1,shp-225-51,0,0
+1487090,225,5,"Wheaton Way TC",,1,ES1H,shp-225-51,0,0
+188020,225,3,"Wheaton Way TC",,1,ES1,shp-225-51,0,0
+1537070,225,4,"Wheaton Way TC",,1,ES2SA,shp-225-51,0,0
+1540020,226,3,"Bremerton TC",,1,EW2,shp-226-01,0,0
+1898070,226,4,"Bremerton TC",,1,WS2SA,shp-226-01,0,0
+1802070,226,4,"Bremerton TC",,1,WS3SA,shp-226-01,0,0
+1618080,226,1,"Bremerton TC",,1,WS2SA,shp-226-01,0,0
+1640020,226,3,"Bremerton TC",,1,WS3,shp-226-01,0,0
+1185080,226,1,"Bremerton TC",,1,WS1SA,shp-226-01,0,0
+1795020,226,3,"Bremerton TC",,1,EW2,shp-226-01,0,0
+1459020,226,3,"Bremerton TC",,1,WS1,shp-226-01,0,0
+1618070,226,4,"Bremerton TC",,1,WS2SA,shp-226-01,0,0
+1526020,226,3,"Bremerton TC",,1,WS2,shp-226-01,0,0
+1385020,226,3,"Bremerton TC",,1,WS4,shp-226-01,0,0
+1227020,226,3,"Bremerton TC",,1,WS3,shp-226-01,0,0
+1163020,226,3,"Bremerton TC",,1,WS3,shp-226-01,0,0
+1185070,226,4,"Bremerton TC",,1,WS1SA,shp-226-01,0,0
+1113020,226,3,"Bremerton TC",,1,WS2,shp-226-01,0,0
+1036090,226,5,"Bremerton TC",,1,WS2H,shp-226-01,0,0
+2624070,226,4,"Bremerton TC",,1,WS1SA,shp-226-01,0,0
+2627020,226,3,"Bremerton TC",,1,WS3,shp-226-01,0,0
+2295020,226,3,"Bremerton TC",,1,A8,shp-226-01,0,0
+2291020,226,3,"Bremerton TC",,1,EW3,shp-226-01,0,0
+1898080,226,1,"Bremerton TC",,1,WS2SA,shp-226-01,0,0
+2377020,226,3,"Bremerton TC",,1,EW3,shp-226-01,0,0
+2087090,226,5,"Bremerton TC",,1,WS3H,shp-226-01,0,0
+2531090,226,5,"Bremerton TC",,1,WS3H,shp-226-01,0,0
+1802080,226,1,"Bremerton TC",,1,WS3SA,shp-226-01,0,0
+2117020,226,3,"Bremerton TC",,1,WS1,shp-226-01,0,0
+486070,226,4,"Bremerton TC",,1,WS3SA,shp-226-01,0,0
+2180020,226,3,"Bremerton TC",,1,WS1,shp-226-01,0,0
+385090,226,5,"Bremerton TC",,1,WS1H,shp-226-01,0,0
+2017020,226,3,"Bremerton TC",,1,WS1,shp-226-01,0,0
+1887090,226,5,"Bremerton TC",,1,WS1H,shp-226-01,0,0
+909020,226,3,"Bremerton TC",,1,WS4,shp-226-01,0,0
+660090,226,5,"Bremerton TC",,1,WS2H,shp-226-01,0,0
+656090,226,5,"Bremerton TC",,1,WS1H,shp-226-01,0,0
+2474020,226,3,"Bremerton TC",,1,A2,shp-226-01,0,0
+486080,226,1,"Bremerton TC",,1,WS3SA,shp-226-01,0,0
+321090,226,5,"Bremerton TC",,1,WS1H,shp-226-01,0,0
+2600090,226,5,"Bremerton TC",,1,WS3H,shp-226-01,0,0
+2621020,226,3,"Bremerton TC",,1,A2,shp-226-01,0,0
+702020,226,3,"Bremerton TC",,1,WS2,shp-226-01,0,0
+561090,226,5,"Bremerton TC",,1,WS3H,shp-226-01,0,0
+331020,226,3,"Bremerton TC",,1,WS3,shp-226-01,0,0
+63020,226,3,"Bremerton TC",,1,WS2,shp-226-01,0,0
+2624080,226,1,"Bremerton TC",,1,WS1SA,shp-226-01,0,0
+2608020,226,3,"Bremerton TC",,1,EW1,shp-226-01,0,0
+395020,226,3,"Bremerton TC",,1,EW1,shp-226-01,0,0
+423070,226,4,"Bremerton TC",,1,WS2SA,shp-226-01,0,0
+423080,226,1,"Bremerton TC",,1,WS2SA,shp-226-01,0,0
+905090,226,5,"Bremerton TC",,1,WS2H,shp-226-01,0,0
+594080,226,1,"West Bremerton TC",,0,WS1SA,shp-226-51,0,0
+897020,226,3,"West Bremerton TC",,0,WS3,shp-226-51,0,0
+634020,226,3,"West Bremerton TC",,0,WS2,shp-226-51,0,0
+2610070,226,4,"West Bremerton TC",,0,WS1SA,shp-226-51,0,0
+2543080,226,1,"West Bremerton TC",,0,WS1SA,shp-226-51,0,0
+59020,226,3,"West Bremerton TC",,0,WS1,shp-226-51,0,0
+2010090,226,5,"West Bremerton TC",,0,WS2H,shp-226-51,0,0
+2125070,226,4,"West Bremerton TC",,0,WS2SA,shp-226-51,0,0
+2125080,226,1,"West Bremerton TC",,0,WS2SA,shp-226-51,0,0
+585020,226,3,"West Bremerton TC",,0,EW3,shp-226-51,0,0
+594070,226,4,"West Bremerton TC",,0,WS1SA,shp-226-51,0,0
+1845080,226,1,"West Bremerton TC",,0,WS3SA,shp-226-51,0,0
+2056020,226,3,"West Bremerton TC",,0,EW3,shp-226-51,0,0
+2072090,226,5,"West Bremerton TC",,0,WS2H,shp-226-51,0,0
+2583080,226,1,"West Bremerton TC",,0,WS2SA,shp-226-51,0,0
+1722020,226,3,"West Bremerton TC",,0,WS2,shp-226-51,0,0
+1824020,226,3,"West Bremerton TC",,0,WS3,shp-226-51,0,0
+2420020,226,3,"West Bremerton TC",,0,EW1,shp-226-51,0,0
+2299020,226,3,"West Bremerton TC",,0,WS1,shp-226-51,0,0
+2097090,226,5,"West Bremerton TC",,0,WS3H,shp-226-51,0,0
+2554020,226,3,"West Bremerton TC",,0,EW3,shp-226-51,0,0
+2543070,226,4,"West Bremerton TC",,0,WS1SA,shp-226-51,0,0
+2166090,226,5,"West Bremerton TC",,0,WS3H,shp-226-51,0,0
+2389020,226,3,"West Bremerton TC",,0,EW2,shp-226-51,0,0
+1979020,226,3,"West Bremerton TC",,0,WS3,shp-226-51,0,0
+2246020,226,3,"West Bremerton TC",,0,WS4,shp-226-51,0,0
+2248090,226,5,"West Bremerton TC",,0,WS2H,shp-226-51,0,0
+2583070,226,4,"West Bremerton TC",,0,WS2SA,shp-226-51,0,0
+2610080,226,1,"West Bremerton TC",,0,WS1SA,shp-226-51,0,0
+1081090,226,5,"West Bremerton TC",,0,WS1H,shp-226-51,0,0
+1056090,226,5,"West Bremerton TC",,0,WS3H,shp-226-51,0,0
+1058090,226,5,"West Bremerton TC",,0,WS1H,shp-226-51,0,0
+1173020,226,3,"West Bremerton TC",,0,EW1,shp-226-51,0,0
+1226090,226,5,"West Bremerton TC",,0,WS3H,shp-226-51,0,0
+1307070,226,4,"West Bremerton TC",,0,WS3SA,shp-226-51,0,0
+1307080,226,1,"West Bremerton TC",,0,WS3SA,shp-226-51,0,0
+1384090,226,5,"West Bremerton TC",,0,WS1H,shp-226-51,0,0
+2333090,226,5,"West Bremerton TC",,0,WS1H,shp-226-51,0,0
+1554020,226,3,"West Bremerton TC",,0,WS3,shp-226-51,0,0
+1617020,226,3,"West Bremerton TC",,0,WS2,shp-226-51,0,0
+2048020,226,3,"West Bremerton TC",,0,WS5,shp-226-51,0,0
+1710020,226,3,"West Bremerton TC",,0,WS2,shp-226-51,0,0
+1804020,226,3,"West Bremerton TC",,0,WS4,shp-226-51,0,0
+181020,226,3,"West Bremerton TC",,0,WS1,shp-226-51,0,0
+1835080,226,1,"West Bremerton TC",,0,WS2SA,shp-226-51,0,0
+1845070,226,4,"West Bremerton TC",,0,WS3SA,shp-226-51,0,0
+1882020,226,3,"West Bremerton TC",,0,A2,shp-226-51,0,0
+184020,226,3,"West Bremerton TC",,0,EW2,shp-226-51,0,0
+1697090,226,5,"West Bremerton TC",,0,WS1H,shp-226-51,0,0
+1835070,226,4,"West Bremerton TC",,0,WS2SA,shp-226-51,0,0
+1312020,228,3,"Bremerton TC",,0,EW3,shp-228-01,0,0
+1491090,228,5,"Bremerton TC",,0,EW1H,shp-228-01,0,0
+1435020,228,3,"Bremerton TC",,0,EW1,shp-228-01,0,0
+2044020,228,3,"Bremerton TC",,0,EW3,shp-228-01,0,0
+1735070,228,4,"Bremerton TC",,0,EW1SA,shp-228-01,0,0
+1735080,228,1,"Bremerton TC",,0,EW1SA,shp-228-01,0,0
+1699020,228,3,"Bremerton TC",,0,EW2,shp-228-01,0,0
+1395020,228,3,"Bremerton TC",,0,EW1,shp-228-01,0,0
+1535090,228,5,"Bremerton TC",,0,EW1H,shp-228-01,0,0
+132080,228,1,"Bremerton TC",,0,EW2SA,shp-228-01,0,0
+122020,228,3,"Bremerton TC",,0,EW1,shp-228-01,0,0
+1179070,228,4,"Bremerton TC",,0,EW1SA,shp-228-01,0,0
+1179080,228,1,"Bremerton TC",,0,EW1SA,shp-228-01,0,0
+132070,228,4,"Bremerton TC",,0,EW2SA,shp-228-01,0,0
+105090,228,5,"Bremerton TC",,0,EW1H,shp-228-01,0,0
+292090,228,5,"Bremerton TC",,0,EW2H,shp-228-01,0,0
+282090,228,5,"Bremerton TC",,0,EW1H,shp-228-01,0,0
+308080,228,1,"Bremerton TC",,0,EW2SA,shp-228-01,0,0
+2313070,228,4,"Bremerton TC",,0,EW2SA,shp-228-01,0,0
+2313080,228,1,"Bremerton TC",,0,EW2SA,shp-228-01,0,0
+1956020,228,3,"Bremerton TC",,0,EW2,shp-228-01,0,0
+2366020,228,3,"Bremerton TC",,0,EW1,shp-228-01,0,0
+768090,228,5,"Bremerton TC",,0,EW2H,shp-228-01,0,0
+2083090,228,5,"Bremerton TC",,0,EW2H,shp-228-01,0,0
+1934020,228,3,"Bremerton TC",,0,EW1,shp-228-01,0,0
+786020,228,3,"Bremerton TC",,0,EW2,shp-228-01,0,0
+700020,228,3,"Bremerton TC",,0,EW2,shp-228-01,0,0
+979090,228,5,"Bremerton TC",,0,EW2H,shp-228-01,0,0
+950020,228,3,"Bremerton TC",,0,EW2,shp-228-01,0,0
+853080,228,1,"Bremerton TC",,0,EW1SA,shp-228-01,0,0
+852090,228,5,"Bremerton TC",,0,EW1H,shp-228-01,0,0
+853070,228,4,"Bremerton TC",,0,EW1SA,shp-228-01,0,0
+574070,228,4,"Bremerton TC",,0,EW2SA,shp-228-01,0,0
+574080,228,1,"Bremerton TC",,0,EW2SA,shp-228-01,0,0
+496080,228,1,"Bremerton TC",,0,EW1SA,shp-228-01,0,0
+308070,228,4,"Bremerton TC",,0,EW2SA,shp-228-01,0,0
+2570020,228,3,"Bremerton TC",,0,EW2,shp-228-01,0,0
+865020,228,3,"Bremerton TC",,0,EW2,shp-228-01,0,0
+431090,228,5,"Bremerton TC",,0,EW1H,shp-228-01,0,0
+984090,228,5,"Bremerton TC",,0,EW2H,shp-228-01,0,0
+496070,228,4,"Bremerton TC",,0,EW1SA,shp-228-01,0,0
+473020,228,3,"West Bremerton TC",,1,EW2,shp-228-51,0,0
+565070,228,4,"West Bremerton TC",,1,EW2SA,shp-228-51,0,0
+583090,228,5,"West Bremerton TC",,1,EW2H,shp-228-51,0,0
+817090,228,5,"West Bremerton TC",,1,EW1H,shp-228-51,0,0
+604090,228,5,"West Bremerton TC",,1,EW1H,shp-228-51,0,0
+777090,228,5,"West Bremerton TC",,1,EW1H,shp-228-51,0,0
+811020,228,3,"West Bremerton TC",,1,EW3,shp-228-51,0,0
+88070,228,4,"West Bremerton TC",,1,EW1SA,shp-228-51,0,0
+88080,228,1,"West Bremerton TC",,1,EW1SA,shp-228-51,0,0
+565080,228,1,"West Bremerton TC",,1,EW2SA,shp-228-51,0,0
+2568020,228,3,"West Bremerton TC",,1,EW2,shp-228-51,0,0
+61090,228,5,"West Bremerton TC",,1,EW1H,shp-228-51,0,0
+1929020,228,3,"West Bremerton TC",,1,EW3,shp-228-51,0,0
+1988070,228,4,"West Bremerton TC",,1,EW2SA,shp-228-51,0,0
+453090,228,5,"West Bremerton TC",,1,EW2H,shp-228-51,0,0
+2073070,228,4,"West Bremerton TC",,1,EW1SA,shp-228-51,0,0
+2073080,228,1,"West Bremerton TC",,1,EW1SA,shp-228-51,0,0
+2099020,228,3,"West Bremerton TC",,1,EW1,shp-228-51,0,0
+219020,228,3,"West Bremerton TC",,1,EW1,shp-228-51,0,0
+2580020,228,3,"West Bremerton TC",,1,EW2,shp-228-51,0,0
+2448090,228,5,"West Bremerton TC",,1,EW2H,shp-228-51,0,0
+1220020,228,3,"West Bremerton TC",,1,EW1,shp-228-51,0,0
+10080,228,1,"West Bremerton TC",,1,EW1SA,shp-228-51,0,0
+127020,228,3,"West Bremerton TC",,1,EW2,shp-228-51,0,0
+10070,228,4,"West Bremerton TC",,1,EW1SA,shp-228-51,0,0
+1417080,228,1,"West Bremerton TC",,1,EW2SA,shp-228-51,0,0
+1553020,228,3,"West Bremerton TC",,1,EW2,shp-228-51,0,0
+1558090,228,5,"West Bremerton TC",,1,EW2H,shp-228-51,0,0
+135020,228,3,"West Bremerton TC",,1,EW1,shp-228-51,0,0
+1417070,228,4,"West Bremerton TC",,1,EW2SA,shp-228-51,0,0
+1418070,228,4,"West Bremerton TC",,1,EW2SA,shp-228-51,0,0
+1988080,228,1,"West Bremerton TC",,1,EW2SA,shp-228-51,0,0
+2035090,228,5,"West Bremerton TC",,1,EW2H,shp-228-51,0,0
+1467090,228,5,"West Bremerton TC",,1,EW1H,shp-228-51,0,0
+1418080,228,1,"West Bremerton TC",,1,EW2SA,shp-228-51,0,0
+1667020,228,3,"West Bremerton TC",,1,EW1,shp-228-51,0,0
+1602090,228,5,"West Bremerton TC",,1,EW1H,shp-228-51,0,0
+1691020,228,3,"West Bremerton TC",,1,EW1,shp-228-51,0,0
+1120020,229,3,"Bremerton TC",,0,A8,shp-229-01,0,0
+1030020,229,3,"Bremerton TC",,0,A8,shp-229-01,0,0
+2572020,229,3,"Bremerton TC",,0,A8,shp-229-01,0,0
+222020,229,3,"Bremerton TC",,0,A8,shp-229-01,0,0
+1967020,229,3,"Wheaton Way TC",,1,P8,shp-229-51,0,0
+2524020,229,3,"Wheaton Way TC",,1,P8,shp-229-51,0,0
+2355020,229,3,"Wheaton Way TC",,1,P8,shp-229-51,0,0
+1574020,229,3,"Wheaton Way TC",,1,P8,shp-229-51,0,0
+1637020,229,3,"Wheaton Way TC",,1,P8,shp-229-51,0,0
+552020,229,3,"Wheaton Way TC",,1,P8,shp-229-51,0,0
+1915020,238,3,"Bremerton TC",,0,A12,shp-238-01,0,0
+1055020,238,3,"Bremerton TC",,0,A12,shp-238-01,0,0
+2025020,238,3,"Bremerton TC",,0,A12,shp-238-01,0,0
+324020,238,3,"West Bremerton TC",,1,P12,shp-238-51,0,0
+981020,238,3,"West Bremerton TC",,1,P12,shp-238-51,0,0
+306020,238,3,"West Bremerton TC",,1,P12,shp-238-51,0,0
+2518090,265,5,"Randall via Bucklin",,1,SS1PH,shp-265-51,0,0
+490090,265,5,"Randall via Bucklin",,1,SS1PH,shp-265-51,0,0
+484020,265,3,"Randall via Bucklin",,1,99SS,shp-265-51,0,0
+495070,265,4,"Randall via Bucklin",,1,SS1SA,shp-265-51,0,0
+593020,265,3,"Randall via Bucklin",,1,99SS,shp-265-51,0,0
+900020,265,3,"Randall via Bucklin",,1,99SS,shp-265-51,0,0
+3090,265,5,"Randall via Bucklin",,1,SS1PH,shp-265-51,0,0
+437070,265,4,"Randall via Bucklin",,1,SS1SA,shp-265-51,0,0
+590090,265,5,"Randall via Bucklin",,1,SS1PH,shp-265-51,0,0
+495080,265,1,"Randall via Bucklin",,1,SS1SA,shp-265-51,0,0
+734020,265,3,"Randall via Bucklin",,1,99SS,shp-265-51,0,0
+695020,265,3,"Randall via Bucklin",,1,99SS,shp-265-51,0,0
+437080,265,1,"Randall via Bucklin",,1,SS1SA,shp-265-51,0,0
+2460020,265,3,"Randall via Bucklin",,1,99SS,shp-265-51,0,0
+1872020,265,3,"Randall via Bucklin",,1,99SS,shp-265-51,0,0
+231090,265,5,"Randall via Bucklin",,1,SS1PH,shp-265-51,0,0
+2145080,265,1,"Randall via Bucklin",,1,SS1SA,shp-265-51,0,0
+2145070,265,4,"Randall via Bucklin",,1,SS1SA,shp-265-51,0,0
+2077070,265,4,"Randall via Bucklin",,1,SS1SA,shp-265-51,0,0
+1862090,265,5,"Randall via Bucklin",,1,SS1AH,shp-265-51,0,0
+2077080,265,1,"Randall via Bucklin",,1,SS1SA,shp-265-51,0,0
+174020,265,3,"Randall via Bucklin",,1,99SS,shp-265-51,0,0
+1815020,265,3,"Randall via Bucklin",,1,99SS,shp-265-51,0,0
+2066070,265,4,"Randall via Bucklin",,1,SS1SA,shp-265-51,0,0
+2066080,265,1,"Randall via Bucklin",,1,SS1SA,shp-265-51,0,0
+1049080,265,1,"Randall via Bucklin",,1,SS1SA,shp-265-51,0,0
+1049070,265,4,"Randall via Bucklin",,1,SS1SA,shp-265-51,0,0
+1072090,265,5,"Randall via Bucklin",,1,SS1PH,shp-265-51,0,0
+1224080,265,1,"Randall via Bucklin",,1,SS1SA,shp-265-51,0,0
+1090080,265,1,"Randall via Bucklin",,1,ES1SA,shp-265-51,0,0
+1090070,265,4,"Randall via Bucklin",,1,ES1SA,shp-265-51,0,0
+1425090,265,5,"Randall via Bucklin",,1,SS1PH,shp-265-51,0,0
+1392020,265,3,"Randall via Bucklin",,1,99SS,shp-265-51,0,0
+1728020,265,3,"Randall via Bucklin",,1,99SS,shp-265-51,0,0
+1790070,265,4,"Randall via Bucklin",,1,SS1SA,shp-265-51,0,0
+1790080,265,1,"Randall via Bucklin",,1,SS1SA,shp-265-51,0,0
+1771070,265,4,"Randall via Bucklin",,1,SS1SA,shp-265-51,0,0
+1224070,265,4,"Randall via Bucklin",,1,SS1SA,shp-265-51,0,0
+1479090,265,5,"Randall via Bucklin",,1,SS1PH,shp-265-51,0,0
+1771080,265,1,"Randall via Bucklin",,1,SS1SA,shp-265-51,0,0
+20090,265,5,"Randall via Bucklin",,1,SS1PH,shp-265-51,0,0
+1433090,265,5,"Randall via Bucklin",,1,SS1AH,shp-265-51,0,0
+1534090,265,5,"Randall via Myhre",,0,SS1PH,shp-265-01,0,0
+1516020,265,3,"Randall via Myhre",,0,99SS,shp-265-01,0,0
+1886070,265,4,"Randall via Myhre",,0,SS1SA,shp-265-01,0,0
+119080,265,1,"Randall via Myhre",,0,SS1SA,shp-265-01,0,0
+1492020,265,3,"Randall via Myhre",,0,99SS,shp-265-01,0,0
+1419090,265,5,"Randall via Myhre",,0,SS1PH,shp-265-01,0,0
+1631090,265,5,"Randall via Myhre",,0,SS1AH,shp-265-01,0,0
+1236020,265,3,"Randall via Myhre",,0,99SS,shp-265-01,0,0
+119070,265,4,"Randall via Myhre",,0,SS1SA,shp-265-01,0,0
+1886080,265,1,"Randall via Myhre",,0,SS1SA,shp-265-01,0,0
+2400080,265,1,"Randall via Myhre",,0,SS1SA,shp-265-01,0,0
+1999090,265,5,"Randall via Myhre",,0,SS1PH,shp-265-01,0,0
+186090,265,5,"Randall via Myhre",,0,SS1PH,shp-265-01,0,0
+1731070,265,4,"Randall via Myhre",,0,ES1SA,shp-265-01,0,0
+2427020,265,3,"Randall via Myhre",,0,99SS,shp-265-01,0,0
+2092070,265,4,"Randall via Myhre",,0,SS1SA,shp-265-01,0,0
+2092080,265,1,"Randall via Myhre",,0,SS1SA,shp-265-01,0,0
+1800020,265,3,"Randall via Myhre",,0,99SS,shp-265-01,0,0
+1731080,265,1,"Randall via Myhre",,0,ES1SA,shp-265-01,0,0
+633070,265,4,"Randall via Myhre",,0,SS1SA,shp-265-01,0,0
+2534090,265,5,"Randall via Myhre",,0,SS1PH,shp-265-01,0,0
+2071090,265,5,"Randall via Myhre",,0,SS1PH,shp-265-01,0,0
+2400070,265,4,"Randall via Myhre",,0,SS1SA,shp-265-01,0,0
+1871090,265,5,"Randall via Myhre",,0,SS1PH,shp-265-01,0,0
+934080,265,1,"Randall via Myhre",,0,SS1SA,shp-265-01,0,0
+927020,265,3,"Randall via Myhre",,0,99SS,shp-265-01,0,0
+449070,265,4,"Randall via Myhre",,0,ES1SA,shp-265-01,0,0
+643090,265,5,"Randall via Myhre",,0,SS1AH,shp-265-01,0,0
+912020,265,3,"Randall via Myhre",,0,99SS,shp-265-01,0,0
+869080,265,1,"Randall via Myhre",,0,SS1SA,shp-265-01,0,0
+610070,265,4,"Randall via Myhre",,0,SS1SA,shp-265-01,0,0
+52020,265,3,"Randall via Myhre",,0,99SS,shp-265-01,0,0
+449080,265,1,"Randall via Myhre",,0,ES1SA,shp-265-01,0,0
+934070,265,4,"Randall via Myhre",,0,SS1SA,shp-265-01,0,0
+288020,265,3,"Randall via Myhre",,0,99SS,shp-265-01,0,0
+670070,265,4,"Randall via Myhre",,0,SS1SA,shp-265-01,0,0
+670080,265,1,"Randall via Myhre",,0,SS1SA,shp-265-01,0,0
+671020,265,3,"Randall via Myhre",,0,99SS,shp-265-01,0,0
+869070,265,4,"Randall via Myhre",,0,SS1SA,shp-265-01,0,0
+736090,265,5,"Randall via Myhre",,0,SS1PH,shp-265-01,0,0
+262090,265,5,"Randall via Myhre",,0,SS1AH,shp-265-01,0,0
+482020,265,3,"Randall via Myhre",,0,99SS,shp-265-01,0,0
+633080,265,1,"Randall via Myhre",,0,SS1SA,shp-265-01,0,0
+610080,265,1,"Randall via Myhre",,0,SS1SA,shp-265-01,0,0
+2444090,266,5,"Silverdale TC",,0,SS2H,shp-266-01,0,0
+579090,266,5,"Silverdale TC",,0,SS2H,shp-266-01,0,0
+413070,266,4,"Silverdale TC",,0,SS2SA,shp-266-01,0,0
+413080,266,1,"Silverdale TC",,0,SS2SA,shp-266-01,0,0
+427090,266,5,"Silverdale TC",,0,SS2H,shp-266-01,0,0
+925080,266,1,"Silverdale TC",,0,SS2SA,shp-266-01,0,0
+956090,266,5,"Silverdale TC",,0,SS2H,shp-266-01,0,0
+83070,266,4,"Silverdale TC",,0,SS2SA,shp-266-01,0,0
+313080,266,1,"Silverdale TC",,0,SS2SA,shp-266-01,0,0
+871090,266,5,"Silverdale TC",,0,SS2H,shp-266-01,0,0
+818020,266,3,"Silverdale TC",,0,SS2,shp-266-01,0,0
+982070,266,4,"Silverdale TC",,0,SS2SA,shp-266-01,0,0
+448090,266,5,"Silverdale TC",,0,SS2H,shp-266-01,0,0
+884070,266,4,"Silverdale TC",,0,SS2SA,shp-266-01,0,0
+830020,266,3,"Silverdale TC",,0,SS2,shp-266-01,0,0
+83080,266,1,"Silverdale TC",,0,SS2SA,shp-266-01,0,0
+81020,266,3,"Silverdale TC",,0,SS2,shp-266-01,0,0
+973020,266,3,"Silverdale TC",,0,SS2,shp-266-01,0,0
+941080,266,1,"Silverdale TC",,0,SS2SA,shp-266-01,0,0
+558020,266,3,"Silverdale TC",,0,SS2,shp-266-01,0,0
+517080,266,1,"Silverdale TC",,0,SS2SA,shp-266-01,0,0
+2351090,266,5,"Silverdale TC",,0,SS2H,shp-266-01,0,0
+925070,266,4,"Silverdale TC",,0,SS2SA,shp-266-01,0,0
+941070,266,4,"Silverdale TC",,0,SS2SA,shp-266-01,0,0
+982080,266,1,"Silverdale TC",,0,SS2SA,shp-266-01,0,0
+499090,266,5,"Silverdale TC",,0,SS2H,shp-266-01,0,0
+517070,266,4,"Silverdale TC",,0,SS2SA,shp-266-01,0,0
+328020,266,3,"Silverdale TC",,0,SS2,shp-266-01,0,0
+333020,266,3,"Silverdale TC",,0,SS2,shp-266-01,0,0
+313070,266,4,"Silverdale TC",,0,SS2SA,shp-266-01,0,0
+2318070,266,4,"Silverdale TC",,0,SS2SA,shp-266-01,0,0
+2239080,266,1,"Silverdale TC",,0,SS2SA,shp-266-01,0,0
+2304020,266,3,"Silverdale TC",,0,SS2,shp-266-01,0,0
+2547020,266,3,"Silverdale TC",,0,SS2,shp-266-01,0,0
+2357090,266,5,"Silverdale TC",,0,SS2H,shp-266-01,0,0
+2506020,266,3,"Silverdale TC",,0,SS2,shp-266-01,0,0
+884080,266,1,"Silverdale TC",,0,SS2SA,shp-266-01,0,0
+820090,266,5,"Silverdale TC",,0,SS2H,shp-266-01,0,0
+191070,266,4,"Silverdale TC",,0,SS2SA,shp-266-01,0,0
+191080,266,1,"Silverdale TC",,0,SS2SA,shp-266-01,0,0
+1948020,266,3,"Silverdale TC",,0,SS2,shp-266-01,0,0
+1714090,266,5,"Silverdale TC",,0,SS2H,shp-266-01,0,0
+2154020,266,3,"Silverdale TC",,0,SS2,shp-266-01,0,0
+1955020,266,3,"Silverdale TC",,0,SS2,shp-266-01,0,0
+2434090,266,5,"Silverdale TC",,0,SS2H,shp-266-01,0,0
+2441070,266,4,"Silverdale TC",,0,SS2SA,shp-266-01,0,0
+2441080,266,1,"Silverdale TC",,0,SS2SA,shp-266-01,0,0
+1652070,266,4,"Silverdale TC",,0,SS2SA,shp-266-01,0,0
+259090,266,5,"Silverdale TC",,0,SS2H,shp-266-01,0,0
+2239070,266,4,"Silverdale TC",,0,SS2SA,shp-266-01,0,0
+2063090,266,5,"Silverdale TC",,0,SS2H,shp-266-01,0,0
+2375020,266,3,"Silverdale TC",,0,SS2,shp-266-01,0,0
+2193090,266,5,"Silverdale TC",,0,SS2H,shp-266-01,0,0
+1231070,266,4,"Silverdale TC",,0,SS2SA,shp-266-01,0,0
+112090,266,5,"Silverdale TC",,0,SS2H,shp-266-01,0,0
+1071020,266,3,"Silverdale TC",,0,SS2,shp-266-01,0,0
+110080,266,1,"Silverdale TC",,0,SS2SA,shp-266-01,0,0
+1137020,266,3,"Silverdale TC",,0,SS2,shp-266-01,0,0
+1262070,266,4,"Silverdale TC",,0,SS2SA,shp-266-01,0,0
+110070,266,4,"Silverdale TC",,0,SS2SA,shp-266-01,0,0
+1048020,266,3,"Silverdale TC",,0,SS2,shp-266-01,0,0
+1012020,266,3,"Silverdale TC",,0,SS2,shp-266-01,0,0
+120080,266,1,"Silverdale TC",,0,SS2SA,shp-266-01,0,0
+1386090,266,5,"Silverdale TC",,0,SS2H,shp-266-01,0,0
+1294020,266,3,"Silverdale TC",,0,SS2,shp-266-01,0,0
+1496020,266,3,"Silverdale TC",,0,SS2,shp-266-01,0,0
+1372020,266,3,"Silverdale TC",,0,SS2,shp-266-01,0,0
+1262080,266,1,"Silverdale TC",,0,SS2SA,shp-266-01,0,0
+1231080,266,1,"Silverdale TC",,0,SS2SA,shp-266-01,0,0
+1239090,266,5,"Silverdale TC",,0,SS2H,shp-266-01,0,0
+120070,266,4,"Silverdale TC",,0,SS2SA,shp-266-01,0,0
+1407090,266,5,"Silverdale TC",,0,SS2H,shp-266-01,0,0
+1652080,266,1,"Silverdale TC",,0,SS2SA,shp-266-01,0,0
+1811070,266,4,"Silverdale TC",,0,SS2SA,shp-266-01,0,0
+1518020,266,3,"Silverdale TC",,0,SS2,shp-266-01,0,0
+1196090,266,5,"Silverdale TC",,0,SS2H,shp-266-01,0,0
+1811080,266,1,"Silverdale TC",,0,SS2SA,shp-266-01,0,0
+1694020,266,3,"Silverdale TC",,0,SS2,shp-266-01,0,0
+1987090,266,5,"Silverdale TC",,0,SS2H,shp-266-01,0,0
+2341090,266,5,"Silverdale TC",,0,SS2H,shp-266-01,0,0
+2318080,266,1,"Silverdale TC",,0,SS2SA,shp-266-01,0,0
+2330070,266,4,"Silverdale TC",,0,SS2SA,shp-266-01,0,0
+2330080,266,1,"Silverdale TC",,0,SS2SA,shp-266-01,0,0
+1560020,266,3,"Silverdale TC",,0,SS2,shp-266-01,0,0
+2079090,266,5,"Silverdale TC",,0,SS2H,shp-266-01,0,0
+2082020,266,3,"Silverdale TC",,0,SS2,shp-266-01,0,0
+1440070,266,4,"Silverdale TC",,0,SS2SA,shp-266-01,0,0
+1440080,266,1,"Silverdale TC",,0,SS2SA,shp-266-01,0,0
+1488080,266,1,"The Trails",,1,SS2SA,shp-266-51,0,0
+1500020,266,3,"The Trails",,1,SS2,shp-266-51,0,0
+1757020,266,3,"The Trails",,1,SS2,shp-266-51,0,0
+2288020,266,3,"The Trails",,1,SS2,shp-266-51,0,0
+1488070,266,4,"The Trails",,1,SS2SA,shp-266-51,0,0
+1245020,266,3,"The Trails",,1,SS2,shp-266-51,0,0
+166070,266,4,"The Trails",,1,SS2SA,shp-266-51,0,0
+1494020,266,3,"The Trails",,1,SS2,shp-266-51,0,0
+1918090,266,5,"The Trails",,1,SS2H,shp-266-51,0,0
+1888090,266,5,"The Trails",,1,SS2H,shp-266-51,0,0
+1310020,266,3,"The Trails",,1,SS2,shp-266-51,0,0
+1272090,266,5,"The Trails",,1,SS2H,shp-266-51,0,0
+1318090,266,5,"The Trails",,1,SS2H,shp-266-51,0,0
+1195020,266,3,"The Trails",,1,SS2,shp-266-51,0,0
+1366020,266,3,"The Trails",,1,SS2,shp-266-51,0,0
+1432020,266,3,"The Trails",,1,SS2,shp-266-51,0,0
+1382020,266,3,"The Trails",,1,SS2,shp-266-51,0,0
+1158090,266,5,"The Trails",,1,SS2H,shp-266-51,0,0
+1235020,266,3,"The Trails",,1,SS2,shp-266-51,0,0
+1028070,266,4,"The Trails",,1,SS2SA,shp-266-51,0,0
+1257090,266,5,"The Trails",,1,SS2H,shp-266-51,0,0
+1100070,266,4,"The Trails",,1,SS2SA,shp-266-51,0,0
+1100080,266,1,"The Trails",,1,SS2SA,shp-266-51,0,0
+1028080,266,1,"The Trails",,1,SS2SA,shp-266-51,0,0
+2260070,266,4,"The Trails",,1,SS2SA,shp-266-51,0,0
+2267080,266,1,"The Trails",,1,SS2SA,shp-266-51,0,0
+221070,266,4,"The Trails",,1,SS2SA,shp-266-51,0,0
+221080,266,1,"The Trails",,1,SS2SA,shp-266-51,0,0
+1658090,266,5,"The Trails",,1,SS2H,shp-266-51,0,0
+166080,266,1,"The Trails",,1,SS2SA,shp-266-51,0,0
+1737090,266,5,"The Trails",,1,SS2H,shp-266-51,0,0
+1997090,266,5,"The Trails",,1,SS2H,shp-266-51,0,0
+1965090,266,5,"The Trails",,1,SS2H,shp-266-51,0,0
+455080,266,1,"The Trails",,1,SS2SA,shp-266-51,0,0
+2163020,266,3,"The Trails",,1,SS2,shp-266-51,0,0
+39080,266,1,"The Trails",,1,SS2SA,shp-266-51,0,0
+340020,266,3,"The Trails",,1,SS2,shp-266-51,0,0
+1958070,266,4,"The Trails",,1,SS2SA,shp-266-51,0,0
+1958080,266,1,"The Trails",,1,SS2SA,shp-266-51,0,0
+591070,266,4,"The Trails",,1,SS2SA,shp-266-51,0,0
+823020,266,3,"The Trails",,1,SS2,shp-266-51,0,0
+2069020,266,3,"The Trails",,1,SS2,shp-266-51,0,0
+743090,266,5,"The Trails",,1,SS2H,shp-266-51,0,0
+2376090,266,5,"The Trails",,1,SS2H,shp-266-51,0,0
+2334020,266,3,"The Trails",,1,SS2,shp-266-51,0,0
+2548090,266,5,"The Trails",,1,SS2H,shp-266-51,0,0
+2328020,266,3,"The Trails",,1,SS2,shp-266-51,0,0
+2282090,266,5,"The Trails",,1,SS2H,shp-266-51,0,0
+2305020,266,3,"The Trails",,1,SS2,shp-266-51,0,0
+2485080,266,1,"The Trails",,1,SS2SA,shp-266-51,0,0
+2260080,266,1,"The Trails",,1,SS2SA,shp-266-51,0,0
+2267070,266,4,"The Trails",,1,SS2SA,shp-266-51,0,0
+2273090,266,5,"The Trails",,1,SS2H,shp-266-51,0,0
+270090,266,5,"The Trails",,1,SS2H,shp-266-51,0,0
+2406020,266,3,"The Trails",,1,SS2,shp-266-51,0,0
+402070,266,4,"The Trails",,1,SS2SA,shp-266-51,0,0
+412020,266,3,"The Trails",,1,SS2,shp-266-51,0,0
+692090,266,5,"The Trails",,1,SS2H,shp-266-51,0,0
+710070,266,4,"The Trails",,1,SS2SA,shp-266-51,0,0
+710080,266,1,"The Trails",,1,SS2SA,shp-266-51,0,0
+745020,266,3,"The Trails",,1,SS2,shp-266-51,0,0
+679070,266,4,"The Trails",,1,SS2SA,shp-266-51,0,0
+679080,266,1,"The Trails",,1,SS2SA,shp-266-51,0,0
+942070,266,4,"The Trails",,1,SS2SA,shp-266-51,0,0
+857020,266,3,"The Trails",,1,SS2,shp-266-51,0,0
+810080,266,1,"The Trails",,1,SS2SA,shp-266-51,0,0
+942080,266,1,"The Trails",,1,SS2SA,shp-266-51,0,0
+455070,266,4,"The Trails",,1,SS2SA,shp-266-51,0,0
+402080,266,1,"The Trails",,1,SS2SA,shp-266-51,0,0
+991090,266,5,"The Trails",,1,SS2H,shp-266-51,0,0
+591080,266,1,"The Trails",,1,SS2SA,shp-266-51,0,0
+598090,266,5,"The Trails",,1,SS2H,shp-266-51,0,0
+545090,266,5,"The Trails",,1,SS2H,shp-266-51,0,0
+892020,266,3,"The Trails",,1,SS2,shp-266-51,0,0
+358070,266,4,"The Trails",,1,SS2SA,shp-266-51,0,0
+358080,266,1,"The Trails",,1,SS2SA,shp-266-51,0,0
+810070,266,4,"The Trails",,1,SS2SA,shp-266-51,0,0
+623070,266,4,"The Trails",,1,SS2SA,shp-266-51,0,0
+39070,266,4,"The Trails",,1,SS2SA,shp-266-51,0,0
+764090,266,5,"The Trails",,1,SS2H,shp-266-51,0,0
+355020,266,3,"The Trails",,1,SS2,shp-266-51,0,0
+2463090,266,5,"The Trails",,1,SS2H,shp-266-51,0,0
+2485070,266,4,"The Trails",,1,SS2SA,shp-266-51,0,0
+2546070,266,4,"The Trails",,1,SS2SA,shp-266-51,0,0
+2546080,266,1,"The Trails",,1,SS2SA,shp-266-51,0,0
+623080,266,1,"The Trails",,1,SS2SA,shp-266-51,0,0
+268090,266,5,"The Trails",,1,SS2H,shp-266-51,0,0
+300020,266,3,"The Trails",,1,SS2,shp-266-51,0,0
+498020,301,3,"Bremerton TC",,0,SB1,shp-301-01,0,0
+202020,301,3,"Bremerton TC",,0,NK3,shp-301-02,0,0
+2231020,301,3,"Bremerton TC",,0,PB4,shp-301-01,0,0
+1074020,301,3,"Bremerton TC",,0,CPB,shp-301-01,0,0
+1064020,301,3,"Bremerton TC",,0,NK2,shp-301-02,0,0
+1468020,301,3,"Bremerton TC",,0,NK3,shp-301-02,0,0
+2316020,301,3,"Bremerton TC",,0,CPB,shp-301-02,0,0
+2157020,301,3,"Bremerton TC",,0,PB3,shp-301-03,0,0
+1780020,301,3,"North Viking TC",,1,PB3,shp-301-52,0,0
+1454020,301,3,"North Viking TC",,1,NK2,shp-301-52,0,0
+1105020,301,3,"North Viking TC",,1,NK3,shp-301-52,0,0
+923020,301,3,"North Viking TC",,1,PB4,shp-301-54,0,0
+766020,301,3,"North Viking TC",,1,NK1,shp-301-52,0,0
+587020,301,3,"North Viking TC",,1,CPB,shp-301-53,0,0
+576020,301,3,"North Viking TC",,1,NK3,shp-301-54,0,0
+969020,302,3,"Kingston Ferry Terminal",,0,SIKAM,shp-302-02,0,0
+327090,302,5,"Kingston Ferry Terminal",,0,SIKH,shp-302-02,0,0
+2059020,302,3,"Kingston Ferry Terminal",,0,PB3,shp-302-02,0,0
+911020,302,3,"Kingston Ferry Terminal",,0,SIKPM,shp-302-02,0,0
+115020,302,3,"Kingston Ferry Terminal",,0,94PM,shp-302-02,0,0
+1000090,302,5,"Kingston Ferry Terminal",,0,PB7H,shp-302-02,0,0
+1075090,302,5,"Kingston Ferry Terminal",,0,SIKH,shp-302-02,0,0
+1420090,302,5,"Kingston Ferry Terminal",,0,SIKH,shp-302-02,0,0
+1285020,302,3,"Kingston Ferry Terminal",,0,SIKPM,shp-302-02,0,0
+1889090,302,5,"Kingston Ferry Terminal",,0,PB7H,shp-302-02,0,0
+1849090,302,5,"Kingston Ferry Terminal",,0,PB7H,shp-302-02,0,0
+1791020,302,3,"Kingston Ferry Terminal",,0,SIKAM,shp-302-02,0,0
+1857090,302,5,"Suquamish",,1,SS1AH,shp-302-52,0,0
+1399020,302,3,"Suquamish",,1,SIKAM,shp-302-52,0,0
+1369090,302,5,"Suquamish",,1,SIKH,shp-302-52,0,0
+1374020,302,3,"Suquamish",,1,96PM,shp-302-52,0,0
+714090,302,5,"Suquamish",,1,PB7H,shp-302-52,0,0
+2407020,302,3,"Suquamish",,1,SIKPM,shp-302-52,0,0
+2187020,302,3,"Suquamish",,1,CPB,shp-302-52,0,0
+1682090,302,5,"Suquamish",,1,SIKH,shp-302-52,0,0
+535090,302,5,"Suquamish",,1,PB7H,shp-302-52,0,0
+452090,302,5,"Suquamish",,1,SIKH,shp-302-52,0,0
+8020,302,3,"Suquamish",,1,SIKPM,shp-302-52,0,0
+485020,302,3,"Suquamish",,1,SIKAM,shp-302-52,0,0
+436090,307,5,"Kingston",,0,PGKH,shp-307-01,0,0
+770080,307,1,"Kingston",,0,PGKAMSA,shp-307-01,0,0
+2633090,307,5,"Kingston",,0,PB3H,shp-307-01,0,0
+344020,307,3,"Kingston",,0,A23,shp-307-01,0,0
+371020,307,3,"Kingston",,0,NK1,shp-307-01,0,0
+2507020,307,3,"Kingston",,0,P33,shp-307-01,0,0
+2464020,307,3,"Kingston",,0,A22,shp-307-01,0,0
+2473090,307,5,"Kingston",,0,PB6H,shp-307-01,0,0
+2588020,307,3,"Kingston",,0,PB2,shp-307-01,0,0
+754020,307,3,"Kingston",,0,NK1,shp-307-01,0,0
+304080,307,1,"Kingston",,0,PGKAMSA,shp-307-01,0,0
+2137090,307,5,"Kingston",,0,PB5H,shp-307-01,0,0
+2115090,307,5,"Kingston",,0,PB1H,shp-307-01,0,0
+1830080,307,1,"Kingston",,0,PGKPMSA,shp-307-01,0,0
+2279090,307,5,"Kingston",,0,NB1H,shp-307-01,0,0
+2363090,307,5,"Kingston",,0,PB2H,shp-307-01,0,0
+1405020,307,3,"Kingston",,0,PB5,shp-307-01,0,0
+1297020,307,3,"Kingston",,0,P32,shp-307-01,0,0
+1140080,307,1,"Kingston",,0,PGKPMSA,shp-307-01,0,0
+1019090,307,5,"Kingston",,0,PB1H,shp-307-01,0,0
+1026080,307,1,"Kingston",,0,PGKAMSA,shp-307-01,0,0
+1192080,307,1,"Kingston",,0,PGKAMSA,shp-307-01,0,0
+143090,307,5,"Kingston",,0,NB1H,shp-307-01,0,0
+2261020,307,3,"Kingston",,0,CPB,shp-307-01,0,0
+1515020,307,3,"North Viking TC",,1,PB5,shp-307-51,0,0
+1894080,307,1,"North Viking TC",,1,PGKAMSA,shp-307-51,0,0
+1561020,307,3,"North Viking TC",,1,NK1,shp-307-51,0,0
+1565090,307,5,"North Viking TC",,1,NB1H,shp-307-51,0,0
+1251080,307,1,"North Viking TC",,1,PGKAMSA,shp-307-51,0,0
+1206090,307,5,"North Viking TC",,1,PB2H,shp-307-51,0,0
+1326090,307,5,"North Viking TC",,1,PGKH,shp-307-51,0,0
+154020,307,3,"North Viking TC",,1,P32,shp-307-51,0,0
+1578080,307,1,"North Viking TC",,1,PGKPMSA,shp-307-51,0,0
+1709090,307,5,"North Viking TC",,1,NB1H,shp-307-51,0,0
+2171080,307,1,"North Viking TC",,1,PGKPMSA,shp-307-51,0,0
+479020,307,3,"North Viking TC",,1,NK1,shp-307-51,0,0
+2090020,307,3,"North Viking TC",,1,A22,shp-307-51,0,0
+620090,307,5,"North Viking TC",,1,PB3H,shp-307-51,0,0
+474020,307,3,"North Viking TC",,1,PB2,shp-307-51,0,0
+522080,307,1,"North Viking TC",,1,PGKAMSA,shp-307-51,0,0
+253090,307,5,"North Viking TC",,1,PB6H,shp-307-51,0,0
+2533020,307,3,"North Viking TC",,1,NK1,shp-307-51,0,0
+906020,307,3,"North Viking TC",,1,A23,shp-307-51,0,0
+454020,307,3,"North Viking TC",,1,P33,shp-307-51,0,0
+663090,307,5,"North Viking TC",,1,PB1H,shp-307-51,0,0
+469090,307,5,"North Viking TC",,1,PB5H,shp-307-51,0,0
+803090,307,5,"North Viking TC",,1,PB1H,shp-307-51,0,0
+79090,331,5,"North Viking TC",,1,NB2H,shp-331-51,0,0
+951020,331,3,"North Viking TC",,1,NB4,shp-331-51,0,0
+464020,331,3,"North Viking TC",,1,NB2,shp-331-51,0,0
+626070,331,4,"North Viking TC",,1,NB3SA,shp-331-51,0,0
+826070,331,4,"North Viking TC",,1,NB3SA,shp-331-51,0,0
+826080,331,1,"North Viking TC",,1,NB3SA,shp-331-51,0,0
+683020,331,3,"North Viking TC",,1,SB4,shp-331-51,0,0
+622080,331,1,"North Viking TC",,1,NB2SA,shp-331-51,0,0
+626080,331,1,"North Viking TC",,1,NB3SA,shp-331-51,0,0
+392090,331,5,"North Viking TC",,1,SB4H,shp-331-51,0,0
+2575090,331,5,"North Viking TC",,1,NB3H,shp-331-51,0,0
+334020,331,3,"North Viking TC",,1,NB1,shp-331-51,0,0
+2401080,331,1,"North Viking TC",,1,SB2SA,shp-331-51,0,0
+622070,331,4,"North Viking TC",,1,NB2SA,shp-331-51,0,0
+2018020,331,3,"North Viking TC",,1,SB6,shp-331-51,0,0
+1761020,331,3,"North Viking TC",,1,NB2,shp-331-51,0,0
+2486090,331,5,"North Viking TC",,1,PB4H,shp-331-51,0,0
+1647080,331,1,"North Viking TC",,1,NB3SA,shp-331-51,0,0
+2258080,331,1,"North Viking TC",,1,NB1SA,shp-331-51,0,0
+2378080,331,1,"North Viking TC",,1,SB4SA,shp-331-51,0,0
+1834020,331,3,"North Viking TC",,1,SB4,shp-331-51,0,0
+1536090,331,5,"North Viking TC",,1,SB4H,shp-331-51,0,0
+2388080,331,1,"North Viking TC",,1,NB1SA,shp-331-51,0,0
+2370080,331,1,"North Viking TC",,1,SB4SA,shp-331-51,0,0
+2378070,331,4,"North Viking TC",,1,SB4SA,shp-331-51,0,0
+303020,331,3,"North Viking TC",,1,SB6,shp-331-51,0,0
+2258070,331,4,"North Viking TC",,1,NB1SA,shp-331-51,0,0
+2269020,331,3,"North Viking TC",,1,SB4,shp-331-51,0,0
+2204090,331,5,"North Viking TC",,1,NB1H,shp-331-51,0,0
+2625090,331,5,"North Viking TC",,1,NB1H,shp-331-51,0,0
+1913070,331,4,"North Viking TC",,1,SB6SA,shp-331-51,0,0
+1913080,331,1,"North Viking TC",,1,SB6SA,shp-331-51,0,0
+2388070,331,4,"North Viking TC",,1,NB1SA,shp-331-51,0,0
+2401070,331,4,"North Viking TC",,1,SB2SA,shp-331-51,0,0
+2303020,331,3,"North Viking TC",,1,NB1,shp-331-51,0,0
+1289090,331,5,"North Viking TC",,1,SB2H,shp-331-51,0,0
+137090,331,5,"North Viking TC",,1,NB4H,shp-331-51,0,0
+1145020,331,3,"North Viking TC",,1,NB2,shp-331-51,0,0
+1077070,331,4,"North Viking TC",,1,SB6SA,shp-331-51,0,0
+1077080,331,1,"North Viking TC",,1,SB6SA,shp-331-51,0,0
+1204020,331,3,"North Viking TC",,1,NB1,shp-331-51,0,0
+1103070,331,4,"North Viking TC",,1,SB2SA,shp-331-51,0,0
+1103080,331,1,"North Viking TC",,1,SB2SA,shp-331-51,0,0
+1088020,331,3,"North Viking TC",,1,NB3,shp-331-51,0,0
+1647070,331,4,"North Viking TC",,1,NB3SA,shp-331-51,0,0
+1653090,331,5,"North Viking TC",,1,PB4H,shp-331-51,0,0
+2370070,331,4,"North Viking TC",,1,SB4SA,shp-331-51,0,0
+2062020,331,3,"North Viking TC",,1,SB6,shp-331-51,0,0
+2253090,331,5,"North Viking TC",,1,SB2H,shp-331-51,0,0
+1469080,331,1,"Silverdale TC",,0,NB4SA,shp-331-01,0,0
+1429070,331,4,"Silverdale TC",,0,SB6SA,shp-331-01,0,0
+1484070,331,4,"Silverdale TC",,0,SB6SA,shp-331-01,0,0
+1570020,331,3,"Silverdale TC",,0,NB3,shp-331-01,0,0
+1609020,331,3,"Silverdale TC",,0,NB3,shp-331-01,0,0
+1484080,331,1,"Silverdale TC",,0,SB6SA,shp-331-01,0,0
+1763080,331,1,"Silverdale TC",,0,NB3SA,shp-331-01,0,0
+1826020,331,3,"Silverdale TC",,0,SB4,shp-331-01,0,0
+1827090,331,5,"Silverdale TC",,0,NB3H,shp-331-01,0,0
+1717020,331,3,"Silverdale TC",,0,SB6,shp-331-01,0,0
+1583090,331,5,"Silverdale TC",,0,NB2H,shp-331-01,0,0
+1042080,331,1,"Silverdale TC",,0,NB2SA,shp-331-01,0,0
+1284070,331,4,"Silverdale TC",,0,SB4SA,shp-331-01,0,0
+1042070,331,4,"Silverdale TC",,0,NB2SA,shp-331-01,0,0
+1087020,331,3,"Silverdale TC",,0,SB6,shp-331-01,0,0
+1264020,331,3,"Silverdale TC",,0,NB2,shp-331-01,0,0
+1284080,331,1,"Silverdale TC",,0,SB4SA,shp-331-01,0,0
+1469070,331,4,"Silverdale TC",,0,NB4SA,shp-331-01,0,0
+1429080,331,1,"Silverdale TC",,0,SB6SA,shp-331-01,0,0
+1539070,331,4,"Silverdale TC",,0,SB4SA,shp-331-01,0,0
+1539080,331,1,"Silverdale TC",,0,SB4SA,shp-331-01,0,0
+763070,331,4,"Silverdale TC",,0,NB1SA,shp-331-01,0,0
+2395070,331,4,"Silverdale TC",,0,SB2SA,shp-331-01,0,0
+2490090,331,5,"Silverdale TC",,0,SB4H,shp-331-01,0,0
+2252090,331,5,"Silverdale TC",,0,PB4H,shp-331-01,0,0
+2606020,331,3,"Silverdale TC",,0,SB4,shp-331-01,0,0
+1923090,331,5,"Silverdale TC",,0,NB4H,shp-331-01,0,0
+2384020,331,3,"Silverdale TC",,0,NB2,shp-331-01,0,0
+1612090,331,5,"Silverdale TC",,0,NB1H,shp-331-01,0,0
+1998020,331,3,"Silverdale TC",,0,NB1,shp-331-01,0,0
+1991020,331,3,"Silverdale TC",,0,NB1,shp-331-01,0,0
+1792070,331,4,"Silverdale TC",,0,NB2SA,shp-331-01,0,0
+28090,331,5,"Silverdale TC",,0,NB1H,shp-331-01,0,0
+1792080,331,1,"Silverdale TC",,0,NB2SA,shp-331-01,0,0
+1713090,331,5,"Silverdale TC",,0,SB4H,shp-331-01,0,0
+2012020,331,3,"Silverdale TC",,0,SB6,shp-331-01,0,0
+1975090,331,5,"Silverdale TC",,0,NB2H,shp-331-01,0,0
+1763070,331,4,"Silverdale TC",,0,NB3SA,shp-331-01,0,0
+2136020,331,3,"Silverdale TC",,0,NB4,shp-331-01,0,0
+2395080,331,1,"Silverdale TC",,0,SB2SA,shp-331-01,0,0
+647080,331,1,"Silverdale TC",,0,NB3SA,shp-331-01,0,0
+2513070,331,4,"Silverdale TC",,0,SB2SA,shp-331-01,0,0
+2492090,331,5,"Silverdale TC",,0,SB2H,shp-331-01,0,0
+2513080,331,1,"Silverdale TC",,0,SB2SA,shp-331-01,0,0
+763080,331,1,"Silverdale TC",,0,NB1SA,shp-331-01,0,0
+65020,331,3,"Silverdale TC",,0,SB4,shp-331-01,0,0
+99020,331,3,"Silverdale TC",,0,NB1,shp-331-01,0,0
+647070,331,4,"Silverdale TC",,0,NB3SA,shp-331-01,0,0
+891090,331,5,"Silverdale TC",,0,SB2H,shp-331-01,0,0
+889080,332,1,"North Viking TC",,0,SB2SA,shp-332-01,0,0
+618090,332,5,"North Viking TC",,0,NB2H,shp-332-01,0,0
+801080,332,1,"North Viking TC",,0,NB4SA,shp-332-01,0,0
+889070,332,4,"North Viking TC",,0,SB2SA,shp-332-01,0,0
+72080,332,1,"North Viking TC",,0,SB2SA,shp-332-01,0,0
+2612020,332,3,"North Viking TC",,0,SB6,shp-332-01,0,0
+646090,332,5,"North Viking TC",,0,NB3H,shp-332-01,0,0
+635020,332,3,"North Viking TC",,0,NB1,shp-332-01,0,0
+38090,332,5,"North Viking TC",,0,NB1H,shp-332-01,0,0
+2404070,332,4,"North Viking TC",,0,SB4SA,shp-332-01,0,0
+2393080,332,1,"North Viking TC",,0,NB4SA,shp-332-01,0,0
+438020,332,3,"North Viking TC",,0,NB3,shp-332-01,0,0
+1821090,332,5,"North Viking TC",,0,NB1H,shp-332-01,0,0
+596010,332,2,"North Viking TC",,0,PB2SU,shp-332-01,0,0
+1953070,332,4,"North Viking TC",,0,NB1SA,shp-332-01,0,0
+248090,332,5,"North Viking TC",,0,SB4H,shp-332-01,0,0
+1614010,332,2,"North Viking TC",,0,PB1SU,shp-332-01,0,0
+1803020,332,3,"North Viking TC",,0,SB4,shp-332-01,0,0
+2459020,332,3,"North Viking TC",,0,NB2,shp-332-01,0,0
+2629090,332,5,"North Viking TC",,0,SB4H,shp-332-01,0,0
+2393070,332,4,"North Viking TC",,0,NB4SA,shp-332-01,0,0
+2278090,332,5,"North Viking TC",,0,SB2H,shp-332-01,0,0
+2514070,332,4,"North Viking TC",,0,NB2SA,shp-332-01,0,0
+2514080,332,1,"North Viking TC",,0,NB2SA,shp-332-01,0,0
+2159020,332,3,"North Viking TC",,0,NB2,shp-332-01,0,0
+801070,332,4,"North Viking TC",,0,NB4SA,shp-332-01,0,0
+2175020,332,3,"North Viking TC",,0,NB1,shp-332-01,0,0
+72070,332,4,"North Viking TC",,0,SB2SA,shp-332-01,0,0
+735020,332,3,"North Viking TC",,0,NB3,shp-332-01,0,0
+701020,332,3,"North Viking TC",,0,NB1,shp-332-01,0,0
+2251020,332,3,"North Viking TC",,0,SB4,shp-332-01,0,0
+2404080,332,1,"North Viking TC",,0,SB4SA,shp-332-01,0,0
+1590020,332,3,"North Viking TC",,0,SB4,shp-332-01,0,0
+1413010,332,2,"North Viking TC",,0,PB2SU,shp-332-01,0,0
+1396020,332,3,"North Viking TC",,0,PB2,shp-332-01,0,0
+1403020,332,3,"North Viking TC",,0,SB6,shp-332-01,0,0
+1202070,332,4,"North Viking TC",,0,SB6SA,shp-332-01,0,0
+1116090,332,5,"North Viking TC",,0,NB2H,shp-332-01,0,0
+1084010,332,2,"North Viking TC",,0,PB2SU,shp-332-01,0,0
+1101080,332,1,"North Viking TC",,0,SB6SA,shp-332-01,0,0
+1106090,332,5,"North Viking TC",,0,NB1H,shp-332-01,0,0
+1261070,332,4,"North Viking TC",,0,SB4SA,shp-332-01,0,0
+1202080,332,1,"North Viking TC",,0,SB6SA,shp-332-01,0,0
+1004020,332,3,"North Viking TC",,0,NB4,shp-332-01,0,0
+1101070,332,4,"North Viking TC",,0,SB6SA,shp-332-01,0,0
+1178090,332,5,"North Viking TC",,0,NB3H,shp-332-01,0,0
+1261080,332,1,"North Viking TC",,0,SB4SA,shp-332-01,0,0
+1831090,332,5,"North Viking TC",,0,SB2H,shp-332-01,0,0
+1591080,332,1,"North Viking TC",,0,NB2SA,shp-332-01,0,0
+1591070,332,4,"North Viking TC",,0,NB2SA,shp-332-01,0,0
+1511010,332,2,"North Viking TC",,0,PB2SU,shp-332-01,0,0
+1566010,332,2,"North Viking TC",,0,PB1SU,shp-332-01,0,0
+1953080,332,1,"North Viking TC",,0,NB1SA,shp-332-01,0,0
+2221010,332,2,"North Viking TC",,0,PB2SU,shp-332-01,0,0
+1689010,332,2,"North Viking TC",,0,PB2SU,shp-332-01,0,0
+1421070,332,4,"Silverdale TC",,1,SB6SA,shp-332-51,0,0
+1421080,332,1,"Silverdale TC",,1,SB6SA,shp-332-51,0,0
+2031080,332,1,"Silverdale TC",,1,SB6SA,shp-332-51,0,0
+2009070,332,4,"Silverdale TC",,1,SB4SA,shp-332-51,0,0
+1669070,332,4,"Silverdale TC",,1,NB3SA,shp-332-51,0,0
+1676020,332,3,"Silverdale TC",,1,NB3,shp-332-51,0,0
+1671090,332,5,"Silverdale TC",,1,NB1H,shp-332-51,0,0
+1143070,332,4,"Silverdale TC",,1,SB2SA,shp-332-51,0,0
+1021010,332,2,"Silverdale TC",,1,PB2SU,shp-332-51,0,0
+1217070,332,4,"Silverdale TC",,1,NB2SA,shp-332-51,0,0
+1217080,332,1,"Silverdale TC",,1,NB2SA,shp-332-51,0,0
+1127090,332,5,"Silverdale TC",,1,SB4H,shp-332-51,0,0
+1265010,332,2,"Silverdale TC",,1,PB2SU,shp-332-51,0,0
+1271070,332,4,"Silverdale TC",,1,SB4SA,shp-332-51,0,0
+1271080,332,1,"Silverdale TC",,1,SB4SA,shp-332-51,0,0
+1282090,332,5,"Silverdale TC",,1,NB3H,shp-332-51,0,0
+1143080,332,1,"Silverdale TC",,1,SB2SA,shp-332-51,0,0
+1426010,332,2,"Silverdale TC",,1,PB2SU,shp-332-51,0,0
+1370090,332,5,"Silverdale TC",,1,NB4H,shp-332-51,0,0
+772010,332,2,"Silverdale TC",,1,PB1SU,shp-332-51,0,0
+2105020,332,3,"Silverdale TC",,1,SB4,shp-332-51,0,0
+2110010,332,2,"Silverdale TC",,1,PB1SU,shp-332-51,0,0
+2593090,332,5,"Silverdale TC",,1,NB1H,shp-332-51,0,0
+217080,332,1,"Silverdale TC",,1,NB1SA,shp-332-51,0,0
+289070,332,4,"Silverdale TC",,1,SB2SA,shp-332-51,0,0
+311020,332,3,"Silverdale TC",,1,NB2,shp-332-51,0,0
+217070,332,4,"Silverdale TC",,1,NB1SA,shp-332-51,0,0
+1878020,332,3,"Silverdale TC",,1,NB1,shp-332-51,0,0
+1669080,332,1,"Silverdale TC",,1,NB3SA,shp-332-51,0,0
+1673020,332,3,"Silverdale TC",,1,NB4,shp-332-51,0,0
+2009080,332,1,"Silverdale TC",,1,SB4SA,shp-332-51,0,0
+1969090,332,5,"Silverdale TC",,1,NB1H,shp-332-51,0,0
+2031070,332,4,"Silverdale TC",,1,SB6SA,shp-332-51,0,0
+1836020,332,3,"Silverdale TC",,1,NB2,shp-332-51,0,0
+442020,332,3,"Silverdale TC",,1,SB6,shp-332-51,0,0
+210010,332,2,"Silverdale TC",,1,PB2SU,shp-332-51,0,0
+2426020,332,3,"Silverdale TC",,1,SB4,shp-332-51,0,0
+2476090,332,5,"Silverdale TC",,1,SB4H,shp-332-51,0,0
+2573020,332,3,"Silverdale TC",,1,NB4,shp-332-51,0,0
+739080,332,1,"Silverdale TC",,1,NB1SA,shp-332-51,0,0
+461090,332,5,"Silverdale TC",,1,PB4H,shp-332-51,0,0
+353010,332,2,"Silverdale TC",,1,PB2SU,shp-332-51,0,0
+430020,332,3,"Silverdale TC",,1,NB1,shp-332-51,0,0
+571020,332,3,"Silverdale TC",,1,SB6,shp-332-51,0,0
+387020,332,3,"Silverdale TC",,1,SB4,shp-332-51,0,0
+948090,332,5,"Silverdale TC",,1,SB2H,shp-332-51,0,0
+983070,332,4,"Silverdale TC",,1,NB4SA,shp-332-51,0,0
+983080,332,1,"Silverdale TC",,1,NB4SA,shp-332-51,0,0
+36010,332,2,"Silverdale TC",,1,PB2SU,shp-332-51,0,0
+289080,332,1,"Silverdale TC",,1,SB2SA,shp-332-51,0,0
+739070,332,4,"Silverdale TC",,1,NB1SA,shp-332-51,0,0
+549090,332,5,"Silverdale TC",,1,NB2H,shp-332-51,0,0
+829090,332,5,"Silverdale TC",,1,SB2H,shp-332-51,0,0
+832020,332,3,"Silverdale TC",,1,NB2,shp-332-51,0,0
+641020,333,3,"Bainbridge Island Ferry",,0,A23,shp-333-01,0,0
+2446020,333,3,"Bainbridge Island Ferry",,0,CPB,shp-333-01,0,0
+126020,333,3,"Bainbridge Island Ferry",,0,NK1,shp-333-01,0,0
+1438020,333,3,"Bainbridge Island Ferry",,0,A23,shp-333-01,0,0
+11020,333,3,"Silverdale TC",,1,P31,shp-333-51,0,0
+1024020,333,3,"Silverdale TC",,1,P33,shp-333-51,0,0
+2466020,333,3,"Silverdale TC",,1,97PM,shp-333-51,0,0
+1530020,333,3,"Silverdale TC",,1,PB2,shp-333-51,0,0
+567020,333,3,"Silverdale TC",,1,NK2,shp-333-51,0,0
+244020,333,3,"Silverdale TC",,1,P32,shp-333-51,0,0
+2620020,344,3,"North Viking TC",,0,NVS3,shp-344-03,0,0
+2468020,344,3,"North Viking TC",,0,NVS1,shp-344-03,0,0
+2439020,344,3,"North Viking TC",,0,NVS1,shp-344-03,0,0
+513090,344,5,"North Viking TC",,0,PB2H,shp-344-03,0,0
+2626090,344,5,"North Viking TC",,0,PB4H,shp-344-03,0,0
+2635070,344,4,"North Viking TC",,0,PB2SA,shp-344-03,0,0
+51090,344,5,"North Viking TC",,0,PB6H,shp-344-03,0,0
+675080,344,1,"North Viking TC",,0,PB5SA,shp-344-03,0,0
+190070,344,4,"North Viking TC",,0,PB2SA,shp-344-03,0,0
+1628090,344,5,"North Viking TC",,0,PB4H,shp-344-03,0,0
+2290020,344,3,"North Viking TC",,0,NVS3,shp-344-03,0,0
+2029080,344,1,"North Viking TC",,0,PB1SA,shp-344-03,0,0
+190080,344,1,"North Viking TC",,0,PB2SA,shp-344-03,0,0
+1705070,344,4,"North Viking TC",,0,PB4SA,shp-344-03,0,0
+60090,344,5,"North Viking TC",,0,PB1H,shp-344-03,0,0
+315090,344,5,"North Viking TC",,0,NB2H,shp-344-03,0,0
+2462020,344,3,"North Viking TC",,0,NVS3,shp-344-03,0,0
+2635080,344,1,"North Viking TC",,0,PB2SA,shp-344-03,0,0
+2271070,344,4,"North Viking TC",,0,PB2SA,shp-344-03,0,0
+2271080,344,1,"North Viking TC",,0,PB2SA,shp-344-03,0,0
+2274020,344,3,"North Viking TC",,0,NVS3,shp-344-03,0,0
+2152020,344,3,"North Viking TC",,0,NVS1,shp-344-03,0,0
+675070,344,4,"North Viking TC",,0,PB5SA,shp-344-03,0,0
+1102090,344,5,"North Viking TC",,0,PB4H,shp-344-03,0,0
+1180020,344,3,"North Viking TC",,0,NVS3,shp-344-03,0,0
+1117090,344,5,"North Viking TC",,0,PB8H,shp-344-03,0,0
+1060070,344,4,"North Viking TC",,0,PB2SA,shp-344-03,0,0
+1060080,344,1,"North Viking TC",,0,PB2SA,shp-344-03,0,0
+1228020,344,3,"North Viking TC",,0,NVS3,shp-344-03,0,0
+1288020,344,3,"North Viking TC",,0,NVS3,shp-344-03,0,0
+1482070,344,4,"North Viking TC",,0,PB2SA,shp-344-03,0,0
+1718020,344,3,"North Viking TC",,0,NVS3,shp-344-03,0,0
+2029070,344,4,"North Viking TC",,0,PB1SA,shp-344-03,0,0
+1705080,344,1,"North Viking TC",,0,PB4SA,shp-344-03,0,0
+2212090,344,5,"North Viking TC",,0,PB4H,shp-344-03,0,0
+1482080,344,1,"North Viking TC",,0,PB2SA,shp-344-03,0,0
+1907090,344,5,"North Viking TC",,0,PB1H,shp-344-03,0,0
+1533080,344,1,"Town & Country",,1,PB1SA,shp-344-52,0,0
+1234080,344,1,"Town & Country",,1,PB2SA,shp-344-52,0,0
+2103080,344,1,"Town & Country",,1,PB5SA,shp-344-52,0,0
+2266080,344,1,"Town & Country",,1,PB2SA,shp-344-52,0,0
+2346080,344,1,"Town & Country",,1,PB2SA,shp-344-52,0,0
+2027090,344,5,"Town & Country",,1,NB2H,shp-344-52,0,0
+1533070,344,4,"Town & Country",,1,PB1SA,shp-344-52,0,0
+123070,344,4,"Town & Country",,1,PB4SA,shp-344-52,0,0
+1296020,344,3,"Town & Country",,1,NVS3,shp-344-52,0,0
+1269020,344,3,"Town & Country",,1,NVS1,shp-344-52,0,0
+1112090,344,5,"Town & Country",,1,PB4H,shp-344-52,0,0
+123080,344,1,"Town & Country",,1,PB4SA,shp-344-52,0,0
+1252020,344,3,"Town & Country",,1,NVS3,shp-344-52,0,0
+1234070,344,4,"Town & Country",,1,PB2SA,shp-344-52,0,0
+1279090,344,5,"Town & Country",,1,PB1H,shp-344-52,0,0
+778070,344,4,"Town & Country",,1,PB2SA,shp-344-52,0,0
+1891020,344,3,"Town & Country",,1,NVS3,shp-344-52,0,0
+2276090,344,5,"Town & Country",,1,PB8H,shp-344-52,0,0
+2266070,344,4,"Town & Country",,1,PB2SA,shp-344-52,0,0
+2483090,344,5,"Town & Country",,1,PB4H,shp-344-52,0,0
+2346070,344,4,"Town & Country",,1,PB2SA,shp-344-52,0,0
+2601020,344,3,"Town & Country",,1,NVS3,shp-344-52,0,0
+2582090,344,5,"Town & Country",,1,PB4H,shp-344-52,0,0
+2215020,344,3,"Town & Country",,1,NVS3,shp-344-52,0,0
+2417090,344,5,"Town & Country",,1,PB6H,shp-344-52,0,0
+1632020,344,3,"Town & Country",,1,NVS3,shp-344-52,0,0
+2103070,344,4,"Town & Country",,1,PB5SA,shp-344-52,0,0
+778080,344,1,"Town & Country",,1,PB2SA,shp-344-52,0,0
+787090,344,5,"Town & Country",,1,PB4H,shp-344-52,0,0
+993080,344,1,"Town & Country",,1,PB2SA,shp-344-52,0,0
+993070,344,4,"Town & Country",,1,PB2SA,shp-344-52,0,0
+515090,344,5,"Town & Country",,1,PB2H,shp-344-52,0,0
+752020,344,3,"Town & Country",,1,NVS3,shp-344-52,0,0
+922020,344,3,"Town & Country",,1,NVS1,shp-344-52,0,0
+2617090,344,5,"Town & Country",,1,PB1H,shp-344-52,0,0
+310020,344,3,"Town & Country",,1,NVS3,shp-344-52,0,0
+54020,344,3,"Town & Country",,1,NVS1,shp-344-52,0,0
+70020,389,3,"Bainbridge Island Ferry Terminal",,0,106AM,shp-389-01,0,0
+915020,389,3,"Bainbridge Island Ferry Terminal",,0,106AM,shp-389-01,0,0
+1155020,389,3,"Bainbridge Island Ferry Terminal",,0,106AM,shp-389-01,0,0
+1221020,389,3,"Tolo at Battlepoint",,1,106PM,shp-389-51,0,0
+2319020,389,3,"Tolo at Battlepoint",,1,106PM,shp-389-51,0,0
+2168020,389,3,"Tolo at Battlepoint",,1,106PM,shp-389-51,0,0
+9020,389,3,"Tolo at Battlepoint",,1,106PM,shp-389-51,0,0
+899010,390,2,"Bainbridge Island Ferry",,0,PB1SU,shp-390-01,0,0
+959090,390,5,"Bainbridge Island Ferry",,0,PB6H,shp-390-01,0,0
+84070,390,4,"Bainbridge Island Ferry",,0,NB3SA,shp-390-01,0,0
+84080,390,1,"Bainbridge Island Ferry",,0,NB3SA,shp-390-01,0,0
+715020,390,3,"Bainbridge Island Ferry",,0,NK1,shp-390-01,0,0
+483070,390,4,"Bainbridge Island Ferry",,0,PB3SA,shp-390-01,0,0
+507090,390,5,"Bainbridge Island Ferry",,0,PB3H,shp-390-01,0,0
+688080,390,1,"Bainbridge Island Ferry",,0,PB1SA,shp-390-01,0,0
+996090,390,5,"Bainbridge Island Ferry",,0,PB2H,shp-390-01,0,0
+2605070,390,4,"Bainbridge Island Ferry",,0,PB4SA,shp-390-01,0,0
+487010,390,2,"Bainbridge Island Ferry",,0,PB3SU,shp-390-01,0,0
+420020,390,3,"Bainbridge Island Ferry",,0,PB5,shp-390-01,0,0
+314020,390,3,"Bainbridge Island Ferry",,0,PB4,shp-390-01,0,0
+241090,390,5,"Bainbridge Island Ferry",,0,PB3H,shp-390-01,0,0
+2562010,390,2,"Bainbridge Island Ferry",,0,PB1SU,shp-390-01,0,0
+249090,390,5,"Bainbridge Island Ferry",,0,PB2H,shp-390-01,0,0
+2611020,390,3,"Bainbridge Island Ferry",,0,97AM,shp-390-01,0,0
+2605080,390,1,"Bainbridge Island Ferry",,0,PB4SA,shp-390-01,0,0
+688070,390,4,"Bainbridge Island Ferry",,0,PB1SA,shp-390-01,0,0
+483080,390,1,"Bainbridge Island Ferry",,0,PB3SA,shp-390-01,0,0
+450020,390,3,"Bainbridge Island Ferry",,0,CPB,shp-390-01,0,0
+2076020,390,3,"Bainbridge Island Ferry",,0,PB2,shp-390-01,0,0
+21020,390,3,"Bainbridge Island Ferry",,0,PB4,shp-390-01,0,0
+1820020,390,3,"Bainbridge Island Ferry",,0,97AM,shp-390-01,0,0
+1604020,390,3,"Bainbridge Island Ferry",,0,CPB,shp-390-01,0,0
+2208020,390,3,"Bainbridge Island Ferry",,0,PB5,shp-390-01,0,0
+2410010,390,2,"Bainbridge Island Ferry",,0,PB3SU,shp-390-01,0,0
+1670020,390,3,"Bainbridge Island Ferry",,0,P33,shp-390-01,0,0
+2578070,390,4,"Bainbridge Island Ferry",,0,PB1SA,shp-390-01,0,0
+2218070,390,4,"Bainbridge Island Ferry",,0,PB5SA,shp-390-01,0,0
+2177070,390,4,"Bainbridge Island Ferry",,0,PB5SA,shp-390-01,0,0
+1813080,390,1,"Bainbridge Island Ferry",,0,NB1SA,shp-390-01,0,0
+2013010,390,2,"Bainbridge Island Ferry",,0,PB1SU,shp-390-01,0,0
+1911010,390,2,"Bainbridge Island Ferry",,0,PB3SU,shp-390-01,0,0
+1758080,390,1,"Bainbridge Island Ferry",,0,PB1SA,shp-390-01,0,0
+260020,390,3,"Bainbridge Island Ferry",,0,NB2,shp-390-01,0,0
+2516070,390,4,"Bainbridge Island Ferry",,0,PB1SA,shp-390-01,0,0
+2516080,390,1,"Bainbridge Island Ferry",,0,PB1SA,shp-390-01,0,0
+2595090,390,5,"Bainbridge Island Ferry",,0,PB2H,shp-390-01,0,0
+2344020,390,3,"Bainbridge Island Ferry",,0,PB3,shp-390-01,0,0
+2418020,390,3,"Bainbridge Island Ferry",,0,PB5,shp-390-01,0,0
+2218080,390,1,"Bainbridge Island Ferry",,0,PB5SA,shp-390-01,0,0
+2268020,390,3,"Bainbridge Island Ferry",,0,PB5,shp-390-01,0,0
+2177080,390,1,"Bainbridge Island Ferry",,0,PB5SA,shp-390-01,0,0
+2306090,390,5,"Bainbridge Island Ferry",,0,PB7H,shp-390-01,0,0
+2250090,390,5,"Bainbridge Island Ferry",,0,PB1H,shp-390-01,0,0
+2578080,390,1,"Bainbridge Island Ferry",,0,PB1SA,shp-390-01,0,0
+1108010,390,2,"Bainbridge Island Ferry",,0,PB2SU,shp-390-01,0,0
+1107020,390,3,"Bainbridge Island Ferry",,0,NB4,shp-390-01,0,0
+1274070,390,4,"Bainbridge Island Ferry",,0,PB2SA,shp-390-01,0,0
+1361010,390,2,"Bainbridge Island Ferry",,0,PB2SU,shp-390-01,0,0
+133020,390,3,"Bainbridge Island Ferry",,0,NVS3,shp-390-01,0,0
+1344090,390,5,"Bainbridge Island Ferry",,0,PB7H,shp-390-01,0,0
+1172010,390,2,"Bainbridge Island Ferry",,0,PB3SU,shp-390-01,0,0
+1334020,390,3,"Bainbridge Island Ferry",,0,PB4,shp-390-01,0,0
+1211090,390,5,"Bainbridge Island Ferry",,0,NB3H,shp-390-01,0,0
+1379020,390,3,"Bainbridge Island Ferry",,0,NVS1,shp-390-01,0,0
+1466080,390,1,"Bainbridge Island Ferry",,0,PB3SA,shp-390-01,0,0
+1477070,390,4,"Bainbridge Island Ferry",,0,PB5SA,shp-390-01,0,0
+1466070,390,4,"Bainbridge Island Ferry",,0,PB3SA,shp-390-01,0,0
+1274080,390,1,"Bainbridge Island Ferry",,0,PB2SA,shp-390-01,0,0
+1522020,390,3,"Bainbridge Island Ferry",,0,NVS1,shp-390-01,0,0
+1541090,390,5,"Bainbridge Island Ferry",,0,PB8H,shp-390-01,0,0
+1477080,390,1,"Bainbridge Island Ferry",,0,PB5SA,shp-390-01,0,0
+194090,390,5,"Bainbridge Island Ferry",,0,PB6H,shp-390-01,0,0
+1758070,390,4,"Bainbridge Island Ferry",,0,PB1SA,shp-390-01,0,0
+1451090,390,5,"Bainbridge Island Ferry",,0,PB5H,shp-390-01,0,0
+1813070,390,4,"Bainbridge Island Ferry",,0,NB1SA,shp-390-01,0,0
+1828010,390,2,"Bainbridge Island Ferry",,0,PB1SU,shp-390-01,0,0
+1346090,390,5,"Bainbridge Island Ferry",,0,PB2H,shp-390-01,0,0
+1409010,390,2,"North Viking TC",,1,PB2SU,shp-390-51,0,0
+1890010,390,2,"North Viking TC",,1,PB3SU,shp-390-51,0,0
+1596020,390,3,"North Viking TC",,1,NB4,shp-390-51,0,0
+1662020,390,3,"North Viking TC",,1,PB5,shp-390-51,0,0
+1801020,390,3,"North Viking TC",,1,PB4,shp-390-51,0,0
+1723090,390,5,"North Viking TC",,1,PB2H,shp-390-51,0,0
+1556080,390,1,"North Viking TC",,1,NB3SA,shp-390-51,0,0
+1151090,390,5,"North Viking TC",,1,PB5H,shp-390-51,0,0
+165020,390,3,"North Viking TC",,1,PB5,shp-390-51,0,0
+2011020,390,3,"North Viking TC",,1,PB4,shp-390-51,0,0
+1521020,390,3,"North Viking TC",,1,CPB,shp-390-51,0,0
+1556070,390,4,"North Viking TC",,1,NB3SA,shp-390-51,0,0
+1549020,390,3,"North Viking TC",,1,97AM,shp-390-51,0,0
+175020,390,3,"North Viking TC",,1,NVS1,shp-390-51,0,0
+1978070,390,4,"North Viking TC",,1,PB3SA,shp-390-51,0,0
+2042070,390,4,"North Viking TC",,1,NB1SA,shp-390-51,0,0
+1353020,390,3,"North Viking TC",,1,NK1,shp-390-51,0,0
+1187020,390,3,"North Viking TC",,1,CPB,shp-390-51,0,0
+1229070,390,4,"North Viking TC",,1,PB1SA,shp-390-51,0,0
+1229080,390,1,"North Viking TC",,1,PB1SA,shp-390-51,0,0
+1341010,390,2,"North Viking TC",,1,PB1SU,shp-390-51,0,0
+1085080,390,1,"North Viking TC",,1,PB5SA,shp-390-51,0,0
+101010,390,2,"North Viking TC",,1,PB3SU,shp-390-51,0,0
+1109090,390,5,"North Viking TC",,1,PB2H,shp-390-51,0,0
+1085070,390,4,"North Viking TC",,1,PB5SA,shp-390-51,0,0
+1184010,390,2,"North Viking TC",,1,PB2SU,shp-390-51,0,0
+1079020,390,3,"North Viking TC",,1,PB3,shp-390-51,0,0
+25020,390,3,"North Viking TC",,1,P33,shp-390-51,0,0
+2233080,390,1,"North Viking TC",,1,PB5SA,shp-390-51,0,0
+2293020,390,3,"North Viking TC",,1,PB5,shp-390-51,0,0
+2314020,390,3,"North Viking TC",,1,PB4,shp-390-51,0,0
+396090,390,5,"North Viking TC",,1,PB3H,shp-390-51,0,0
+2135090,390,5,"North Viking TC",,1,PB2H,shp-390-51,0,0
+2142070,390,4,"North Viking TC",,1,PB3SA,shp-390-51,0,0
+87020,390,3,"North Viking TC",,1,NB2,shp-390-51,0,0
+2331010,390,2,"North Viking TC",,1,PB3SU,shp-390-51,0,0
+2298010,390,2,"North Viking TC",,1,PB1SU,shp-390-51,0,0
+2327020,390,3,"North Viking TC",,1,PB2,shp-390-51,0,0
+2224080,390,1,"North Viking TC",,1,PB5SA,shp-390-51,0,0
+1920080,390,1,"North Viking TC",,1,PB2SA,shp-390-51,0,0
+1851070,390,4,"North Viking TC",,1,PB1SA,shp-390-51,0,0
+196090,390,5,"North Viking TC",,1,NB3H,shp-390-51,0,0
+1851080,390,1,"North Viking TC",,1,PB1SA,shp-390-51,0,0
+1978080,390,1,"North Viking TC",,1,PB3SA,shp-390-51,0,0
+1912070,390,4,"North Viking TC",,1,PB4SA,shp-390-51,0,0
+1912080,390,1,"North Viking TC",,1,PB4SA,shp-390-51,0,0
+33090,390,5,"North Viking TC",,1,PB7H,shp-390-51,0,0
+2517070,390,4,"North Viking TC",,1,PB1SA,shp-390-51,0,0
+2042080,390,1,"North Viking TC",,1,NB1SA,shp-390-51,0,0
+2398090,390,5,"North Viking TC",,1,PB3H,shp-390-51,0,0
+2233070,390,4,"North Viking TC",,1,PB5SA,shp-390-51,0,0
+2224070,390,4,"North Viking TC",,1,PB5SA,shp-390-51,0,0
+2220020,390,3,"North Viking TC",,1,NVS3,shp-390-51,0,0
+1920070,390,4,"North Viking TC",,1,PB2SA,shp-390-51,0,0
+2142080,390,1,"North Viking TC",,1,PB3SA,shp-390-51,0,0
+389020,390,3,"North Viking TC",,1,PB5,shp-390-51,0,0
+902090,390,5,"North Viking TC",,1,PB1H,shp-390-51,0,0
+375080,390,1,"North Viking TC",,1,PB1SA,shp-390-51,0,0
+2489010,390,2,"North Viking TC",,1,PB1SU,shp-390-51,0,0
+2517080,390,1,"North Viking TC",,1,PB1SA,shp-390-51,0,0
+280090,390,5,"North Viking TC",,1,PB6H,shp-390-51,0,0
+375070,390,4,"North Viking TC",,1,PB1SA,shp-390-51,0,0
+796090,390,5,"North Viking TC",,1,PB8H,shp-390-51,0,0
+798010,390,2,"North Viking TC",,1,PB3SU,shp-390-51,0,0
+822090,390,5,"North Viking TC",,1,PB6H,shp-390-51,0,0
+847090,390,5,"North Viking TC",,1,PB2H,shp-390-51,0,0
+903090,390,5,"North Viking TC",,1,PB7H,shp-390-51,0,0
+995010,390,2,"North Viking TC",,1,PB1SU,shp-390-51,0,0
+910020,391,3,"Bainbridge Island Ferry",,0,KB1PM,shp-391-01,0,0
+741020,391,3,"Bainbridge Island Ferry",,0,KB1AM,shp-391-01,0,0
+629020,391,3,"Bainbridge Island Ferry",,0,KB1PM,shp-391-01,0,0
+341020,391,3,"Bainbridge Island Ferry",,0,KB1PM,shp-391-01,0,0
+2475020,391,3,"Bainbridge Island Ferry",,0,KB1AM,shp-391-01,0,0
+1885020,391,3,"Bainbridge Island Ferry",,0,KB2AM,shp-391-01,0,0
+2124020,391,3,"Bainbridge Island Ferry",,0,KB2PM,shp-391-01,0,0
+2525020,391,3,"Bainbridge Island Ferry",,0,KB1AM,shp-391-01,0,0
+946020,391,3,"Bainbridge Island Ferry",,0,KB1AM,shp-391-01,0,0
+2371020,391,3,"Bainbridge Island Ferry",,0,KB1AM,shp-391-01,0,0
+2638020,391,3,"Bainbridge Island Ferry",,0,KB2AM,shp-391-01,0,0
+1514020,391,3,"Bainbridge Island Ferry",,0,KB1PM,shp-391-01,0,0
+1630020,391,3,"Kingston",,1,KB1AM,shp-391-51,0,0
+1337020,391,3,"Kingston",,1,KB1PM,shp-391-51,0,0
+1003020,391,3,"Kingston",,1,KB2PM,shp-391-51,0,0
+1099020,391,3,"Kingston",,1,KB1PM,shp-391-51,0,0
+1123020,391,3,"Kingston",,1,KB1PM,shp-391-51,0,0
+2414020,391,3,"Kingston",,1,KB2AM,shp-391-51,0,0
+2028020,391,3,"Kingston",,1,KB1PM,shp-391-51,0,0
+2599020,391,3,"Kingston",,1,94PM,shp-391-51,0,0
+254020,391,3,"Kingston",,1,KB1AM,shp-391-51,0,0
+800020,391,3,"Kingston",,1,KB1AM,shp-391-51,0,0
+893020,391,3,"Kingston",,1,KB2PM,shp-391-51,0,0
+478020,391,3,"Kingston",,1,KB1AM,shp-391-51,0,0
+636020,391,3,"Kingston",,1,KB2AM,shp-391-51,0,0
+338020,393,3,"Bainbridge Island Ferry Terminal",,0,93AM,shp-393-01,0,0
+1928020,393,3,"Bainbridge Island Ferry Terminal",,0,93AM,shp-393-02,0,0
+302020,393,3,"Bainbridge Island Ferry Terminal",,0,93AM,shp-393-02,0,0
+2416020,393,3,"Bainbridge Island Ferry Terminal",,0,93AM,shp-393-02,0,0
+142020,393,3,"Bainbridge Island Ferry Terminal",,0,93AM,shp-393-01,0,0
+472020,393,3,"Komedal at Seabold",,1,93PM,shp-393-51,0,0
+761020,393,3,"Komedal at Seabold",,1,93PM,shp-393-51,0,0
+718020,393,3,"Komedal at Seabold",,1,93PM,shp-393-51,0,0
+876020,393,3,"Komedal at Seabold",,1,93PM,shp-393-51,0,0
+639020,394,3,"Bainbridge Island Ferry Terminal",,0,94AM,shp-394-01,0,0
+804020,394,3,"Bainbridge Island Ferry Terminal",,0,94AM,shp-394-01,0,0
+1613020,394,3,"Bainbridge Island Ferry Terminal",,0,94AM,shp-394-01,0,0
+17020,394,3,"Bloedel Reserve",,1,94PM,shp-394-51,0,0
+1950020,394,3,"Bloedel Reserve",,1,94PM,shp-394-51,0,0
+547020,394,3,"Bloedel Reserve",,1,94PM,shp-394-51,0,0
+529020,394,3,"Bloedel Reserve",,1,94PM,shp-394-51,0,0
+2536020,395,3,"Bainbridge Island Ferry Terminal",,0,95AM,shp-395-02,0,0
+1806020,395,3,"Bainbridge Island Ferry Terminal",,0,95AM,shp-395-02,0,0
+1512020,395,3,"Bainbridge Island Ferry Terminal",,0,95AM,shp-395-01,0,0
+1719020,395,3,"Bainbridge Island Ferry Terminal",,0,95AM,shp-395-02,0,0
+1528020,395,3,"Bainbridge Island Ferry Terminal",,0,106AM,shp-395-01,0,0
+1700020,395,3,"Miller at Tolo",,1,95PM,shp-395-51,0,0
+1639020,395,3,"Miller at Tolo",,1,95PM,shp-395-51,0,0
+2564020,395,3,"Miller at Tolo",,1,95PM,shp-395-51,0,0
+404020,395,3,"Miller at Tolo",,1,95PM,shp-395-51,0,0
+408020,396,3,"Bainbridge Island Ferry Terminal",,0,96AM,shp-396-01,0,0
+793020,396,3,"Bainbridge Island Ferry Terminal",,0,96AM,shp-396-01,0,0
+301020,396,3,"Bainbridge Island Ferry Terminal",,0,96AM,shp-396-02,0,0
+1972020,396,3,"Bainbridge Island Ferry Terminal",,0,96AM,shp-396-02,0,0
+1865020,396,3,"Bainbridge Island Ferry Terminal",,0,96AM,shp-396-02,0,0
+1621020,396,3,"Sunrise",,1,96PM,shp-396-51,0,0
+1335020,396,3,"Sunrise",,1,96PM,shp-396-51,0,0
+2386020,396,3,"Sunrise",,1,96PM,shp-396-51,0,0
+2358020,396,3,"Sunrise",,1,96PM,shp-396-51,0,0
+530020,397,3,"Bainbridge Island Ferry Terminal",,0,97AM,shp-397-02,0,0
+2143020,397,3,"Bainbridge Island Ferry Terminal",,0,97AM,shp-397-01,0,0
+1863020,397,3,"Bainbridge Island Ferry Terminal",,0,97AM,shp-397-02,0,0
+1038020,397,3,"Bainbridge Island Ferry Terminal",,0,97AM,shp-397-02,0,0
+2445020,397,3,"Bainbridge Island Ferry Terminal",,0,97AM,shp-397-01,0,0
+1916020,397,3,"Lynwood Center",,1,97PM,shp-397-51,0,0
+1427020,397,3,"Lynwood Center",,1,97PM,shp-397-51,0,0
+2046020,397,3,"Lynwood Center",,1,97PM,shp-397-51,0,0
+2146020,397,3,"Lynwood Center",,1,97PM,shp-397-51,0,0
+339020,398,3,"Bainbridge Island Ferry Terminal",,0,NVS1,shp-398-01,0,0
+1223020,398,3,"Bainbridge Island Ferry Terminal",,0,NVS1,shp-398-01,0,0
+784020,398,3,"Bainbridge Island Ferry Terminal",,0,NVS1,shp-398-01,0,0
+553020,398,3,"Fort Ward",,1,98PM,shp-398-51,0,0
+337020,398,3,"Fort Ward",,1,98PM,shp-398-51,0,0
+1509020,398,3,"Fort Ward",,1,98PM,shp-398-51,0,0
+834020,398,3,"Fort Ward",,1,98PM,shp-398-51,0,0
+2111020,399,3,"Bainbridge Island Ferry Terminal",,0,94AM,shp-399-02,0,0
+1870020,399,3,"Bainbridge Island Ferry Terminal",,0,99SS,shp-399-02,0,0
+1355020,399,3,"Bainbridge Island Ferry Terminal",,0,99SS,shp-399-01,0,0
+1225020,399,3,"Bainbridge Island Ferry Terminal",,0,99SS,shp-399-01,0,0
+1190020,399,3,"Bainbridge Island Ferry Terminal",,0,99SS,shp-399-01,0,0
+1290020,399,3,"Eagle Harbor",,1,PB2,shp-399-51,0,0
+2039020,399,3,"Eagle Harbor",,1,PB2,shp-399-51,0,0
+2317020,399,3,"Eagle Harbor",,1,PB2,shp-399-51,0,0
+953020,399,3,"Eagle Harbor",,1,PB2,shp-399-51,0,0
+881090,400,5,"Seattle",,0,BREM2,shp-400-01,0,1
+867080,400,1,"Seattle",,0,BREM_SAT,shp-400-01,0,1
+653090,400,5,"Seattle",,0,BREM2,shp-400-01,0,1
+985080,400,1,"Seattle",,0,BREM_SAT,shp-400-01,0,1
+855090,400,5,"Seattle",,0,BREM1,shp-400-01,0,1
+730090,400,5,"Seattle",,0,BREM1,shp-400-01,0,1
+546020,400,3,"Seattle",,0,BREM1,shp-400-01,0,1
+480080,400,1,"Seattle",,0,BREM_SAT,shp-400-01,0,1
+41020,400,3,"Seattle",,0,BREM2,shp-400-01,0,1
+554090,400,5,"Seattle",,0,BREM1,shp-400-01,0,1
+2481020,400,3,"Seattle",,0,BREM1,shp-400-01,0,1
+2527020,400,3,"Seattle",,0,BREM1,shp-400-01,0,1
+733090,400,5,"Seattle",,0,BREM2,shp-400-01,0,1
+729020,400,3,"Seattle",,0,BREM1,shp-400-01,0,1
+357020,400,3,"Seattle",,0,BREM1,shp-400-01,0,1
+500090,400,5,"Seattle",,0,BREM1,shp-400-01,0,1
+2156090,400,5,"Seattle",,0,BREM1,shp-400-01,0,1
+845080,400,1,"Seattle",,0,BREM_SAT,shp-400-01,0,1
+243090,400,5,"Seattle",,0,BREM1,shp-400-01,0,1
+2522090,400,5,"Seattle",,0,BREM2,shp-400-01,0,1
+510020,400,3,"Seattle",,0,BREM2,shp-400-01,0,1
+2287020,400,3,"Seattle",,0,BREM1,shp-400-01,0,1
+229080,400,1,"Seattle",,0,BREM_SAT,shp-400-01,0,1
+2452020,400,3,"Seattle",,0,BREM2,shp-400-01,0,1
+336090,400,5,"Seattle",,0,BREM1,shp-400-01,0,1
+381080,400,1,"Seattle",,0,BREM_SAT,shp-400-01,0,1
+218090,400,5,"Seattle",,0,BREM1,shp-400-01,0,1
+2222090,400,5,"Seattle",,0,BREM2,shp-400-01,0,1
+616080,400,1,"Seattle",,0,BREM_SAT,shp-400-01,0,1
+577090,400,5,"Seattle",,0,BREM1,shp-400-01,0,1
+2084020,400,3,"Seattle",,0,BREM2,shp-400-01,0,1
+2394020,400,3,"Seattle",,0,BREM2,shp-400-01,0,1
+1655080,400,1,"Seattle",,0,BREM_SAT,shp-400-01,0,1
+168020,400,3,"Seattle",,0,BREM2,shp-400-01,0,1
+2461090,400,5,"Seattle",,0,BREM2,shp-400-01,0,1
+2539090,400,5,"Seattle",,0,BREM2,shp-400-01,0,1
+1423080,400,1,"Seattle",,0,BREM_SAT,shp-400-01,0,1
+1506090,400,5,"Seattle",,0,BREM2,shp-400-01,0,1
+1452020,400,3,"Seattle",,0,BREM1,shp-400-01,0,1
+1313020,400,3,"Seattle",,0,BREM1,shp-400-01,0,1
+136080,400,1,"Seattle",,0,BREM_SAT,shp-400-01,0,1
+1078020,400,3,"Seattle",,0,BREM2,shp-400-01,0,1
+1037090,400,5,"Seattle",,0,BREM1,shp-400-01,0,1
+15090,400,5,"Seattle",,0,BREM2,shp-400-01,0,1
+1463020,400,3,"Seattle",,0,BREM2,shp-400-01,0,1
+1545020,400,3,"Seattle",,0,BREM1,shp-400-01,0,1
+1861020,400,3,"Seattle",,0,BREM2,shp-400-01,0,1
+180020,400,3,"Seattle",,0,BREM1,shp-400-01,0,1
+1936090,400,5,"Seattle",,0,BREM2,shp-400-01,0,1
+1513020,400,3,"Seattle",,0,BREM2,shp-400-01,0,1
+2037020,401,3,"Seattle",,0,KG,shp-401-01,0,1
+1696080,401,1,"Seattle",,0,KG_SAT,shp-401-01,0,1
+1470090,401,5,"Seattle",,0,KG,shp-401-01,0,1
+1733090,401,5,"Seattle",,0,KG,shp-401-01,0,1
+1571090,401,5,"Seattle",,0,KG,shp-401-01,0,1
+1059080,401,1,"Seattle",,0,KG_SAT,shp-401-01,0,1
+1301020,401,3,"Seattle",,0,KG,shp-401-01,0,1
+1883080,401,1,"Seattle",,0,KG_SAT,shp-401-01,0,1
+493080,401,1,"Seattle",,0,KG_SAT,shp-401-01,0,1
+2047020,401,3,"Seattle",,0,KG,shp-401-01,0,1
+325080,401,1,"Seattle",,0,KG_SAT,shp-401-01,0,1
+93090,401,5,"Seattle",,0,KG,shp-401-01,0,1
+2167080,401,1,"Seattle",,0,KG_SAT,shp-401-01,0,1
+2541080,401,1,"Seattle",,0,KG_SAT,shp-401-01,0,1
+662080,401,1,"Seattle",,0,KG_SAT,shp-401-01,0,1
+411020,401,3,"Seattle",,0,KG,shp-401-01,0,1
+296090,401,5,"Seattle",,0,KG,shp-401-01,0,1
+49020,401,3,"Seattle",,0,KG,shp-401-01,0,1
+705020,401,3,"Seattle",,0,KG,shp-401-01,0,1
+980090,401,5,"Seattle",,0,KG,shp-401-01,0,1
+998020,402,3,"Seattle",,0,SW,shp-402-01,0,1
+975080,402,1,"Seattle",,0,SW_SAT,shp-402-01,0,1
+977090,402,5,"Seattle",,0,SW,shp-402-01,0,1
+602090,402,5,"Seattle",,0,SW,shp-402-01,0,1
+990020,402,3,"Seattle",,0,SW,shp-402-01,0,1
+376080,402,1,"Seattle",,0,SW_SAT,shp-402-01,0,1
+2469080,402,1,"Seattle",,0,SW_SAT,shp-402-01,0,1
+494020,402,3,"Seattle",,0,SW,shp-402-01,0,1
+215080,402,1,"Seattle",,0,SW_SAT,shp-402-01,0,1
+691080,402,1,"Seattle",,0,SW_SAT,shp-402-01,0,1
+459090,402,5,"Seattle",,0,SW,shp-402-01,0,1
+2323020,402,3,"Seattle",,0,SW,shp-402-01,0,1
+2114080,402,1,"Seattle",,0,SW_SAT,shp-402-01,0,1
+176020,402,3,"Seattle",,0,SW,shp-402-01,0,1
+323020,402,3,"Seattle",,0,SW,shp-402-01,0,1
+1940090,402,5,"Seattle",,0,SW,shp-402-01,0,1
+2286080,402,1,"Seattle",,0,SW_SAT,shp-402-01,0,1
+2234090,402,5,"Seattle",,0,SW,shp-402-01,0,1
+1343080,402,1,"Seattle",,0,SW_SAT,shp-402-01,0,1
+1371080,402,1,"Seattle",,0,SW_SAT,shp-402-01,0,1
+1316090,402,5,"Seattle",,0,SW,shp-402-01,0,1
+1629020,402,3,"Seattle",,0,SW,shp-402-01,0,1
+1908090,402,5,"Seattle",,0,SW,shp-402-01,0,1
+1460080,402,1,"Seattle",,0,SW_SAT,shp-402-01,0,1
+146020,402,3,"Seattle",,0,SW,shp-402-01,0,1
+1587090,402,5,"Seattle",,0,SW,shp-402-01,0,1
+1548080,402,1,"Seattle",,0,SW_SAT,shp-402-01,0,1
+1519020,403,3,"Bremerton",,0,BREM1,shp-403-01,0,1
+1748020,403,3,"Bremerton",,0,BREM1,shp-403-01,0,1
+1788090,403,5,"Bremerton",,0,BREM2,shp-403-01,0,1
+1461090,403,5,"Bremerton",,0,BREM2,shp-403-01,0,1
+2247080,403,1,"Bremerton",,0,BREM_SAT,shp-403-01,0,1
+1181020,403,3,"Bremerton",,0,BREM1,shp-403-01,0,1
+171020,403,3,"Bremerton",,0,BREM2,shp-403-01,0,1
+1550020,403,3,"Bremerton",,0,BREM2,shp-403-01,0,1
+1892020,403,3,"Bremerton",,0,BREM2,shp-403-01,0,1
+1765020,403,3,"Bremerton",,0,BREM2,shp-403-01,0,1
+134090,403,5,"Bremerton",,0,BREM1,shp-403-01,0,1
+1900090,403,5,"Bremerton",,0,BREM1,shp-403-01,0,1
+13090,403,5,"Bremerton",,0,BREM2,shp-403-01,0,1
+1314090,403,5,"Bremerton",,0,BREM1,shp-403-01,0,1
+118090,403,5,"Bremerton",,0,BREM1,shp-403-01,0,1
+1061080,403,1,"Bremerton",,0,BREM_SAT,shp-403-01,0,1
+109080,403,1,"Bremerton",,0,BREM_SAT,shp-403-01,0,1
+1175080,403,1,"Bremerton",,0,BREM_SAT,shp-403-01,0,1
+1164090,403,5,"Bremerton",,0,BREM2,shp-403-01,0,1
+1597020,403,3,"Bremerton",,0,BREM2,shp-403-01,0,1
+160020,403,3,"Bremerton",,0,BREM1,shp-403-01,0,1
+2131080,403,1,"Bremerton",,0,BREM_SAT,shp-403-01,0,1
+1881020,403,3,"Bremerton",,0,BREM2,shp-403-01,0,1
+161080,403,1,"Bremerton",,0,BREM_SAT,shp-403-01,0,1
+1732080,403,1,"Bremerton",,0,BREM_SAT,shp-403-01,0,1
+445090,403,5,"Bremerton",,0,BREM1,shp-403-01,0,1
+47020,403,3,"Bremerton",,0,BREM1,shp-403-01,0,1
+613090,403,5,"Bremerton",,0,BREM1,shp-403-01,0,1
+2150090,403,5,"Bremerton",,0,BREM2,shp-403-01,0,1
+1959090,403,5,"Bremerton",,0,BREM1,shp-403-01,0,1
+233020,403,3,"Bremerton",,0,BREM1,shp-403-01,0,1
+225020,403,3,"Bremerton",,0,BREM1,shp-403-01,0,1
+2228080,403,1,"Bremerton",,0,BREM_SAT,shp-403-01,0,1
+329090,403,5,"Bremerton",,0,BREM2,shp-403-01,0,1
+999020,403,3,"Bremerton",,0,BREM2,shp-403-01,0,1
+1963090,403,5,"Bremerton",,0,BREM1,shp-403-01,0,1
+239020,403,3,"Bremerton",,0,BREM1,shp-403-01,0,1
+1873090,403,5,"Bremerton",,0,BREM1,shp-403-01,0,1
+2560020,403,3,"Bremerton",,0,BREM1,shp-403-01,0,1
+2636020,403,3,"Bremerton",,0,BREM2,shp-403-01,0,1
+726090,403,5,"Bremerton",,0,BREM2,shp-403-01,0,1
+2577020,403,3,"Bremerton",,0,BREM2,shp-403-01,0,1
+2382020,403,3,"Bremerton",,0,BREM1,shp-403-01,0,1
+6090,403,5,"Bremerton",,0,BREM2,shp-403-01,0,1
+30090,403,5,"Bremerton",,0,BREM2,shp-403-01,0,1
+512090,403,5,"Bremerton",,0,BREM1,shp-403-01,0,1
+492080,403,1,"Bremerton",,0,BREM_SAT,shp-403-01,0,1
+765080,403,1,"Bremerton",,0,BREM_SAT,shp-403-01,0,1
+797090,403,5,"Bremerton",,0,BREM2,shp-403-01,0,1
+782020,403,3,"Bremerton",,0,BREM2,shp-403-01,0,1
+844090,404,5,"Kingston",,0,KG,shp-404-01,0,1
+462090,404,5,"Kingston",,0,KG,shp-404-01,0,1
+872080,404,1,"Kingston",,0,KG_SAT,shp-404-01,0,1
+520020,404,3,"Kingston",,0,KG,shp-404-01,0,1
+2631080,404,1,"Kingston",,0,KG_SAT,shp-404-01,0,1
+2632020,404,3,"Kingston",,0,KG,shp-404-01,0,1
+2501080,404,1,"Kingston",,0,KG_SAT,shp-404-01,0,1
+2090,404,5,"Kingston",,0,KG,shp-404-01,0,1
+2488080,404,1,"Kingston",,0,KG_SAT,shp-404-01,0,1
+588080,404,1,"Kingston",,0,KG_SAT,shp-404-01,0,1
+2112090,404,5,"Kingston",,0,KG,shp-404-01,0,1
+2241020,404,3,"Kingston",,0,KG,shp-404-01,0,1
+1045080,404,1,"Kingston",,0,KG_SAT,shp-404-01,0,1
+1126020,404,3,"Kingston",,0,KG,shp-404-01,0,1
+1219080,404,1,"Kingston",,0,KG_SAT,shp-404-01,0,1
+1401020,404,3,"Kingston",,0,KG,shp-404-01,0,1
+1453020,404,3,"Kingston",,0,KG,shp-404-01,0,1
+1498090,404,5,"Kingston",,0,KG,shp-404-01,0,1
+203080,404,1,"Kingston",,0,KG_SAT,shp-404-01,0,1
+1990090,404,5,"Kingston",,0,KG,shp-404-01,0,1
+2300020,405,3,"Southworth",,0,SW,shp-405-01,0,1
+1547080,405,1,"Southworth",,0,SW_SAT,shp-405-01,0,1
+1465090,405,5,"Southworth",,0,SW,shp-405-01,0,1
+2242090,405,5,"Southworth",,0,SW,shp-405-01,0,1
+1903020,405,3,"Southworth",,0,SW,shp-405-01,0,1
+1581080,405,1,"Southworth",,0,SW_SAT,shp-405-01,0,1
+1720080,405,1,"Southworth",,0,SW_SAT,shp-405-01,0,1
+1525090,405,5,"Southworth",,0,SW,shp-405-01,0,1
+1373080,405,1,"Southworth",,0,SW_SAT,shp-405-01,0,1
+1006090,405,5,"Southworth",,0,SW,shp-405-01,0,1
+1104020,405,3,"Southworth",,0,SW,shp-405-01,0,1
+2050020,405,3,"Southworth",,0,SW,shp-405-01,0,1
+514080,405,1,"Southworth",,0,SW_SAT,shp-405-01,0,1
+2200090,405,5,"Southworth",,0,SW,shp-405-01,0,1
+2338080,405,1,"Southworth",,0,SW_SAT,shp-405-01,0,1
+2391090,405,5,"Southworth",,0,SW,shp-405-01,0,1
+2165020,405,3,"Southworth",,0,SW,shp-405-01,0,1
+815020,405,3,"Southworth",,0,SW,shp-405-01,0,1
+2597020,405,3,"Southworth",,0,SW,shp-405-01,0,1
+237080,405,1,"Southworth",,0,SW_SAT,shp-405-01,0,1
+298020,405,3,"Southworth",,0,SW,shp-405-01,0,1
+557090,405,5,"Southworth",,0,SW,shp-405-01,0,1
+2569090,405,5,"Southworth",,0,SW,shp-405-01,0,1
+2373080,405,1,"Southworth",,0,SW_SAT,shp-405-01,0,1
+2429080,405,1,"Southworth",,0,SW_SAT,shp-405-01,0,1
+762080,405,1,"Southworth",,0,SW_SAT,shp-405-01,0,1
+898080,405,1,"Southworth",,0,SW_SAT,shp-405-01,0,1
+930070,500,4,"Bremerton",,0,PO_SAT,shp-500-01,0,1
+947080,500,1,"Bremerton",,0,PO_SAT,shp-500-01,0,1
+749020,500,3,"Bremerton",,0,PO,shp-500-01,0,1
+887020,500,3,"Bremerton",,0,PO,shp-500-01,0,1
+476090,500,5,"Bremerton",,0,PO,shp-500-01,0,1
+509080,500,1,"Bremerton",,0,PO_SAT,shp-500-01,0,1
+615090,500,5,"Bremerton",,0,PO,shp-500-01,0,1
+774020,500,3,"Bremerton",,0,PO,shp-500-01,0,1
+76080,500,1,"Bremerton",,0,PO_SAT,shp-500-01,0,1
+69090,500,5,"Bremerton",,0,PO,shp-500-01,0,1
+68070,500,4,"Bremerton",,0,PO_SAT,shp-500-01,0,1
+378070,500,4,"Bremerton",,0,PO_SAT,shp-500-01,0,1
+750020,500,3,"Bremerton",,0,PO,shp-500-01,0,1
+283020,500,3,"Bremerton",,0,PO,shp-500-01,0,1
+34080,500,1,"Bremerton",,0,PO_SAT,shp-500-01,0,1
+838090,500,5,"Bremerton",,0,PO,shp-500-01,0,1
+68080,500,1,"Bremerton",,0,PO_SAT,shp-500-01,0,1
+694010,500,2,"Bremerton",,0,PO_SUN,shp-500-01,0,1
+26010,500,2,"Bremerton",,0,PO_SUN,shp-500-01,0,1
+544020,500,3,"Bremerton",,0,PO,shp-500-01,0,1
+556070,500,4,"Bremerton",,0,PO_SAT,shp-500-01,0,1
+568090,500,5,"Bremerton",,0,PO,shp-500-01,0,1
+400020,500,3,"Bremerton",,0,PO,shp-500-01,0,1
+45080,500,1,"Bremerton",,0,PO_SAT,shp-500-01,0,1
+960070,500,4,"Bremerton",,0,PO_SAT,shp-500-01,0,1
+611020,500,3,"Bremerton",,0,PO,shp-500-01,0,1
+559080,500,1,"Bremerton",,0,PO_SAT,shp-500-01,0,1
+457010,500,2,"Bremerton",,0,PO_SUN,shp-500-01,0,1
+2390080,500,1,"Bremerton",,0,PO_SAT,shp-500-01,0,1
+2497090,500,5,"Bremerton",,0,PO,shp-500-01,0,1
+443090,500,5,"Bremerton",,0,PO,shp-500-01,0,1
+435080,500,1,"Bremerton",,0,PO_SAT,shp-500-01,0,1
+318090,500,5,"Bremerton",,0,PO,shp-500-01,0,1
+291080,500,1,"Bremerton",,0,PO_SAT,shp-500-01,0,1
+294090,500,5,"Bremerton",,0,PO,shp-500-01,0,1
+284010,500,2,"Bremerton",,0,PO_SUN,shp-500-01,0,1
+707090,500,5,"Bremerton",,0,PO,shp-500-01,0,1
+595020,500,3,"Bremerton",,0,PO,shp-500-01,0,1
+76070,500,4,"Bremerton",,0,PO_SAT,shp-500-01,0,1
+751010,500,2,"Bremerton",,0,PO_SUN,shp-500-01,0,1
+2302020,500,3,"Bremerton",,0,PO,shp-500-01,0,1
+2256080,500,1,"Bremerton",,0,PO_SAT,shp-500-01,0,1
+2339010,500,2,"Bremerton",,0,PO_SUN,shp-500-01,0,1
+2026020,500,3,"Bremerton",,0,PO,shp-500-01,0,1
+706090,500,5,"Bremerton",,0,PO,shp-500-01,0,1
+2565010,500,2,"Bremerton",,0,PO_SUN,shp-500-01,0,1
+2498020,500,3,"Bremerton",,0,PO,shp-500-01,0,1
+2508020,500,3,"Bremerton",,0,PO,shp-500-01,0,1
+2106090,500,5,"Bremerton",,0,PO,shp-500-01,0,1
+841020,500,3,"Bremerton",,0,PO,shp-500-01,0,1
+833020,500,3,"Bremerton",,0,PO,shp-500-01,0,1
+246020,500,3,"Bremerton",,0,PO,shp-500-01,0,1
+2256070,500,4,"Bremerton",,0,PO_SAT,shp-500-01,0,1
+2390070,500,4,"Bremerton",,0,PO_SAT,shp-500-01,0,1
+960080,500,1,"Bremerton",,0,PO_SAT,shp-500-01,0,1
+930080,500,1,"Bremerton",,0,PO_SAT,shp-500-01,0,1
+526020,500,3,"Bremerton",,0,PO,shp-500-01,0,1
+2615020,500,3,"Bremerton",,0,PO,shp-500-01,0,1
+378080,500,1,"Bremerton",,0,PO_SAT,shp-500-01,0,1
+349010,500,2,"Bremerton",,0,PO_SUN,shp-500-01,0,1
+2245020,500,3,"Bremerton",,0,PO,shp-500-01,0,1
+234090,500,5,"Bremerton",,0,PO,shp-500-01,0,1
+509070,500,4,"Bremerton",,0,PO_SAT,shp-500-01,0,1
+556080,500,1,"Bremerton",,0,PO_SAT,shp-500-01,0,1
+608020,500,3,"Bremerton",,0,PO,shp-500-01,0,1
+645020,500,3,"Bremerton",,0,PO,shp-500-01,0,1
+631020,500,3,"Bremerton",,0,PO,shp-500-01,0,1
+1867090,500,5,"Bremerton",,0,PO,shp-500-01,0,1
+1850020,500,3,"Bremerton",,0,PO,shp-500-01,0,1
+1819080,500,1,"Bremerton",,0,PO_SAT,shp-500-01,0,1
+45070,500,4,"Bremerton",,0,PO_SAT,shp-500-01,0,1
+428010,500,2,"Bremerton",,0,PO_SUN,shp-500-01,0,1
+435070,500,4,"Bremerton",,0,PO_SAT,shp-500-01,0,1
+367010,500,2,"Bremerton",,0,PO_SUN,shp-500-01,0,1
+291070,500,4,"Bremerton",,0,PO_SAT,shp-500-01,0,1
+224020,500,3,"Bremerton",,0,PO,shp-500-01,0,1
+230070,500,4,"Bremerton",,0,PO_SAT,shp-500-01,0,1
+1751020,500,3,"Bremerton",,0,PO,shp-500-01,0,1
+1660020,500,3,"Bremerton",,0,PO,shp-500-01,0,1
+1749010,500,2,"Bremerton",,0,PO_SUN,shp-500-01,0,1
+1095080,500,1,"Bremerton",,0,PO_SAT,shp-500-01,0,1
+1096020,500,3,"Bremerton",,0,PO,shp-500-01,0,1
+1014020,500,3,"Bremerton",,0,PO,shp-500-01,0,1
+1015070,500,4,"Bremerton",,0,PO_SAT,shp-500-01,0,1
+1092070,500,4,"Bremerton",,0,PO_SAT,shp-500-01,0,1
+1095070,500,4,"Bremerton",,0,PO_SAT,shp-500-01,0,1
+1198090,500,5,"Bremerton",,0,PO,shp-500-01,0,1
+1057010,500,2,"Bremerton",,0,PO_SUN,shp-500-01,0,1
+1097020,500,3,"Bremerton",,0,PO,shp-500-01,0,1
+1092080,500,1,"Bremerton",,0,PO_SAT,shp-500-01,0,1
+108020,500,3,"Bremerton",,0,PO,shp-500-01,0,1
+1015080,500,1,"Bremerton",,0,PO_SAT,shp-500-01,0,1
+1375080,500,1,"Bremerton",,0,PO_SAT,shp-500-01,0,1
+1191070,500,4,"Bremerton",,0,PO_SAT,shp-500-01,0,1
+1300070,500,4,"Bremerton",,0,PO_SAT,shp-500-01,0,1
+1291090,500,5,"Bremerton",,0,PO,shp-500-01,0,1
+1300080,500,1,"Bremerton",,0,PO_SAT,shp-500-01,0,1
+1191080,500,1,"Bremerton",,0,PO_SAT,shp-500-01,0,1
+1319080,500,1,"Bremerton",,0,PO_SAT,shp-500-01,0,1
+1322020,500,3,"Bremerton",,0,PO,shp-500-01,0,1
+1375070,500,4,"Bremerton",,0,PO_SAT,shp-500-01,0,1
+1254010,500,2,"Bremerton",,0,PO_SUN,shp-500-01,0,1
+129070,500,4,"Bremerton",,0,PO_SAT,shp-500-01,0,1
+1616010,500,2,"Bremerton",,0,PO_SUN,shp-500-01,0,1
+1752010,500,2,"Bremerton",,0,PO_SUN,shp-500-01,0,1
+1781090,500,5,"Bremerton",,0,PO,shp-500-01,0,1
+1787080,500,1,"Bremerton",,0,PO_SAT,shp-500-01,0,1
+129080,500,1,"Bremerton",,0,PO_SAT,shp-500-01,0,1
+1499080,500,1,"Bremerton",,0,PO_SAT,shp-500-01,0,1
+1626070,500,4,"Bremerton",,0,PO_SAT,shp-500-01,0,1
+1817090,500,5,"Bremerton",,0,PO,shp-500-01,0,1
+1897090,500,5,"Bremerton",,0,PO,shp-500-01,0,1
+1324090,500,5,"Bremerton",,0,PO,shp-500-01,0,1
+1327020,500,3,"Bremerton",,0,PO,shp-500-01,0,1
+1819070,500,4,"Bremerton",,0,PO_SAT,shp-500-01,0,1
+1796090,500,5,"Bremerton",,0,PO,shp-500-01,0,1
+157070,500,4,"Bremerton",,0,PO_SAT,shp-500-01,0,1
+2091010,500,2,"Bremerton",,0,PO_SUN,shp-500-01,0,1
+155090,500,5,"Bremerton",,0,PO,shp-500-01,0,1
+157080,500,1,"Bremerton",,0,PO_SAT,shp-500-01,0,1
+1981080,500,1,"Bremerton",,0,PO_SAT,shp-500-01,0,1
+1555090,500,5,"Bremerton",,0,PO,shp-500-01,0,1
+1626080,500,1,"Bremerton",,0,PO_SAT,shp-500-01,0,1
+1601080,500,1,"Bremerton",,0,PO_SAT,shp-500-01,0,1
+230080,500,1,"Bremerton",,0,PO_SAT,shp-500-01,0,1
+2032020,500,3,"Bremerton",,0,PO,shp-500-01,0,1
+1960090,500,5,"Bremerton",,0,PO,shp-500-01,0,1
+1520090,500,5,"Port Orchard",,1,PO,shp-500-51,0,1
+2308020,500,3,"Port Orchard",,1,PO,shp-500-51,0,1
+1529010,500,2,"Port Orchard",,1,PO_SUN,shp-500-51,0,1
+170020,500,3,"Port Orchard",,1,PO,shp-500-51,0,1
+201070,500,4,"Port Orchard",,1,PO_SAT,shp-500-51,0,1
+201080,500,1,"Port Orchard",,1,PO_SAT,shp-500-51,0,1
+1668090,500,5,"Port Orchard",,1,PO,shp-500-51,0,1
+1480090,500,5,"Port Orchard",,1,PO,shp-500-51,0,1
+2109080,500,1,"Port Orchard",,1,PO_SAT,shp-500-51,0,1
+1740090,500,5,"Port Orchard",,1,PO,shp-500-51,0,1
+226090,500,5,"Port Orchard",,1,PO,shp-500-51,0,1
+1475020,500,3,"Port Orchard",,1,PO,shp-500-51,0,1
+1483090,500,5,"Port Orchard",,1,PO,shp-500-51,0,1
+2149010,500,2,"Port Orchard",,1,PO_SUN,shp-500-51,0,1
+1843080,500,1,"Port Orchard",,1,PO_SAT,shp-500-51,0,1
+1750020,500,3,"Port Orchard",,1,PO,shp-500-51,0,1
+1843070,500,4,"Port Orchard",,1,PO_SAT,shp-500-51,0,1
+1656020,500,3,"Port Orchard",,1,PO,shp-500-51,0,1
+1659090,500,5,"Port Orchard",,1,PO,shp-500-51,0,1
+1411020,500,3,"Port Orchard",,1,PO,shp-500-51,0,1
+1624010,500,2,"Port Orchard",,1,PO_SUN,shp-500-51,0,1
+1575080,500,1,"Port Orchard",,1,PO_SAT,shp-500-51,0,1
+1579070,500,4,"Port Orchard",,1,PO_SAT,shp-500-51,0,1
+1579080,500,1,"Port Orchard",,1,PO_SAT,shp-500-51,0,1
+1638090,500,5,"Port Orchard",,1,PO,shp-500-51,0,1
+1278070,500,4,"Port Orchard",,1,PO_SAT,shp-500-51,0,1
+125010,500,2,"Port Orchard",,1,PO_SUN,shp-500-51,0,1
+1786070,500,4,"Port Orchard",,1,PO_SAT,shp-500-51,0,1
+1753070,500,4,"Port Orchard",,1,PO_SAT,shp-500-51,0,1
+1729020,500,3,"Port Orchard",,1,PO,shp-500-51,0,1
+1350010,500,2,"Port Orchard",,1,PO_SUN,shp-500-51,0,1
+1256020,500,3,"Port Orchard",,1,PO,shp-500-51,0,1
+1241010,500,2,"Port Orchard",,1,PO_SUN,shp-500-51,0,1
+1278080,500,1,"Port Orchard",,1,PO_SAT,shp-500-51,0,1
+1248010,500,2,"Port Orchard",,1,PO_SUN,shp-500-51,0,1
+1244090,500,5,"Port Orchard",,1,PO,shp-500-51,0,1
+1065010,500,2,"Port Orchard",,1,PO_SUN,shp-500-51,0,1
+1132090,500,5,"Port Orchard",,1,PO,shp-500-51,0,1
+1754020,500,3,"Port Orchard",,1,PO,shp-500-51,0,1
+2054080,500,1,"Port Orchard",,1,PO_SAT,shp-500-51,0,1
+2555090,500,5,"Port Orchard",,1,PO,shp-500-51,0,1
+2559080,500,1,"Port Orchard",,1,PO_SAT,shp-500-51,0,1
+2471020,500,3,"Port Orchard",,1,PO,shp-500-51,0,1
+2015090,500,5,"Port Orchard",,1,PO,shp-500-51,0,1
+2182020,500,3,"Port Orchard",,1,PO,shp-500-51,0,1
+2057020,500,3,"Port Orchard",,1,PO,shp-500-51,0,1
+1901020,500,3,"Port Orchard",,1,PO,shp-500-51,0,1
+1844090,500,5,"Port Orchard",,1,PO,shp-500-51,0,1
+2109070,500,4,"Port Orchard",,1,PO_SAT,shp-500-51,0,1
+2170010,500,2,"Port Orchard",,1,PO_SUN,shp-500-51,0,1
+1786080,500,1,"Port Orchard",,1,PO_SAT,shp-500-51,0,1
+1982070,500,4,"Port Orchard",,1,PO_SAT,shp-500-51,0,1
+192010,500,2,"Port Orchard",,1,PO_SUN,shp-500-51,0,1
+1982080,500,1,"Port Orchard",,1,PO_SAT,shp-500-51,0,1
+1910020,500,3,"Port Orchard",,1,PO,shp-500-51,0,1
+2138020,500,3,"Port Orchard",,1,PO,shp-500-51,0,1
+169010,500,2,"Port Orchard",,1,PO_SUN,shp-500-51,0,1
+1744020,500,3,"Port Orchard",,1,PO,shp-500-51,0,1
+1753080,500,1,"Port Orchard",,1,PO_SAT,shp-500-51,0,1
+538020,500,3,"Port Orchard",,1,PO,shp-500-51,0,1
+2523070,500,4,"Port Orchard",,1,PO_SAT,shp-500-51,0,1
+276020,500,3,"Port Orchard",,1,PO,shp-500-51,0,1
+22080,500,1,"Port Orchard",,1,PO_SAT,shp-500-51,0,1
+2178080,500,1,"Port Orchard",,1,PO_SAT,shp-500-51,0,1
+2179070,500,4,"Port Orchard",,1,PO_SAT,shp-500-51,0,1
+2179080,500,1,"Port Orchard",,1,PO_SAT,shp-500-51,0,1
+2229020,500,3,"Port Orchard",,1,PO,shp-500-51,0,1
+987080,500,1,"Port Orchard",,1,PO_SAT,shp-500-51,0,1
+2399010,500,2,"Port Orchard",,1,PO_SUN,shp-500-51,0,1
+2335020,500,3,"Port Orchard",,1,PO,shp-500-51,0,1
+2225080,500,1,"Port Orchard",,1,PO_SAT,shp-500-51,0,1
+2226020,500,3,"Port Orchard",,1,PO,shp-500-51,0,1
+850010,500,2,"Port Orchard",,1,PO_SUN,shp-500-51,0,1
+824010,500,2,"Port Orchard",,1,PO_SUN,shp-500-51,0,1
+82080,500,1,"Port Orchard",,1,PO_SAT,shp-500-51,0,1
+2162020,500,3,"Port Orchard",,1,PO,shp-500-51,0,1
+2116020,500,3,"Port Orchard",,1,PO,shp-500-51,0,1
+24020,500,3,"Port Orchard",,1,PO,shp-500-51,0,1
+2054070,500,4,"Port Orchard",,1,PO_SAT,shp-500-51,0,1
+676080,500,1,"Port Orchard",,1,PO_SAT,shp-500-51,0,1
+716090,500,5,"Port Orchard",,1,PO,shp-500-51,0,1
+2362090,500,5,"Port Orchard",,1,PO,shp-500-51,0,1
+795020,500,3,"Port Orchard",,1,PO,shp-500-51,0,1
+2225070,500,4,"Port Orchard",,1,PO_SAT,shp-500-51,0,1
+2275090,500,5,"Port Orchard",,1,PO,shp-500-51,0,1
+74070,500,4,"Port Orchard",,1,PO_SAT,shp-500-51,0,1
+776010,500,2,"Port Orchard",,1,PO_SUN,shp-500-51,0,1
+361090,500,5,"Port Orchard",,1,PO,shp-500-51,0,1
+2520070,500,4,"Port Orchard",,1,PO_SAT,shp-500-51,0,1
+2523080,500,1,"Port Orchard",,1,PO_SAT,shp-500-51,0,1
+2559070,500,4,"Port Orchard",,1,PO_SAT,shp-500-51,0,1
+258090,500,5,"Port Orchard",,1,PO,shp-500-51,0,1
+2425020,500,3,"Port Orchard",,1,PO,shp-500-51,0,1
+2520080,500,1,"Port Orchard",,1,PO_SAT,shp-500-51,0,1
+2470090,500,5,"Port Orchard",,1,PO,shp-500-51,0,1
+681090,500,5,"Port Orchard",,1,PO,shp-500-51,0,1
+551080,500,1,"Port Orchard",,1,PO_SAT,shp-500-51,0,1
+463020,500,3,"Port Orchard",,1,PO,shp-500-51,0,1
+551070,500,4,"Port Orchard",,1,PO_SAT,shp-500-51,0,1
+569020,500,3,"Port Orchard",,1,PO,shp-500-51,0,1
+398080,500,1,"Port Orchard",,1,PO_SAT,shp-500-51,0,1
+926020,500,3,"Port Orchard",,1,PO,shp-500-51,0,1
+913080,500,1,"Port Orchard",,1,PO_SAT,shp-500-51,0,1
+879080,500,1,"Port Orchard",,1,PO_SAT,shp-500-51,0,1
+860070,500,4,"Port Orchard",,1,PO_SAT,shp-500-51,0,1
+698070,500,4,"Port Orchard",,1,PO_SAT,shp-500-51,0,1
+640090,500,5,"Port Orchard",,1,PO,shp-500-51,0,1
+35020,500,3,"Port Orchard",,1,PO,shp-500-51,0,1
+968070,500,4,"Port Orchard",,1,PO_SAT,shp-500-51,0,1
+968080,500,1,"Port Orchard",,1,PO_SAT,shp-500-51,0,1
+74080,500,1,"Port Orchard",,1,PO_SAT,shp-500-51,0,1
+771010,500,2,"Port Orchard",,1,PO_SUN,shp-500-51,0,1
+779080,500,1,"Port Orchard",,1,PO_SAT,shp-500-51,0,1
+769090,500,5,"Port Orchard",,1,PO,shp-500-51,0,1
+708020,500,3,"Port Orchard",,1,PO,shp-500-51,0,1
+703090,500,5,"Port Orchard",,1,PO,shp-500-51,0,1
+698080,500,1,"Port Orchard",,1,PO_SAT,shp-500-51,0,1
+642070,500,4,"Port Orchard",,1,PO_SAT,shp-500-51,0,1
+642080,500,1,"Port Orchard",,1,PO_SAT,shp-500-51,0,1
+563090,500,5,"Port Orchard",,1,PO,shp-500-51,0,1
+913070,500,4,"Port Orchard",,1,PO_SAT,shp-500-51,0,1
+82070,500,4,"Port Orchard",,1,PO_SAT,shp-500-51,0,1
+860080,500,1,"Port Orchard",,1,PO_SAT,shp-500-51,0,1
+976020,500,3,"Port Orchard",,1,PO,shp-500-51,0,1
+987070,500,4,"Port Orchard",,1,PO_SAT,shp-500-51,0,1
+974020,500,3,"Port Orchard",,1,PO,shp-500-51,0,1
+921080,500,1,"Port Orchard",,1,PO_SAT,shp-500-51,0,1
+97020,501,3,"Annapolis",,1,ANNA,shp-501-52,0,1
+848020,501,3,"Annapolis",,1,ANNA,shp-501-52,0,1
+7020,501,3,"Annapolis",,1,ANNA,shp-501-52,0,1
+2396020,501,3,"Annapolis",,1,ANNA,shp-501-52,0,1
+2272020,501,3,"Annapolis",,1,ANNA,shp-501-52,0,1
+1937020,501,3,"Annapolis",,1,ANNA,shp-501-52,0,1
+2628020,501,3,"Annapolis",,1,ANNA,shp-501-52,0,1
+235020,501,3,"Annapolis",,1,ANNA,shp-501-52,0,1
+541020,501,3,"Annapolis",,1,ANNA,shp-501-52,0,1
+1823020,501,3,"Annapolis",,1,ANNA,shp-501-52,0,1
+1784020,501,3,"Annapolis",,1,ANNA,shp-501-52,0,1
+1995020,501,3,"Annapolis",,1,ANNA,shp-501-52,0,1
+1040020,501,3,"Annapolis",,1,ANNA,shp-501-52,0,1
+1809020,501,3,"Annapolis",,1,ANNA,shp-501-52,0,1
+1397020,501,3,"Annapolis",,1,ANNA,shp-501-52,0,1
+1847020,501,3,"Annapolis",,1,ANNA,shp-501-52,0,1
+1858020,501,3,"Annapolis",,1,ANNA,shp-501-52,0,1
+2102020,501,3,"Annapolis",,1,ANNA,shp-501-52,0,1
+193020,501,3,"Bremerton",,0,ANNA,shp-501-01,0,1
+1489020,501,3,"Bremerton",,0,ANNA,shp-501-01,0,1
+1793020,501,3,"Bremerton",,0,ANNA,shp-501-01,0,1
+1507020,501,3,"Bremerton",,0,ANNA,shp-501-01,0,1
+1050020,501,3,"Bremerton",,0,ANNA,shp-501-01,0,1
+1007020,501,3,"Bremerton",,0,ANNA,shp-501-01,0,1
+1222020,501,3,"Bremerton",,0,ANNA,shp-501-01,0,1
+1039020,501,3,"Bremerton",,0,ANNA,shp-501-01,0,1
+1584020,501,3,"Bremerton",,0,ANNA,shp-501-01,0,1
+2107020,501,3,"Bremerton",,0,ANNA,shp-501-01,0,1
+382020,501,3,"Bremerton",,0,ANNA,shp-501-01,0,1
+317020,501,3,"Bremerton",,0,ANNA,shp-501-01,0,1
+2343020,501,3,"Bremerton",,0,ANNA,shp-501-01,0,1
+2051020,501,3,"Bremerton",,0,ANNA,shp-501-01,0,1
+2594020,501,3,"Bremerton",,0,ANNA,shp-501-01,0,1
+619020,501,3,"Bremerton",,0,ANNA,shp-501-01,0,1
+2592020,501,3,"Bremerton",,0,ANNA,shp-501-01,0,1
+504020,501,3,"Bremerton",,0,ANNA,shp-501-01,0,1
+508020,501,3,"Bremerton",,0,ANNA,shp-501-01,0,1
+637020,501,3,"Port Orchard",,1,ANNA,shp-501-51,0,1
+2236020,600,3,"Burley",,1,600,shp-600-51,0,0
+2320020,600,3,"PSNS",,0,600,shp-600-01,0,0
+2609020,602,3,"PSNS",,0,602,shp-602-01,0,0
+742020,602,3,"Tracyton",,1,602,shp-602-51,0,0
+1094020,604,3,"Horseshoe Lake",,1,604,shp-604-51,0,0
+346020,604,3,"PSNS",,0,604,shp-604-01,0,0
+80020,605,3,"Illahee",,1,605,shp-605-51,0,0
+1406020,605,3,"PSNS",,0,605,shp-605-01,0,0
+1266020,607,3,"Long Lake",,1,607,shp-607-51,0,0
+1542020,607,3,"PSNS",,0,607,shp-607-01,0,0
+666020,608,3,"Manchester",,1,608,shp-608-51,0,0
+12020,608,3,"PSNS",,0,608,shp-608-01,0,0
+2512020,612,3,"Phillips-Bielmeier",,1,612,shp-612-51,0,0
+627020,612,3,"PSNS",,0,612,shp-612-01,0,0
+678020,614,3,"Port Gamble",,1,614,shp-614-51,0,0
+156020,614,3,"PSNS",,0,614,shp-614-01,0,0
+1041020,616,3,"PSNS",,0,616,shp-616-01,0,0
+1905020,616,3,"Salmonberry",,1,616,shp-616-51,0,0
+2086020,618,3,"PSNS",,0,618,shp-618-01,0,0
+719020,618,3,"Southworth",,1,618,shp-618-51,0,0
+1017020,619,3,"PSNS",,0,619,shp-619-01,0,0
+1794020,619,3,"Suquamish",,1,619,shp-619-51,0,0
+53020,620,3,"PSNS",,0,620,shp-620-01,0,0
+305020,620,3,"Winslow",,1,620,shp-620-51,0,0
+335020,621,3,"PSNS",,0,621,shp-621-01,0,0
+1562020,621,3,"Woodmere",,1,621,shp-621-51,0,0
+1742020,623,3,"Central Valley",,1,623,shp-623-51,0,0
+1125020,623,3,"PSNS",,0,623,shp-623-01,0,0
+1866020,624,3,"Fairgrounds",,1,624,shp-624-51,0,0
+1213020,624,3,"PSNS",,0,624,shp-624-01,0,0
+456020,625,3,"PSNS",,0,625,shp-625-01,0,0
+1657020,625,3,"Sidney Woods",,1,625,shp-625-51,0,0
+1933020,626,3,"PSNS",,0,626,shp-626-01,0,0
+2556020,627,3,"PSNS",,0,627,shp-627-01,0,0
+55020,627,3,"South Kitsap",,1,627,shp-627-51,0,0
+1349020,630,3,"Olalla",,1,630,shp-630-51,0,0
+1665020,630,3,"PSNS",,0,630,shp-630-01,0,0
+1325020,631,3,"Chico",,1,631,shp-631-51,0,0
+1283020,631,3,"PSNS",,0,631,shp-631-01,0,0
+2209020,633,3,"PSNS",,0,633,shp-633-01,0,0
+1210020,633,3,"Viking Way",,1,633,shp-633-51,0,0
+2014020,635,3,"PSNS",,0,635,shp-635-01,0,0
+2008020,636,3,"Parkwood/Ponderosa",,1,636,shp-636-51,0,0
+586020,636,3,"PSNS",,0,636,shp-636-01,0,0
+266020,637,3,"PSNS",,0,637,shp-637-01,0,0
+812020,637,3,"Sunnyslope",,1,637,shp-637-51,0,0
+1585020,638,3,"PSNS",,0,638,shp-638-01,0,0
+23020,638,3,"Seabeck/Camp Union",,1,638,shp-638-51,0,0
+2641028,TA033,3,"Task",,1,94PM,shp-TA033-02,0,0
+2640028,TA033,3,"Task",,1,98PM,shp-TA033-01,0,0
+2639028,TA033,3,"Task",,1,PB2,shp-TA033-02,0,0

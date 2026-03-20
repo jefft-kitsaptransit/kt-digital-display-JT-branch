@@ -1,0 +1,82 @@
+﻿route_id,agency_id,route_short_name,route_long_name,route_desc,route_type,route_url,route_color,route_text_color,route_sort_order
+400,20,400,Bremerton to Seattle Fast Ferry,,4,https://www.kitsaptransit.com/service/fast-ferry/bremerton-fast-ferry,0070c0,ffffff,1000
+401,20,401,Kingston to Seattle Fast Ferry,,4,https://www.kitsaptransit.com/service/fast-ferry/kingston-fast-ferry,0070c0,ffffff,1010
+402,20,402,Southworth to Seattle Fast Ferry,,4,https://www.kitsaptransit.com/service/fast-ferry/southworth-fast-ferry,0070c0,ffffff,1020
+403,20,403,Seattle to Bremerton Fast Ferry,,4,https://www.kitsaptransit.com/service/fast-ferry/bremerton-fast-ferry,0070c0,ffffff,1030
+404,20,404,Seattle to Kingston Fast Ferry,,4,https://www.kitsaptransit.com/service/fast-ferry/kingston-fast-ferry,0070c0,ffffff,1040
+405,20,405,Seattle to Southworth Fast Ferry,,4,https://www.kitsaptransit.com/service/fast-ferry/southworth-fast-ferry,0070c0,ffffff,1050
+500,20,500,Port Orchard Foot Ferry,,4,http://www.kitsaptransit.com/service/foot-ferry,e46c0a,ffffff,1060
+501,20,501,Annapolis Foot Ferry,,4,https://www.kitsaptransit.com/service/foot-ferry#Annapolis,e46c0a,ffffff,1070
+104,20,104,Tremont,,3,https://www.kitsaptransit.com/service/routed-buses/104-tremont,c0504d,ffffff,3000
+105,20,105,Sidney,,3,https://www.kitsaptransit.com/service/routed-buses/105-sidney,1d1b11,ffffff,3010
+108,20,108,Bethel,,3,https://www.kitsaptransit.com/service/routed-buses/108-bethel,0004ff,ffffff,3020
+109,20,109,East Port Orchard,,3,https://www.kitsaptransit.com/service/routed-buses/109-east-port-orchard,803a66,ffffff,3030
+119,20,119,Madrona,,3,https://www.kitsaptransit.com/service/routed-buses/119-madrona,b2752d,ffffff,3040
+181,20,181,Annapolis,,3,https://www.kitsaptransit.com/service/routed-buses/181-annapolis-commuter,1f497d,ffffff,3050
+184,20,184,Harper Shuttle,,3,http://www.kitsaptransit.com/service/routed-buses/184-harper-shuttle,1d1b11,ffffff,3060
+185,20,185,Mullenix,,3,https://www.kitsaptransit.com/service/routed-buses/185-mullenix,215867,ffffff,3070
+186,20,186,Southworth,,3,https://www.kitsaptransit.com/service/routed-buses/186-southworth,ff0000,ffffff,3080
+212,20,212,Bremerton-Silverdale West,,3,http://www.kitsaptransit.com/service/routed-buses/212-bremertonsilverdale-west,c00000,ffffff,3090
+215,20,215,McWilliams,,3,https://www.kitsaptransit.com/service/routed-buses/215-mcwilliams-commuter,ffc000,000000,3100
+217,20,217,Bremerton-Silverdale East,,3,http://www.kitsaptransit.com/service/routed-buses/217-bremertonsilverdale-east,002060,ffffff,3110
+219,20,219,Crossroads,,3,https://www.kitsaptransit.com/service/routed-buses/219-crossroads-commuter,b2752d,ffffff,3120
+220,20,220,Sunn Fjord,,3,http://www.kitsaptransit.com/service/routed-buses/220-sunn-fjord,4e6128,ffffff,3130
+221,20,221,Perry Avenue,,3,https://www.kitsaptransit.com/service/routed-buses/221-perry-avenue,7030a0,ffffff,3140
+222,20,222,Gateway Express,,3,http://www.kitsaptransit.com/service/routed-buses/222-gateway-express,c90000,ffffff,3150
+223,20,223,Kariotis,,3,http://www.kitsaptransit.com/service/routed-buses/223-kariotis,31859b,ffffff,3160
+224,20,224,Olympic College,,3,http://www.kitsaptransit.com/service/routed-buses/224-olympic-college,ff0000,ffffff,3170
+225,20,225,Sheridan Park,,3,http://www.kitsaptransit.com/service/routed-buses/225-sheridan-park,e46c0a,ffffff,3180
+226,20,226,Bay Vista,,3,http://www.kitsaptransit.com/service/routed-buses/226-bay-vista,604a7b,ffffff,3190
+228,20,228,Marion,,3,http://www.kitsaptransit.com/service/routed-buses/228-marion,31859b,ffffff,3200
+229,20,229,Trenton,,3,https://www.kitsaptransit.com/service/routed-buses/229-trenton-commuter,ff0000,ffffff,3210
+238,20,238,West Bremerton Express,,3,https://www.kitsaptransit.com/service/routed-buses/238-west-bremerton-express,7030a0,ffffff,3220
+265,20,265,Silverdale Central,,3,https://www.kitsaptransit.com/service/routed-buses/265-silverdale-central,e46c0a,ffffff,3230
+266,20,266,Silverdale Ridgetop,,3,https://www.kitsaptransit.com/service/routed-buses/266-silverdale-ridgetop,4e6128,ffffff,3240
+301,20,301,North Kitsap Fast Ferry Express,,3,https://www.kitsaptransit.com/service/routed-buses/301-north-kitsap-fast-ferry-express,943734,ffffff,3250
+302,20,302,Kingston/Suquamish Fast Ferry,,3,https://www.kitsaptransit.com/service/routed-buses/302-kingstonsuquamish-fast-ferry,31859b,ffffff,3260
+307,20,307,Kingston/North Viking Fast Ferry,,3,https://www.kitsaptransit.com/service/routed-buses/307-kingston-north-viking-fast-ferry-express,00b050,ffffff,3270
+331,20,331,Poulsbo/Myhre,,3,https://www.kitsaptransit.com/service/routed-buses/331-poulsbomyhre,4e6128,ffffff,3280
+332,20,332,Poulsbo/Silverdale,,3,https://www.kitsaptransit.com/service/routed-buses/332-poulsbosilverdale,7030a0,ffffff,3290
+333,20,333,Silverdale/Bainbridge,,3,https://www.kitsaptransit.com/service/routed-buses/333-silverdalebainbridge,ff0000,ffffff,3300
+344,20,344,Poulsbo Central,,3,https://www.kitsaptransit.com/service/routed-buses/344-poulsbo-central,0070c0,ffffff,3310
+377,20,377,BI Ferry Take Home,,3,https://www.kitsaptransit.com/service/routed-buses/bainbridge-island/BI-alt-routes,4e6128,ffffff,3320
+389,20,389,Fletcher Bay,,3,https://www.kitsaptransit.com/service/routed-buses/389-fletcher-bay,403152,ffffff,3330
+390,20,390,Poulsbo/Bainbridge,,3,https://www.kitsaptransit.com/service/routed-buses/390-poulsbobainbridge,984807,ffffff,3340
+391,20,391,Kingston/Bainbridge,,3,http://www.kitsaptransit.com/service/routed-buses/391-kingstonbainbridge,e46c0a,ffffff,3350
+393,20,393,Manzanita,,3,https://www.kitsaptransit.com/service/routed-buses/393-manzanita,008080,ffffff,3360
+394,20,394,Agate Point,,3,https://www.kitsaptransit.com/service/routed-buses/394-agate-point,448038,ffffff,3370
+395,20,395,Battle Point,,3,https://www.kitsaptransit.com/service/routed-buses/395-battle-point,6d2f80,ffffff,3380
+396,20,396,Sunrise,,3,https://www.kitsaptransit.com/service/routed-buses/396-sunrise,943734,ffffff,3390
+397,20,397,Crystal Springs,,3,https://www.kitsaptransit.com/service/routed-buses/397-crystal-springs,002060,ffffff,3400
+398,20,398,Fort Ward,,3,https://www.kitsaptransit.com/service/routed-buses/398-fort-ward,0070c0,ffffff,3410
+399,20,399,Bill Point,,3,https://www.kitsaptransit.com/service/routed-buses/399-bill-point,1d1b11,ffffff,3420
+800,20,800,BI Ride,,3,https://www.kitsaptransit.com/service/routed-buses/bi-ride,2FC72A,000000,4000
+801,20,801,SK Ride,,3,https://www.kitsaptransit.com/service/routed-buses/sk-ride,2FC72A,000000,4100
+803,20,803,Kingston Ride,,3,https://www.kitsaptransit.com/service/routed-buses/kingston-ride,2FC72A,000000,4200
+807,20,807,Sunday On-Demand,,3,https://www.kitsaptransit.com/service/routed-buses/sunday-bus-service,2FC72A,000000,4300
+600,20,600,Burley Worker/Driver,,3,https://www.kitsaptransit.com/service/workerdriver-buses/burley-bus,c0504d,ffffff,5000
+602,20,602,Tracyton Worker/Driver,,3,https://www.kitsaptransit.com/service/workerdriver-buses/tracyton,c0504d,ffffff,5010
+604,20,604,Horseshoe Lake Worker/Driver,,3,https://www.kitsaptransit.com/service/workerdriver-buses/horseshoe-lake,c0504d,ffffff,5020
+605,20,605,Illahee Worker/Driver,,3,https://www.kitsaptransit.com/service/workerdriver-buses/illahee,c0504d,ffffff,5030
+607,20,607,Long Lake Days Worker/Driver,,3,https://www.kitsaptransit.com/service/workerdriver-buses/long-lake-days,c0504d,ffffff,5040
+608,20,608,Manchester Worker/Driver,,3,https://www.kitsaptransit.com/service/workerdriver-buses/manchester-beach,c0504d,ffffff,5050
+612,20,612,Phillips/Bielmeier Worker/Driver,,3,https://www.kitsaptransit.com/service/workerdriver-buses/phillips-bielmeier,c0504d,ffffff,5060
+614,20,614,Port Gamble Worker/Driver,,3,https://www.kitsaptransit.com/service/workerdriver-buses/port-gamble,c0504d,ffffff,5070
+616,20,616,Salmonberry Worker/Driver,,3,https://www.kitsaptransit.com/service/workerdriver-buses/salmonberry,c0504d,ffffff,5080
+618,20,618,Southworth Worker/Driver,,3,https://www.kitsaptransit.com/service/workerdriver-buses/southworth,c0504d,ffffff,5090
+619,20,619,Suquamish Worker/Driver,,3,https://www.kitsaptransit.com/service/workerdriver-buses/suquamish,c0504d,ffffff,5100
+620,20,620,Winslow Worker/Driver,,3,https://www.kitsaptransit.com/service/workerdriver-buses/winslow,c0504d,ffffff,5110
+621,20,621,Woodmere Worker/Driver,,3,https://www.kitsaptransit.com/service/workerdriver-buses/woodmere,c0504d,ffffff,5120
+623,20,623,Central Valley Loop Worker/Driver,,3,https://www.kitsaptransit.com/service/workerdriver-buses/central-valley-loop,c0504d,ffffff,5130
+624,20,624,Fairgrounds Worker/Driver,,3,https://www.kitsaptransit.com/service/workerdriver-buses/fairgrounds,c0504d,ffffff,5140
+625,20,625,Sidney Woods Worker/Driver,,3,https://www.kitsaptransit.com/service/workerdriver-buses/sidney-woods,c0504d,ffffff,5150
+626,20,626,Early North Worker/Driver,,3,https://www.kitsaptransit.com/service/workerdriver-buses/early-north,c0504d,ffffff,5160
+627,20,627,SK/Bangor Worker/Driver,,3,https://www.kitsaptransit.com/service/workerdriver-buses/south-kitsapbangor,c0504d,ffffff,5170
+630,20,630,Olalla Worker/Driver,,3,https://www.kitsaptransit.com/service/workerdriver-buses/olalla,c0504d,ffffff,5180
+631,20,631,Chico Worker/Driver,,3,https://www.kitsaptransit.com/service/workerdriver-buses/chico-run,c0504d,ffffff,5190
+633,20,633,Viking Express Worker/Driver,,3,https://www.kitsaptransit.com/service/workerdriver-buses/viking-express,c0504d,ffffff,5200
+635,20,635,Early South Worker/Driver,,3,https://www.kitsaptransit.com/service/workerdriver-buses/early-south,c0504d,ffffff,5210
+636,20,636,Parkwood-Ponderosa Worker/Driver,,3,https://www.kitsaptransit.com/service/workerdriver-buses/parkwood,c0504d,ffffff,5220
+637,20,637,Sunnyslope Worker/Driver,,3,https://www.kitsaptransit.com/service/workerdriver-buses/sunnyslope,c0504d,ffffff,5230
+638,20,638,Seabeck/Camp Union Worker/Driver,,3,https://www.kitsaptransit.com/service/workerdriver-buses/seabeck,c0504d,ffffff,5240
+TA033,20,377,BI Ferry Take Home,,3,https://www.kitsaptransit.com/service/routed-buses/bainbridge-island/BI-alt-routes,4e6128,ffffff,5250

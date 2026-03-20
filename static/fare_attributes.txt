@@ -1,0 +1,4 @@
+﻿fare_id,price,currency_type,payment_method,transfers,agency_id,transfer_duration
+2,13,USD,1,0,20,0
+1,2,USD,0,1,20,0
+3,3,USD,0,1,20,0
