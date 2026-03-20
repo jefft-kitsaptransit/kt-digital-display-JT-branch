@@ -1,4 +1,4 @@
-#  OWM_API_KEY = "d7372b7598f7c2e4b5790dbc9404e5ab" 
+
 
 from flask import Flask, render_template, jsonify
 from google.transit import gtfs_realtime_pb2
@@ -14,7 +14,7 @@ app = Flask(__name__)
 # --- CONFIGURATION ---
 TRIPS_URL   = "https://kttracker.com/gtfsrt/trips"
 ALERTS_URL  = "https://cdn.simplifytransit.com/alerts/service-alerts.pb"
-OWM_API_KEY = "d7372b7598f7c2e4b5790dbc9404e5ab"   # OPENWEATHERMAP API KEY
+OWM_API_KEY = "OWM_API_KEY"   # OPENWEATHERMAP API KEY  
 LAT, LON    = "47.5673", "-122.6329"
 LA_TZ       = ZoneInfo("America/Los_Angeles")
 
