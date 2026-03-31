@@ -42,33 +42,40 @@
             height: 10vh; min-height: 80px; max-height: 120px;
             flex-shrink: 0;
             box-shadow: 0 4px 12px -4px rgba(0,30,50,0.1);
+            z-index: 10; position: relative;
         }
         .header img { height: 70%; width: auto; object-fit: contain; filter: drop-shadow(0 2px 4px rgba(0,0,0,0.1)); }
         .header-right { display: flex; align-items: center; gap: 40px; }
         .w-temp {
-            font-size: clamp(1.6rem, 2.5vw, 3rem); font-weight: 700;
-            background: rgba(255,255,255,0.3); padding: 0.4em 1em;
+            font-size: clamp(1.4rem, 2.2vw, 2.6rem); font-weight: 700;
+            background: rgba(255,255,255,0.3); padding: 0.3em 0.8em;
             border-radius: 60px; backdrop-filter: blur(4px);
         }
         .clock {
-            font-size: clamp(2.4rem, 4vw, 5rem); font-weight: 700;
+            font-size: clamp(2rem, 3.5vw, 4.2rem); font-weight: 700;
             color: var(--blue-deep);
-            background: rgba(255,255,255,0.25); padding: 0.15em 0.7em;
+            background: rgba(255,255,255,0.25); padding: 0.1em 0.6em;
             border-radius: 80px; backdrop-filter: blur(8px);
             line-height: 1.2; letter-spacing: 2px;
         }
 
         /* TICKER */
         .ticker-wrap {
-            background: var(--alert-red); color: white;
+            background: linear-gradient(90deg, #b72828, var(--alert-red), #b72828); color: white;
             height: 5vh; min-height: 40px; max-height: 60px;
             font-size: clamp(1rem, 1.8vw, 2rem); font-weight: 600;
             display: none; align-items: center; flex-shrink: 0;
-            box-shadow: inset 0 -2px 0 #8a1f1f, 0 6px 12px rgba(188,44,44,0.3);
+            box-shadow: inset 0 -2px 0 #8a1f1f;
             letter-spacing: 0.02em;
+            overflow: hidden; position: relative; z-index: 5;
         }
-        .ticker { display: inline-block; padding-left: 100%; animation: tickerScroll 160s linear infinite; white-space: nowrap; }
-        @keyframes tickerScroll { 0% { transform: translateX(0); } 100% { transform: translateX(-100%); } }
+        .ticker {
+            display: inline-block; padding-left: 100%;
+            animation: tickerScroll 60s linear infinite;
+            white-space: nowrap;
+            will-change: transform;
+        }
+        @keyframes tickerScroll { 0% { transform: translate3d(0,0,0); } 100% { transform: translate3d(-100%,0,0); } }
         @media (prefers-reduced-motion: reduce) { .ticker { animation: none; padding-left: 20px; } }
 
         /* LAYOUT */
@@ -121,32 +128,57 @@
             font-size: clamp(1rem, 1.6vw, 2rem);
         }
 
-        td:nth-child(1) { flex: 0 0 16%; }
-        td:nth-child(2) { flex: 1; }
-        td:nth-child(3) { flex: 0 0 32%; justify-content: flex-end; padding-right: 1.2vw; }
+        #bus-body td:nth-child(1) { flex: 0 0 14%; justify-content: center; }
+        #bus-body td:nth-child(2) { flex: 1; }
+        #bus-body td:nth-child(3) { flex: 0 0 28%; justify-content: flex-end; padding-right: 1.2vw; }
+        #bus-body td:nth-child(4) { flex: 0 0 10%; justify-content: center; }
 
-        #ferry-body td:nth-child(1) { flex: 0 0 20%; }
-        #ferry-body td:nth-child(3) { flex: 0 0 38%; padding-right: 0.3vw; }
+        #ferry-body td:nth-child(1) { flex: 0 0 18%; justify-content: center; }
+        #ferry-body td:nth-child(2) { flex: 1; }
+        #ferry-body td:nth-child(3) { flex: 0 0 38%; justify-content: flex-end; padding-right: 0.5vw; }
 
         /* ROUTE BADGE */
         .route-badge {
             display: inline-flex; align-items: center; justify-content: center;
-            width: 90%;
-            max-width: clamp(60px, 5.5vw, 100px);
+            width: clamp(60px, 5.5vw, 100px);
             height: clamp(60px, 5.5vh, 100px);
-            border-radius: 1.2vw;
+            border-radius: 14px;
             font-size: clamp(1.1rem, 1.7vw, 2.4rem); font-weight: 800;
             box-shadow: 0 4px 8px -3px rgba(0,0,0,0.15);
             border: 1px solid rgba(255,255,255,0.3);
             flex-shrink: 0;
         }
 
+        /* BAY BADGE */
+        .bay-badge {
+            display: inline-flex; align-items: center; justify-content: center;
+            width: clamp(44px, 4vw, 76px); height: clamp(44px, 4vh, 76px);
+            border-radius: 50%;
+            background: var(--blue-deep); color: white;
+            font-size: clamp(1rem, 1.5vw, 2rem); font-weight: 800;
+            box-shadow: 0 3px 6px -2px rgba(0,0,0,0.15);
+        }
+        /* CANCELED */
+        .eta-canceled-time {
+            font-size: clamp(0.85rem, 1.3vw, 1.7rem); font-weight: 700;
+            color: var(--blue-deep);
+            white-space: nowrap;
+        }
+        .eta-canceled {
+            color: var(--alert-red);
+            font-size: clamp(0.8rem, 1.2vw, 1.5rem); font-weight: 700;
+            display: inline-block; white-space: nowrap;
+            letter-spacing: 0.5px;
+            margin-left: 0.3em;
+        }
+
         /* DESTINATION */
         .dest-cell { display: flex; flex-direction: column; justify-content: center; width: 100%; overflow: hidden; }
-        .dest-main { font-size: clamp(1.2rem, 2vw, 2.6rem); font-weight: 700; color: #0a1927; line-height: 1.2; letter-spacing: -0.3px; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }
+        .dest-main { font-size: clamp(1.1rem, 1.8vw, 2.4rem); font-weight: 700; color: #0a1927; line-height: 1.2; letter-spacing: -0.3px; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }
         .dest-via  { font-size: clamp(0.75rem, 1.2vw, 1.6rem); font-weight: 500; color: var(--slate-500); line-height: 1.2; margin-top: 0.2vh; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }
 
-        .eta-time { font-size: clamp(1.2rem, 2.2vw, 3rem); font-weight: 700; color: var(--blue-deep); background: rgba(43,127,194,0.08); padding: 0.3em 0.8em; border-radius: 50px; display: inline-block; white-space: nowrap; }
+        .eta-time { font-size: clamp(1.1rem, 1.8vw, 2.4rem); font-weight: 700; color: var(--blue-deep); background: rgba(43,127,194,0.08); padding: 0.25em 0.6em; border-radius: 50px; display: inline-block; white-space: nowrap; }
+        .eta-tomorrow { font-size: clamp(0.85rem, 1.3vw, 1.7rem); }
         #ferry-body .eta-time { padding: 0.12em 0.8em; }
 
         /* Buses: NOW */
@@ -156,29 +188,12 @@
             font-size: clamp(1.2rem, 2vw, 2.6rem); font-weight: 700;
             display: inline-block; letter-spacing: 2px;
             box-shadow: 0 6px 14px rgba(17,127,74,0.4);
-            animation: softGlow 2.8s infinite ease-in-out, nowPulse 3s ease-in-out infinite;
+            animation: softGlow 2.8s infinite ease-in-out;
             white-space: nowrap;
         }
         @keyframes softGlow { 0%,100% { opacity:1; } 50% { opacity:0.82; } }
 
-        /* Ferries: BOARDING — outward ring pulse, calm and steady */
-        .eta-boarding {
-            background: var(--success-green); color: white;
-            padding: 0.35em 0.8em; border-radius: 40px;
-            font-size: clamp(1rem, 1.6vw, 2.2rem); font-weight: 700;
-            display: inline-block; white-space: nowrap;
-            box-shadow: 0 6px 10px rgba(17,127,74,0.3);
-            animation: boardingPulse 3s ease-in-out infinite;
-        }
-        @keyframes boardingPulse {
-            0%, 100% { box-shadow: 0 6px 10px rgba(17,127,74,0.3), 0 0 0 0   rgba(17,127,74,0.45); }
-            55%       { box-shadow: 0 6px 10px rgba(17,127,74,0.3), 0 0 0 9px rgba(17,127,74,0);    }
-        }
-
         .status-completed { color: var(--slate-500); font-size: clamp(0.9rem, 1.4vw, 1.9rem); font-weight: 600; white-space: nowrap; }
-
-        /* HELP WIDGET */
-        .help-td { border: none !important; padding: 1vh 0 !important; }
         .help-widget {
             background: rgba(240,248,255,0.75); backdrop-filter: blur(8px);
             border-radius: 2vw; display: flex; flex-direction: column;
@@ -212,50 +227,100 @@
         .info-slot { display: none; flex-direction: column; flex: 1; min-height: 0; }
         .info-slot.active { display: flex; }
 
+        /* WEATHER ICON COLORS */
+        .wi-day-sunny { color: #f59e0b; }
+        .wi-day-cloudy { color: #f59e0b; }
+        .wi-day-cloudy-high { color: #94a3b8; }
+        .wi-cloudy { color: #94a3b8; }
+        .wi-fog { color: #94a3b8; }
+        .wi-sprinkle { color: #60a5fa; }
+        .wi-rain { color: #3b82f6; }
+        .wi-rain-wind { color: #2563eb; }
+        .wi-snow { color: #93c5fd; }
+        .wi-snow-wind { color: #93c5fd; }
+        .wi-showers { color: #3b82f6; }
+        .wi-storm-showers { color: #1d4ed8; }
+        .wi-thunderstorm { color: #7c3aed; }
+        .wi-raindrop { color: #60a5fa; }
+
         /* 5-DAY FORECAST */
         #slot-forecast .days-wrap { display: flex; justify-content: space-around; align-items: center; flex: 1; }
         .day-item { flex: 1; text-align: center; }
         .day-name { font-size: clamp(1rem, 1.6vw, 2rem); font-weight: 700; color: var(--slate-500); }
-        .day-item img { height: clamp(50px, 8vh, 100px); margin: 0.8vh auto; display: block; filter: drop-shadow(0 4px 6px #ccc); }
-        .day-high { font-size: clamp(1.2rem, 1.9vw, 2.4rem); font-weight: 800; margin-top: 0.4vh;color: #1e293b; }
-        .day-low  { font-size: clamp(0.9rem, 1.4vw, 1.7rem); font-weight: 600; color: #34495e; }
+        .day-high { font-size: clamp(1.2rem, 1.9vw, 2.4rem); font-weight: 800; margin-top: 0.4vh; color: #dc2626; }
+        .day-low  { font-size: clamp(0.9rem, 1.4vw, 1.7rem); font-weight: 600; color: #94a3b8; }
 
         /* HOURLY */
         #slot-hourly .hours-wrap { display: flex; justify-content: space-around; align-items: center; flex: 1; }
         .hour-item { flex: 1; text-align: center; }
         .h-time { font-size: clamp(0.9rem, 1.4vw, 1.8rem); font-weight: 700; color: var(--slate-500); }
-        .hour-item img { height: clamp(44px, 7vh, 90px); margin: 0.6vh auto; display: block; }
         .h-temp { font-size: clamp(1.2rem, 1.8vw, 2.4rem); font-weight: 800; color: #1e293b; }
-        .h-pop  { font-size: clamp(0.7rem, 1.1vw, 1.3rem); font-weight: 600; margin-top: 0.2vh; }
+        .h-pop  { font-size: clamp(0.85rem, 1.2vw, 1.5rem); font-weight: 700; margin-top: 0.3vh; color: #3b82f6; }
 
         /* SPORTS */
         #slot-sports .games-list { display: flex; flex-direction: column; gap: 1.2vh; flex: 1; justify-content: center; overflow: hidden; }
         .sport-label { font-size: clamp(0.7rem, 0.9vw, 1.1rem); font-weight: 800; color: var(--slate-500); text-transform: uppercase; letter-spacing: 1px; }
         .game-row {
-            display: flex; align-items: center;
-            background: rgba(240,246,255,0.6); backdrop-filter: blur(4px);
-            border-radius: 1.5vw; padding: 1vh 1.2vw; gap: 1vw;
-            border: 1px solid rgba(255,255,255,0.8);
+            display: flex; flex-direction: column;
+            background: rgba(255,255,255,0.85); backdrop-filter: blur(4px);
+            border-radius: 1.5vw; padding: 0.8vh 1.2vw; gap: 0.3vh;
+            border: 1px solid rgba(200,210,225,0.6);
         }
         .game-teams { display: flex; flex-direction: column; flex: 1; gap: 0.4vh; }
-        .game-team-line { display: flex; align-items: center; gap: 0.6vw; font-size: clamp(0.9rem, 1.3vw, 1.6rem); font-weight: 700; }
-        .team-logo { height: clamp(20px, 2.5vh, 36px); width: clamp(20px, 2.5vh, 36px); object-fit: contain; }
-        .game-score { font-size: clamp(1.2rem, 1.8vw, 2.2rem); font-weight: 800; min-width: 6vw; text-align: right; line-height: 1.25; }
+        .game-team-line { display: flex; align-items: center; gap: 0.6vw; font-size: clamp(0.9rem, 1.3vw, 1.6rem); font-weight: 700; color: #1a1a2e; }
+        .team-logo { height: clamp(20px, 2.5vh, 36px); width: clamp(20px, 2.5vh, 36px); object-fit: contain; background: white; border-radius: 50%; padding: 2px; box-shadow: 0 1px 3px rgba(0,0,0,0.12); }
+        .game-score { font-size: clamp(1.2rem, 1.8vw, 2.2rem); font-weight: 800; min-width: 5vw; text-align: right; line-height: 1.3; color: #1a1a2e; padding: 0 0.5em; }
         .game-status { font-size: clamp(0.75rem, 1vw, 1.3rem); font-weight: 600; color: var(--slate-500); min-width: 5vw; text-align: center; line-height: 1.4; }
         .kickoff { font-size: clamp(0.75rem, 1vw, 1.3rem); font-weight: 700; color: var(--blue-deep); min-width: 5vw; text-align: center; line-height: 1.4; }
         .live-indicator { display: inline-flex; align-items: center; gap: 0.4vw; color: var(--alert-red); font-weight: 800; }
         .live-dot { width: clamp(6px,0.7vw,12px); height: clamp(6px,0.7vw,12px); background: var(--alert-red); border-radius: 50%; display: inline-block; flex-shrink: 0; }
         .no-sports { font-size: clamp(1rem, 1.5vw, 1.9rem); color: var(--slate-500); text-align: center; padding: 2vh 0; }
+        .idle-row {
+            display: flex; align-items: center;
+            background: rgba(245,248,255,0.6); backdrop-filter: blur(4px);
+            border-radius: 1.5vw; padding: 0.8vh 1.2vw; gap: 0.8vw;
+            border: 1px solid rgba(255,255,255,0.8);
+        }
+        .idle-label { font-size: clamp(0.7rem, 0.9vw, 1.1rem); font-weight: 700; color: var(--slate-500); text-transform: uppercase; }
+        .idle-detail { font-size: clamp(0.8rem, 1.1vw, 1.4rem); font-weight: 600; color: #1e293b; flex: 1; }
+        .idle-sub { font-size: clamp(0.65rem, 0.85vw, 1rem); font-weight: 600; color: var(--slate-500); }
 
         /* ALERTS */
         #slot-alerts .alerts-list { display: flex; flex-direction: column; gap: 1.2vh; flex: 1; justify-content: center; overflow-y: auto; }
         .alert-item { background: rgba(254,226,226,0.75); backdrop-filter: blur(4px); border-left: 0.5vw solid var(--alert-red); padding: 1.4vh 1.5vw; border-radius: 1.2vw; font-size: clamp(0.9rem, 1.3vw, 1.6rem); font-weight: 600; }
 
+        /* DISRUPTIONS */
+        #slot-disruptions .alerts-list { display: flex; flex-direction: column; gap: 1vh; flex: 1; justify-content: center; overflow-y: auto; }
+        .disruption-item {
+            display: flex; align-items: center; gap: 1vw;
+            background: rgba(254,243,199,0.75); backdrop-filter: blur(4px);
+            border-left: 0.5vw solid #d97706;
+            padding: 1vh 1.2vw; border-radius: 1.2vw;
+            font-size: clamp(0.85rem, 1.2vw, 1.5rem); font-weight: 600;
+        }
+        .disruption-item.canceled { background: rgba(254,226,226,0.75); border-left-color: var(--alert-red); }
+        .disruption-badge {
+            font-size: clamp(0.7rem, 0.9vw, 1.1rem); font-weight: 800; color: white;
+            padding: 0.2em 0.6em; border-radius: 6px; white-space: nowrap; flex-shrink: 0;
+        }
+        .disruption-badge.delayed { background: #d97706; }
+        .disruption-badge.canceled { background: var(--alert-red); }
+        .no-disruptions { font-size: clamp(1rem, 1.5vw, 1.9rem); color: var(--success-green); text-align: center; padding: 2vh 0; font-weight: 600; }
+
         /* PROGRESS BAR */
-        .progress-container { position: fixed; bottom: 0; left: 0; width: 100%; height: clamp(10px, 1.2vh, 22px); background: rgba(0,0,0,0.08); backdrop-filter: blur(4px); z-index: 200; }
-        .progress-bar { height: 100%; width: 0%; background: linear-gradient(90deg, var(--blue-bright), var(--blue-glow)); border-radius: 0 6px 6px 0; }
-        .progress-bar.animate { animation: fill 15s linear forwards; }
+        .progress-container { position: fixed; bottom: 0; left: 0; width: 100%; height: clamp(6px, 0.8vh, 14px); background: rgba(0,0,0,0.06); z-index: 200; }
+        .progress-bar {
+            height: 100%; width: 0%;
+            background: linear-gradient(90deg, var(--blue-bright), var(--blue-glow), var(--blue-bright));
+            background-size: 200% 100%;
+            border-radius: 0 4px 4px 0;
+            will-change: width;
+        }
+        .progress-bar.animate {
+            animation: fill 15s cubic-bezier(0.1,0.4,0.9,0.6) forwards, shimmer 2s linear infinite;
+        }
         @keyframes fill { 0% { width:0%; } 100% { width:100%; } }
+        @keyframes shimmer { 0% { background-position:200% 0; } 100% { background-position:-200% 0; } }
 
         /* NIGHT MODE */
         body.night-mode { background: linear-gradient(145deg, #0d1422 0%, #04080f 100%); }
@@ -270,16 +335,24 @@
         body.night-mode .panel-title { color: #9bbdf0; }
         body.night-mode .info-panel-title { color: #9bbdf0; }
         body.night-mode .slot-dot.active { background: #7aa9f0; }
-        body.night-mode .game-row { background: rgba(25,40,60,0.6); border-color: rgba(255,255,255,0.05); }
+        body.night-mode .game-row { background: rgba(25,40,60,0.7); border-color: rgba(255,255,255,0.08); }
+        body.night-mode .game-team-line { color: #e2e8f0; }
+        body.night-mode .game-score { color: #f1f5f9; }
+        body.night-mode .h-pop { color: #60a5fa; }
+        body.night-mode .day-high { color: #f87171; }
+        body.night-mode .day-low { color: #64748b; }
         body.night-mode .help-widget { background: rgba(15,30,45,0.8); border-color: rgba(255,255,255,0.05); }
         body.night-mode .help-widget strong { color: #9bbdf0; }
         body.night-mode .help-widget p { color: #94a3b8; }
         body.night-mode .progress-bar { background: linear-gradient(90deg, #2b6bb0, #6190da); }
         body.night-mode tbody tr { border-color: rgba(255,255,255,0.05); }
         body.night-mode .status-completed { color: #94a3b8; }
+        body.night-mode .eta-canceled-time { color: #c8deff; }
         body.night-mode .alert-item { background: rgba(80,20,20,0.6); }
         body.night-mode .day-low { color: #94a3b8; }
         body.night-mode .h-temp { color: #e2e8f0; }
+        body.night-mode .bay-badge { background: #1a3a5c; }
+        body.night-mode .idle-row { background: rgba(25,40,60,0.4); border-color: rgba(255,255,255,0.05); }
     </style>
 </head>
 <body>
@@ -304,9 +377,10 @@
             <div class="table-outer">
                 <table>
                     <thead><tr>
-                        <th scope="col" style="width:16%">Route</th>
+                        <th scope="col" style="width:14%;text-align:center">Route</th>
                         <th scope="col">Destination</th>
-                        <th scope="col" class="time-col" style="width:32%">Departing</th>
+                        <th scope="col" class="time-col" style="width:28%">Departing</th>
+                        <th scope="col" style="width:10%;text-align:center">Bay</th>
                     </tr></thead>
                 </table>
                 <table style="flex:1;display:flex;flex-direction:column;">
@@ -324,7 +398,7 @@
                 <div class="table-outer">
                     <table>
                         <thead><tr>
-                            <th scope="col" style="width:20%">Route</th>
+                            <th scope="col" style="width:18%;text-align:center">Route</th>
                             <th scope="col">To</th>
                             <th scope="col" class="time-col" style="width:38%">Departing</th>
                         </tr></thead>
@@ -344,6 +418,14 @@
                 <div class="info-slot" id="slot-hourly"><div class="hours-wrap" id="hourly-hours"></div></div>
                 <div class="info-slot" id="slot-sports"><div class="games-list" id="sports-games"></div></div>
                 <div class="info-slot" id="slot-alerts"><div class="alerts-list" id="alerts-detail"></div></div>
+                <div class="info-slot" id="slot-disruptions"><div class="alerts-list" id="disruptions-detail"></div></div>
+                <div class="info-slot" id="slot-help">
+                    <div style="display:flex;flex-direction:column;justify-content:center;align-items:center;flex:1;gap:1vh;">
+                        <strong style="color:var(--blue-deep);font-size:clamp(1.2rem,1.8vw,2.4rem);font-weight:800;">Need Help?</strong>
+                        <p style="font-size:clamp(0.9rem,1.3vw,1.7rem);color:#1e2f3e;font-weight:500;line-height:1.4;text-align:center;">Lost &amp; Found or Route Questions?<br>Call Customer Service</p>
+                        <a href="tel:18005017433" style="font-size:clamp(1.4rem,2.4vw,3.4rem);font-weight:700;color:#c2410c;text-decoration:none;background:rgba(255,255,240,0.5);padding:0.25em 1em;border-radius:60px;white-space:nowrap;">1-800-501-7433</a>
+                    </div>
+                </div>
             </div>
         </div>
     </div>
@@ -355,11 +437,12 @@
             let allBuses=[], allFerries=[], allAlerts=[], allSports=[];
             let busIdx=0, ferryIdx=0;
             const ROWS=6;
-            const BASE_SLOTS=['forecast','hourly','sports'];
+            const BASE_SLOTS=['forecast','hourly','sports','help'];
             let activeSlots=[...BASE_SLOTS], slotIdx=0;
             const SLOT_TITLES={
                 forecast:'5-Day Forecast', hourly:'Next Few Hours',
-                sports:'Seattle Sports', alerts:'⚠️ Service Alerts'
+                sports:'Seattle Sports', alerts:'Service Alerts',
+                disruptions:'Trip Status', help:'Customer Service'
             };
 
             function applyProtection(){
@@ -431,6 +514,35 @@
                     allSports=d.sports||[];
                     renderSports();
 
+                    // Disruptions slot: canceled trips + delay/cancel alerts from feed
+                    const canceledBuses=(d.buses||[]).filter(b=>b.canceled);
+                    const delayAlerts=(d.alerts||[]).filter(a=>/delay|cancel/i.test(a));
+                    const disContainer=document.getElementById('disruptions-detail');
+                    if(canceledBuses.length||delayAlerts.length){
+                        let dHtml='';
+                        canceledBuses.forEach(b=>{
+                            dHtml+=`<div class="disruption-item canceled">
+                                <span class="disruption-badge canceled">CANCELLED</span>
+                                <span>Route ${b.route} to ${b.destination}</span>
+                            </div>`;
+                        });
+                        delayAlerts.forEach(a=>{
+                            const type=/cancel/i.test(a)?'canceled':'delayed';
+                            dHtml+=`<div class="disruption-item ${type}">
+                                <span class="disruption-badge ${type}">${type==='canceled'?'CANCELLED':'DELAYED'}</span>
+                                <span>${a.length>100?a.slice(0,100)+'...':a}</span>
+                            </div>`;
+                        });
+                        disContainer.innerHTML=dHtml;
+                        if(!activeSlots.includes('disruptions')){
+                            const idx=activeSlots.indexOf('sports');
+                            activeSlots.splice(idx>=0?idx+1:activeSlots.length,0,'disruptions');
+                        }
+                    } else {
+                        activeSlots=activeSlots.filter(s=>s!=='disruptions');
+                        if(slotIdx>=activeSlots.length) slotIdx=0;
+                    }
+
                     allBuses=d.buses||[];
                     allFerries=d.ferries||[];
                     const maxBus=Math.max(1,Math.ceil(allBuses.length/ROWS));
@@ -446,11 +558,11 @@
             const container=document.getElementById('sports-games');
             const todayStr=new Date().toDateString();
             const tomorrowStr=new Date(Date.now()+86400000).toDateString();
-            let activeGames=[], recentGames=[];
+            let activeGames=[], idleEntries=[];
 
             allSports.forEach(team=>{
                 if(team.mode==='idle'){
-                    if(team.last) recentGames.push({...team.last, teamName:team.name, state:'post', isRecent:true});
+                    idleEntries.push(team);
                     return;
                 }
                 const games=(team.games||[]).filter(g=>{
@@ -459,43 +571,39 @@
                     const gd=new Date(g.date).toDateString();
                     return gd===todayStr||gd===tomorrowStr;
                 });
-                games.forEach(g=>activeGames.push({...g,teamName:team.name}));
-                // also collect recent finals to use as padding
-                const cutoff = new Date(Date.now() - 3 * 24 * 60 * 60 * 1000);
-                const finals=(team.games||[]).filter(g=>g.state==='post' && new Date(g.date) > cutoff);
-                finals.forEach(g=>recentGames.push({...g,teamName:team.name,isRecent:true}));
+                games.forEach(g=>activeGames.push({...g,teamName:team.name,teamColor:team.color}));
+                if(!games.length){
+                    const cutoff=new Date(Date.now()-3*24*60*60*1000);
+                    const finals=(team.games||[]).filter(g=>g.state==='post'&&g.date&&new Date(g.date)>cutoff);
+                    if(finals.length) activeGames.push({...finals[0],teamName:team.name,teamColor:team.color,isRecent:true});
+                }
             });
 
             activeGames.sort((a,b)=>{
                 if(a.state==='in'&&b.state!=='in') return -1;
                 if(b.state==='in'&&a.state!=='in') return 1;
-                return new Date(a.date)-new Date(b.date);
+                return (a.date?new Date(a.date):new Date(0))-(b.date?new Date(b.date):new Date(0));
             });
 
-            // pad up to 3 with recent games
-            const combined=[...activeGames];
-            for(const r of recentGames){
-                if(combined.length>=3) break;
-                combined.push(r);
-            }
+            // Limit to 4 game cards
+            const combined=activeGames.slice(0,4);
 
-            if(!combined.length){
+            let html='';
+            if(!combined.length&&!idleEntries.length){
                 container.innerHTML='<div class="no-sports">No games today</div>';
                 return;
             }
 
-            // scale font based on number of games
             const count=combined.length;
-            const teamFontSize=count===1?'clamp(1.4rem,2vw,2.6rem)':count===2?'clamp(1.1rem,1.6vw,2rem)':'clamp(0.9rem,1.3vw,1.6rem)';
-            const scoreFontSize=count===1?'clamp(1.8rem,2.6vw,3.2rem)':count===2?'clamp(1.4rem,2vw,2.4rem)':'clamp(1.2rem,1.8vw,2.2rem)';
-            const logoSize=count===1?'clamp(32px,4vh,52px)':count===2?'clamp(24px,3vh,42px)':'clamp(20px,2.5vh,36px)';
+            const teamFs=count<=2?'clamp(1.1rem,1.5vw,2rem)':'clamp(0.85rem,1.2vw,1.5rem)';
+            const scoreFs=count<=2?'clamp(1.4rem,2vw,2.6rem)':'clamp(1.1rem,1.6vw,2rem)';
+            const logoSz=count<=2?'clamp(24px,3vh,40px)':'clamp(18px,2.2vh,30px)';
 
-            let html='';
             combined.forEach(g=>{
                 const isPre=g.state==='pre', isLive=g.state==='in', isFinal=g.state==='post';
                 const isTom=g.date&&new Date(g.date).toDateString()===tomorrowStr;
                 const scoreHtml=(isLive||isFinal)?
-                    `<div class="game-score" style="font-size:${scoreFontSize}">${g.away_score}<br>${g.home_score}</div>`:'';
+                    `<div class="game-score" style="font-size:${scoreFs}">${g.away_score}<br>${g.home_score}</div>`:'';
                 let statusHtml;
                 if(isPre){
                     const t=g.date?new Date(g.date).toLocaleTimeString([],{hour:'2-digit',minute:'2-digit'}):'TBD';
@@ -503,22 +611,31 @@
                 } else if(isLive){
                     statusHtml=`<div class="game-status"><span class="live-indicator"><span class="live-dot"></span> LIVE</span><br>${g.detail||''}</div>`;
                 } else {
-                    statusHtml=`<div class="game-status">${g.isRecent?'Yesterday':'Final'}</div>`;
+                    statusHtml=`<div class="game-status">${g.isRecent?(g.date_str||'Recent'):'Final'}</div>`;
                 }
-                html+=`<div class="game-row">
+                const awayLogo=g.away_logo?`<img class="team-logo" style="height:${logoSz};width:${logoSz}" src="${g.away_logo}" alt="" onerror="this.style.display='none'">`:'';
+                const homeLogo=g.home_logo?`<img class="team-logo" style="height:${logoSz};width:${logoSz}" src="${g.home_logo}" alt="" onerror="this.style.display='none'">`:'';
+                html+=`<div class="game-row" style="flex-direction:row;align-items:center;gap:1vw">
                     <div class="game-teams">
-                        <div class="game-team-line" style="font-size:${teamFontSize}">
-                            ${g.away_logo?`<img class="team-logo" style="height:${logoSize};width:${logoSize}" src="${g.away_logo}" alt="">`:''}
-                            ${g.away_name}
-                        </div>
-                        <div class="game-team-line" style="font-size:${teamFontSize}">
-                            ${g.home_logo?`<img class="team-logo" style="height:${logoSize};width:${logoSize}" src="${g.home_logo}" alt="">`:''}
-                            ${g.home_name}
-                        </div>
+                        <div class="game-team-line" style="font-size:${teamFs}">${awayLogo} ${g.away_name}</div>
+                        <div class="game-team-line" style="font-size:${teamFs}">${homeLogo} ${g.home_name}</div>
                     </div>
                     ${scoreHtml}${statusHtml}
                 </div>`;
             });
+
+            // Idle teams as compact lines
+            if(idleEntries.length&&combined.length<4){
+                idleEntries.slice(0,4-combined.length).forEach(team=>{
+                    let info='';
+                    if(team.next) info=`Next: ${team.next.date_str} ${team.next.time_str||''}`;
+                    else if(team.last) info=`Last: ${team.last.away_name} ${team.last.away_score}-${team.last.home_score} ${team.last.home_name}`;
+                    if(info) html+=`<div class="idle-row">
+                        <div style="font-size:clamp(0.7rem,0.9vw,1.1rem);font-weight:800;color:${team.color};text-transform:uppercase;min-width:6vw">${team.name}</div>
+                        <div class="idle-detail">${info}</div>
+                    </div>`;
+                });
+            }
 
             container.innerHTML=html||'<div class="no-sports">No games today</div>';
         }
@@ -548,7 +665,7 @@
                 body.innerHTML='';
 
                 if(!items.length){
-                    body.innerHTML=`<tr style="flex:1"><td colspan="3" style="justify-content:center;font-size:clamp(1rem,1.8vw,2.2rem);color:var(--slate-500);border:none;">
+                    body.innerHTML=`<tr style="flex:1"><td colspan="${isFerry?3:4}" style="justify-content:center;font-size:clamp(1rem,1.8vw,2.2rem);color:var(--slate-500);border:none;">
                         ${isFerry?'No More Sailings Today':'Service Resumes Tomorrow'}
                     </td></tr>`;
                     pInd.style.display='none'; return;
@@ -561,27 +678,41 @@
                 const page=items.slice(idx*ROWS,(idx+1)*ROWS);
                 page.forEach(i=>{
                     let timeHtml;
+                    const isCanceled=!isFerry&&i.canceled;
                     if(i.status==='COMPLETED'){
                         timeHtml=`<span class="status-completed">No More Sailings</span>`;
+                    } else if(isCanceled){
+                        timeHtml=`<span class="eta-canceled-time">${i.time_str||''}</span><span class="eta-canceled">CANCELLED</span>`;
                     } else if(i.eta==='BOARDING'||i.eta_seconds<=90){
-                        timeHtml=isFerry
-                            ?`<span class="eta-boarding">BOARDING</span>`
-                            :`<span class="eta-now">NOW</span>`;
+                        timeHtml=`<span class="eta-now">NOW</span>`;
                     } else {
-                        timeHtml=`<span class="eta-time">${isFerry?i.time_str:i.eta}</span>`;
+                        const isTomorrow=!isFerry&&i.eta&&i.eta.startsWith('Tomorrow');
+                        timeHtml=`<span class="eta-time${isTomorrow?' eta-tomorrow':''}">${isFerry?i.time_str:i.eta}</span>`;
                     }
-                    body.innerHTML+=`<tr style="flex:1">
-                      
-                        <td style="flex:0 0 ${isFerry?'24%':'16%'}"><span class="route-badge" style="background:${i.color};color:${i.text_color}">${i.route}</span></td></span></td>
-                        <td style="flex:1"><div class="dest-cell"><div class="dest-main">${i.destination}</div>${i.via?`<div class="dest-via">${i.via}</div>`:''}</div></td>
-                        <td class="time-col" style="flex:0 0 ${isFerry?'38%':'32%'}">${timeHtml}</td>
-                    </tr>`;
+                    const viaHtml=(!isFerry&&i.via)?`<div class="dest-via">${i.via}</div>`:'';
+                    if(isFerry){
+                        body.innerHTML+=`<tr style="flex:1">
+                            <td style="flex:0 0 18%;justify-content:center"><span class="route-badge" style="background:${i.color};color:${i.text_color}">${i.route}</span></td>
+                            <td style="flex:1"><div class="dest-cell"><div class="dest-main">${i.destination}</div></div></td>
+                            <td class="time-col" style="flex:0 0 38%">${timeHtml}</td>
+                        </tr>`;
+                    } else {
+                        const bayHtml=i.bay
+                            ?`<span class="bay-badge">${i.bay}</span>`
+                            :`<span class="bay-badge">&mdash;</span>`;
+                        body.innerHTML+=`<tr style="flex:1"${isCanceled?' class="canceled-row"':''}>
+                            <td style="flex:0 0 14%;justify-content:center"><span class="route-badge" style="background:${i.color};color:${i.text_color}">${i.route}</span></td>
+                            <td style="flex:1"><div class="dest-cell"><div class="dest-main">${i.destination}</div>${viaHtml}</div></td>
+                            <td class="time-col" style="flex:0 0 28%">${timeHtml}</td>
+                            <td style="flex:0 0 10%;justify-content:center">${bayHtml}</td>
+                        </tr>`;
+                    }
                 });
 
                 const emptyRows=ROWS-page.length;
                 if(!isFerry&&emptyRows>0&&items.length>0){
                     body.innerHTML+=`<tr style="flex:${emptyRows}">
-                        <td colspan="3" style="flex:1;padding:1vh 0;border:none;align-items:stretch;">
+                        <td colspan="4" style="flex:1;padding:1vh 0;border:none;align-items:stretch;">
                             <div class="help-widget">
                                 <strong>Need Help?</strong>
                                 <p>Lost &amp; Found or Route Questions?<br>Call Customer Service</p>
@@ -592,12 +723,11 @@
                 }
             }
 
-            function rotate(){
+            function rotateTables(){
                 const maxBus=Math.max(1,Math.ceil(allBuses.length/ROWS));
                 const maxFerry=Math.max(1,Math.ceil(allFerries.length/ROWS));
                 if(maxBus>1) busIdx=(busIdx+1)%maxBus;
                 if(maxFerry>1) ferryIdx=(ferryIdx+1)%maxFerry;
-                rotateInfoPanel();
                 render();
                 applyProtection();
                 triggerProgressBar();
@@ -607,7 +737,8 @@
                 applyProtection();
                 triggerProgressBar();
                 setInterval(fetchData,15000);
-                setInterval(rotate,15000);
+                setInterval(rotateTables,15000);
+                setInterval(rotateInfoPanel,10000);
             });
         })();
     </script>
