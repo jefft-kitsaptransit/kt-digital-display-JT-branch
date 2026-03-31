@@ -652,7 +652,7 @@ def build_board_data(all_trips=False):
             })
 
     # ALERT LOGIC
-    ALERT_EFFECTS_SHOW = {1, 3}
+    ALERT_EFFECTS_SHOW = {1, 3, 9}
     for e in raw_alerts:
         if e.HasField('alert'):
             try:
